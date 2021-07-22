@@ -1,0 +1,11 @@
+Broad steps
+1) install depclean and tool B
+2) identify files commonly applicable to bloatlibd and tools in 1)
+3) run tools in 1) on set of files by 2) to get accuracy, rt and space req
+
+22-07-2021
+Beginning with analyzing tools.
+Comparisons are with DepClean and tool B ( will name it soon)
+installed DepClean --- instructions at https://github.com/castor-software/depclean
+#need to fix environment variable minor issue
+Obtained tool b Named JIngredients--- https://github.com/takashi-ishio/JIngredients
