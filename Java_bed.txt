@@ -9,3 +9,5 @@ Comparisons are with DepClean and tool B ( will name it soon)
 installed DepClean --- instructions at https://github.com/castor-software/depclean
 #need to fix environment variable minor issue
 Obtained tool b Named JIngredients--- https://github.com/takashi-ishio/JIngredients
+Target -- 1)install tools --done
+		  2)get tools running
