@@ -274,9 +274,6 @@ def vectorize():
 if __name__ == "__main__":
 	nature, sim_files, sim_scores = detect_nature()
 	results = zip(sim_files, sim_scores)
-	print(results)
-	'''parser = argparse.ArgumentParser()
-	parser.add_argument("-jf", "--jar_file", type=str, default=None,dest="jar_file", help="jar file whose nature is to be detected.")
-	args = parser.parse_args()
-	print(args.jar_file)
-	decompile_jar(args.jar_file)'''
+	for f,score in results:
+		print(f)
+		print(score)
