@@ -9,5 +9,44 @@ Comparisons are with DepClean and tool B ( will name it soon)
 installed DepClean --- instructions at https://github.com/castor-software/depclean
 #need to fix environment variable minor issue
 Obtained tool b Named JIngredients--- https://github.com/takashi-ishio/JIngredients
-Target -- 1)install tools --done
+Target -- 1)install tools --half done
 		  2)get tools running
+23-07-2021
+found depclean-web (web version) (installing on local) instructions at https://github.com/castor-software/depclean-web 
+installing jingredients
+
+24-07-2021
+depclean cli chosen, takes as input maven project , downloads the requisite jars and then does analysis. output is list of dependencies used and unused (direct, transitive and inherited all are reported) direct-- defined in pom.xml
+							transitive -- deps of direct deps
+							inherited -- from parent
+installation	git clone the repo (mentioned above)
+				have jdk installed (version >=11)
+				install maven (either from website or use apt-get)
+				cd to cloned repo
+				run mvn clean install
+
+commands to do so --> cd to project
+					  mvn compile
+					  mvn compiler:testCompile
+					  mvn se.kth.castor:depclean-maven-plugin:2.0.2-SNAPSHOT:depclean 
+to do - capture result method 
+		find common lib set
+for capture result, plan to use regex (grep or python must choose?)
+https://stackoverflow.com/questions/4757426/maven-specify-the-outputdirectory-only-for-packaging-a-jar
+https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+add to pom.xml to specify output jar directory (mvn package -dDir "destination")
+    <profile>
+        <id>conf</id>
+        <build>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-jar-plugin</artifactId>
+                    <version>2.3.1</version>
+                    <configuration>
+                        <outputDirectory>${dir}</outputDirectory>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </build>
+    </profile>
