@@ -50,3 +50,9 @@ add to pom.xml to specify output jar directory (mvn package -dDir "destination")
             </plugins>
         </build>
     </profile>
+
+30-07-2021
+Data source: https://github.com/apache/maven-plugins https://repo.maven.apache.org/maven2/org/apache/maven/plugins/
+for updating compiler to 1.7 (otherwise mvn package won't work)
+sed -ir 's@</properties>@<maven.compiler.source>1.7</maven.compiler.source><maven.compiler.target>1.7</maven.compiler.target></properties>@g' $(grep -rEl  '</properties>' ./) replace compiler important for making maven jars (skipping license checks)
+mvn package -Dlicense.skip=true -Drat.skip=true
