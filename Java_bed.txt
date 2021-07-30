@@ -50,16 +50,3 @@ add to pom.xml to specify output jar directory (mvn package -dDir "destination")
             </plugins>
         </build>
     </profile>
-28-07-2021
-running jingredients in linux
-must adjust for classpath. 
-1) Clone code from git repo given above (line 11).
-2) Now extract from the lib folder, all jar files.
-3) copy all folders except META-INF and doc to the main directory of the Jingredients project
-4) compile using javac the .java files in src/sarf/jingredients/util folder. similarly do so for the src/sarf/jingredients/hash/ and src/sarf/jingredients/model/ folders.
-compilation format (assuming relevant directories are asm/,org/,gnu/ and soba/):- javac -cp asm/:org/:gnu/:soba/:"otherlocations":. file.java  
-5) Now copy the sarf folder to main directory
-6) run commands as given in readme of the project
-tool works completely
-Next steps construct common db for all
-           create script to measure RTs and accuracy

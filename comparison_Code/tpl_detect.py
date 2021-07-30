@@ -21,7 +21,7 @@ import threading
 
 MODELS = {"java":Doc2Vec.load("models/java_models/vec_5_ep_10.model")}
 
-cnxpool = mysql.connector.pooling.MySQLConnectionPool(pool_name = "pool",pool_size = 31,pool_reset_session = True,host="localhost",user="agrim",passwd="Q2E4T6u8o0",database="tpl_data")
+cnxpool = mysql.connector.pooling.MySQLConnectionPool(pool_name = "pool",pool_size = 31,pool_reset_session = True,host="localhost",user="root",passwd="55@Dewan",database="tpl_data")
 
 
 def get_connection():
