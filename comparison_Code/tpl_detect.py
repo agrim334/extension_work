@@ -18,6 +18,7 @@ from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 from concurrent.futures import ThreadPoolExecutor,as_completed
 from sklearn.metrics.pairwise import cosine_similarity
 import threading
+import time
 
 MODELS = {"java":Doc2Vec.load("models/java_models/vec_5_ep_10.model")}
 
@@ -272,8 +273,11 @@ def vectorize():
 	return
 		
 if __name__ == "__main__":
+	start = time.process_time()
 	nature, sim_files, sim_scores = detect_nature()
 	results = zip(sim_files, sim_scores)
 	for f,score in results:
 		print(f)
 		print(score)
+	print(nature)
+	print("Response time " + str(time.process_time() - start))

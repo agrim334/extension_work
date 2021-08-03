@@ -31,10 +31,39 @@ commands to do so --> cd to project
 					  mvn se.kth.castor:depclean-maven-plugin:2.0.2-SNAPSHOT:depclean 
 to do - capture result method 
 		find common lib set
+
 for capture result, plan to use regex (grep or python must choose?)
+
 https://stackoverflow.com/questions/4757426/maven-specify-the-outputdirectory-only-for-packaging-a-jar
+
 https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
-add to pom.xml to specify output jar directory (mvn package -dDir "destination")
+
+
+30-07-2021
+
+Data source: https://github.com/apache/maven-plugins https://repo.maven.apache.org/maven2/org/apache/maven/plugins/
+
+Jingredients 
+
+1) First compile all .java files in the Repo as follows (for windows use cmd to run command and ; in place of : as separator) E.g:
+    javac -cp lib/:src/ src/sarf/jingredients/hash/*.java
+    javac -cp lib/:src/ src/sarf/jingredients/model/*.java
+    javac -cp lib/:src/ src/sarf/jingredients/util/*.java
+    javac -cp lib/:src/ src/sarf/jingredients/*.java
+
+2) Then do as the github repo for Jingredients instructs
+    run each java command by also attaching the -cp flag as above
+    E.g.
+    java -cp lib/:src/ sarf.jingredients.CreateValidJarList
+
+Converting maven projects to jars
+1) must update updating compiler used for compilation to JavaSE1.7 (otherwise mvn package won't work)
+
+    sed -ir 's@</properties>@<maven.compiler.source>1.7</maven.compiler.source><maven.compiler.target>1.7</maven.compiler.target></properties>@g' $(grep -rEl  '</properties>' ./)  
+2)
+for making maven jars (skipping license checks which may throw error) ----  mvn package -Dlicense.skip=true -Drat.skip=true
+
+3) optionally, add to pom.xml to specify output jar directory (mvn package -dDir "destination")
     <profile>
         <id>conf</id>
         <build>
@@ -50,9 +79,3 @@ add to pom.xml to specify output jar directory (mvn package -dDir "destination")
             </plugins>
         </build>
     </profile>
-
-30-07-2021
-Data source: https://github.com/apache/maven-plugins https://repo.maven.apache.org/maven2/org/apache/maven/plugins/
-for updating compiler to 1.7 (otherwise mvn package won't work)
-sed -ir 's@</properties>@<maven.compiler.source>1.7</maven.compiler.source><maven.compiler.target>1.7</maven.compiler.target></properties>@g' $(grep -rEl  '</properties>' ./) replace compiler important for making maven jars (skipping license checks)
-mvn package -Dlicense.skip=true -Drat.skip=true
