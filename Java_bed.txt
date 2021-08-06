@@ -45,18 +45,21 @@ Data source: https://github.com/apache/maven-plugins https://repo.maven.apache.o
 
 Jingredients 
 
-1) First compile all .java files in the Repo as follows (for windows use cmd to run command and ; in place of : as separator) E.g:
+1) Extract all the jars in the lib folder of the cloned Jingredients repo and move the internal folders for each jar to the lib folder (ignore the META folder for each jar)
+
+2) First compile all .java files in the Repo as follows (for windows use cmd to run command and ; in place of : as separator) E.g:
     javac -cp lib/:src/ src/sarf/jingredients/hash/*.java
     javac -cp lib/:src/ src/sarf/jingredients/model/*.java
     javac -cp lib/:src/ src/sarf/jingredients/util/*.java
     javac -cp lib/:src/ src/sarf/jingredients/*.java
 
-2) Then do as the github repo for Jingredients instructs
+3) Then do as the github repo for Jingredients instructs
     run each java command by also attaching the -cp flag as above
     E.g.
     java -cp lib/:src/ sarf.jingredients.CreateValidJarList
 
 Converting maven projects to jars
+
 1) must update updating compiler used for compilation to JavaSE1.7 (otherwise mvn package won't work)
 
     sed -ir 's@</properties>@<maven.compiler.source>1.7</maven.compiler.source><maven.compiler.target>1.7</maven.compiler.target></properties>@g' $(grep -rEl  '</properties>' ./)  
