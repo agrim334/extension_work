@@ -1,0 +1,2574 @@
+manim/logo/logo.py
+
+real	0m0.092s
+user	0m0.087s
+sys	0m0.005s
+manim/manimlib/utils/color.py
+
+real	0m0.083s
+user	0m0.074s
+sys	0m0.009s
+manim/manimlib/utils/rate_functions.py
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
+manim/manimlib/utils/space_ops.py
+--- original/manim/manimlib/utils/space_ops.py
++++ fixed/manim/manimlib/utils/space_ops.py
+@@ -1,5 +1,4 @@
+ import numpy as np
+-import itertools as it
+ import math
+ from mapbox_earcut import triangulate_float32 as earcut
+ 
+
+real	0m0.149s
+user	0m0.144s
+sys	0m0.005s
+manim/manimlib/utils/customization.py
+
+real	0m0.080s
+user	0m0.068s
+sys	0m0.012s
+manim/manimlib/utils/iterables.py
+
+real	0m0.093s
+user	0m0.082s
+sys	0m0.012s
+manim/manimlib/utils/__init__.py
+
+real	0m0.078s
+user	0m0.070s
+sys	0m0.008s
+manim/manimlib/utils/sounds.py
+
+real	0m0.076s
+user	0m0.072s
+sys	0m0.004s
+manim/manimlib/utils/bezier.py
+
+real	0m0.103s
+user	0m0.095s
+sys	0m0.008s
+manim/manimlib/utils/tex_file_writing.py
+
+real	0m0.090s
+user	0m0.089s
+sys	0m0.000s
+manim/manimlib/utils/simple_functions.py
+
+real	0m0.086s
+user	0m0.082s
+sys	0m0.004s
+manim/manimlib/utils/strings.py
+
+real	0m0.085s
+user	0m0.076s
+sys	0m0.008s
+manim/manimlib/utils/paths.py
+
+real	0m0.089s
+user	0m0.072s
+sys	0m0.016s
+manim/manimlib/utils/file_ops.py
+
+real	0m0.090s
+user	0m0.077s
+sys	0m0.012s
+manim/manimlib/utils/images.py
+
+real	0m0.091s
+user	0m0.082s
+sys	0m0.009s
+manim/manimlib/utils/config_ops.py
+
+real	0m0.098s
+user	0m0.089s
+sys	0m0.008s
+manim/manimlib/utils/directories.py
+
+real	0m0.083s
+user	0m0.070s
+sys	0m0.012s
+manim/manimlib/utils/init_config.py
+
+real	0m0.097s
+user	0m0.089s
+sys	0m0.008s
+manim/manimlib/utils/family_ops.py
+
+real	0m0.093s
+user	0m0.073s
+sys	0m0.020s
+manim/manimlib/utils/debug.py
+
+real	0m0.082s
+user	0m0.078s
+sys	0m0.004s
+manim/manimlib/window.py
+
+real	0m0.121s
+user	0m0.104s
+sys	0m0.016s
+manim/manimlib/animation/fading.py
+
+real	0m0.107s
+user	0m0.095s
+sys	0m0.012s
+manim/manimlib/animation/specialized.py
+
+real	0m0.103s
+user	0m0.086s
+sys	0m0.016s
+manim/manimlib/animation/movement.py
+
+real	0m0.105s
+user	0m0.105s
+sys	0m0.000s
+manim/manimlib/animation/numbers.py
+
+real	0m0.080s
+user	0m0.079s
+sys	0m0.001s
+manim/manimlib/animation/indication.py
+
+real	0m0.114s
+user	0m0.110s
+sys	0m0.004s
+manim/manimlib/animation/__init__.py
+
+real	0m0.080s
+user	0m0.071s
+sys	0m0.009s
+manim/manimlib/animation/growing.py
+
+real	0m0.093s
+user	0m0.074s
+sys	0m0.019s
+manim/manimlib/animation/composition.py
+
+real	0m0.108s
+user	0m0.088s
+sys	0m0.020s
+manim/manimlib/animation/transform.py
+
+real	0m0.123s
+user	0m0.114s
+sys	0m0.008s
+manim/manimlib/animation/animation.py
+
+real	0m0.092s
+user	0m0.079s
+sys	0m0.012s
+manim/manimlib/animation/transform_matching_parts.py
+
+real	0m0.096s
+user	0m0.088s
+sys	0m0.008s
+manim/manimlib/animation/creation.py
+
+real	0m0.100s
+user	0m0.096s
+sys	0m0.004s
+manim/manimlib/animation/rotation.py
+
+real	0m0.099s
+user	0m0.086s
+sys	0m0.012s
+manim/manimlib/animation/update.py
+
+real	0m0.085s
+user	0m0.076s
+sys	0m0.008s
+manim/manimlib/shader_wrapper.py
+
+real	0m0.094s
+user	0m0.090s
+sys	0m0.004s
+manim/manimlib/config.py
+
+real	0m0.121s
+user	0m0.117s
+sys	0m0.004s
+manim/manimlib/__main__.py
+
+real	0m0.087s
+user	0m0.074s
+sys	0m0.013s
+manim/manimlib/camera/__init__.py
+
+real	0m0.128s
+user	0m0.100s
+sys	0m0.028s
+manim/manimlib/camera/camera.py
+
+real	0m0.124s
+user	0m0.108s
+sys	0m0.016s
+manim/manimlib/__init__.py
+
+real	0m0.112s
+user	0m0.100s
+sys	0m0.012s
+manim/manimlib/extract_scene.py
+
+real	0m0.105s
+user	0m0.100s
+sys	0m0.004s
+manim/manimlib/mobject/coordinate_systems.py
+
+real	0m0.118s
+user	0m0.102s
+sys	0m0.016s
+manim/manimlib/mobject/number_line.py
+
+real	0m0.095s
+user	0m0.071s
+sys	0m0.024s
+manim/manimlib/mobject/changing.py
+
+real	0m0.087s
+user	0m0.079s
+sys	0m0.008s
+manim/manimlib/mobject/vector_field.py
+
+real	0m0.101s
+user	0m0.093s
+sys	0m0.008s
+manim/manimlib/mobject/three_dimensions.py
+
+real	0m0.094s
+user	0m0.085s
+sys	0m0.008s
+manim/manimlib/mobject/numbers.py
+
+real	0m0.091s
+user	0m0.075s
+sys	0m0.016s
+manim/manimlib/mobject/interactive.py
+
+real	0m0.117s
+user	0m0.117s
+sys	0m0.000s
+manim/manimlib/mobject/frame.py
+
+real	0m0.082s
+user	0m0.063s
+sys	0m0.019s
+manim/manimlib/mobject/__init__.py
+
+real	0m0.082s
+user	0m0.074s
+sys	0m0.008s
+manim/manimlib/mobject/probability.py
+
+real	0m0.099s
+user	0m0.091s
+sys	0m0.008s
+manim/manimlib/mobject/shape_matchers.py
+
+real	0m0.089s
+user	0m0.077s
+sys	0m0.012s
+manim/manimlib/mobject/value_tracker.py
+
+real	0m0.098s
+user	0m0.082s
+sys	0m0.016s
+manim/manimlib/mobject/mobject_update_utils.py
+
+real	0m0.080s
+user	0m0.064s
+sys	0m0.016s
+manim/manimlib/mobject/svg/drawings.py
+
+real	0m0.108s
+user	0m0.096s
+sys	0m0.012s
+manim/manimlib/mobject/svg/svg_mobject.py
+
+real	0m0.111s
+user	0m0.102s
+sys	0m0.008s
+manim/manimlib/mobject/svg/__init__.py
+
+real	0m0.082s
+user	0m0.066s
+sys	0m0.015s
+manim/manimlib/mobject/svg/text_mobject.py
+
+real	0m0.120s
+user	0m0.112s
+sys	0m0.008s
+manim/manimlib/mobject/svg/brace.py
+
+real	0m0.096s
+user	0m0.084s
+sys	0m0.012s
+manim/manimlib/mobject/svg/tex_mobject.py
+--- original/manim/manimlib/mobject/svg/tex_mobject.py
++++ fixed/manim/manimlib/mobject/svg/tex_mobject.py
+@@ -1,7 +1,6 @@
+ from functools import reduce
+ import operator as op
+ import re
+-import itertools as it
+ 
+ from manimlib.constants import *
+ from manimlib.mobject.geometry import Line
+
+real	0m0.126s
+user	0m0.114s
+sys	0m0.012s
+manim/manimlib/mobject/geometry.py
+
+real	0m0.140s
+user	0m0.136s
+sys	0m0.004s
+manim/manimlib/mobject/matrix.py
+
+real	0m0.099s
+user	0m0.095s
+sys	0m0.004s
+manim/manimlib/mobject/mobject.py
+
+real	0m0.201s
+user	0m0.197s
+sys	0m0.004s
+manim/manimlib/mobject/functions.py
+
+real	0m0.087s
+user	0m0.075s
+sys	0m0.012s
+manim/manimlib/mobject/types/point_cloud_mobject.py
+
+real	0m0.089s
+user	0m0.084s
+sys	0m0.004s
+manim/manimlib/mobject/types/image_mobject.py
+
+real	0m0.091s
+user	0m0.075s
+sys	0m0.016s
+manim/manimlib/mobject/types/vectorized_mobject.py
+
+real	0m0.160s
+user	0m0.155s
+sys	0m0.004s
+manim/manimlib/mobject/types/__init__.py
+
+real	0m0.079s
+user	0m0.062s
+sys	0m0.016s
+manim/manimlib/mobject/types/surface.py
+
+real	0m0.100s
+user	0m0.091s
+sys	0m0.009s
+manim/manimlib/mobject/types/dot_cloud.py
+
+real	0m0.091s
+user	0m0.087s
+sys	0m0.004s
+manim/manimlib/scene/three_d_scene.py
+
+real	0m0.082s
+user	0m0.077s
+sys	0m0.004s
+manim/manimlib/scene/__init__.py
+
+real	0m0.079s
+user	0m0.063s
+sys	0m0.016s
+manim/manimlib/scene/sample_space_scene.py
+
+real	0m0.095s
+user	0m0.079s
+sys	0m0.016s
+manim/manimlib/scene/scene.py
+--- original/manim/manimlib/scene/scene.py
++++ fixed/manim/manimlib/scene/scene.py
+@@ -83,7 +83,6 @@
+         are comonly subclassed, and have some common setup
+         involved before the construct method is called.
+         """
+-        pass
+ 
+     def construct(self):
+         # Where all the animation happens
+
+real	0m0.160s
+user	0m0.147s
+sys	0m0.012s
+manim/manimlib/scene/vector_space_scene.py
+
+real	0m0.117s
+user	0m0.109s
+sys	0m0.008s
+manim/manimlib/scene/scene_file_writer.py
+
+real	0m0.098s
+user	0m0.082s
+sys	0m0.016s
+manim/manimlib/event_handler/__init__.py
+
+real	0m0.074s
+user	0m0.066s
+sys	0m0.008s
+manim/manimlib/event_handler/event_dispatcher.py
+
+real	0m0.085s
+user	0m0.068s
+sys	0m0.017s
+manim/manimlib/event_handler/event_listner.py
+
+real	0m0.083s
+user	0m0.070s
+sys	0m0.012s
+manim/manimlib/event_handler/event_type.py
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
+manim/manimlib/once_useful_constructs/arithmetic.py
+
+real	0m0.090s
+user	0m0.082s
+sys	0m0.008s
+manim/manimlib/once_useful_constructs/combinatorics.py
+
+real	0m0.090s
+user	0m0.082s
+sys	0m0.008s
+manim/manimlib/once_useful_constructs/graph_theory.py
+
+real	0m0.111s
+user	0m0.107s
+sys	0m0.004s
+manim/manimlib/once_useful_constructs/complex_transformation_scene.py
+
+real	0m0.092s
+user	0m0.068s
+sys	0m0.024s
+manim/manimlib/once_useful_constructs/__init__.py
+
+real	0m0.079s
+user	0m0.075s
+sys	0m0.004s
+manim/manimlib/once_useful_constructs/reconfigurable_scene.py
+--- original/manim/manimlib/once_useful_constructs/reconfigurable_scene.py
++++ fixed/manim/manimlib/once_useful_constructs/reconfigurable_scene.py
+@@ -1,5 +1,4 @@
+ from manimlib.animation.transform import Transform
+-from manimlib.constants import *
+ from manimlib.mobject.mobject import Mobject
+ from manimlib.scene.scene import Scene
+ 
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.012s
+manim/manimlib/once_useful_constructs/matrix_multiplication.py
+
+real	0m0.093s
+user	0m0.073s
+sys	0m0.020s
+manim/manimlib/once_useful_constructs/counting.py
+
+real	0m0.098s
+user	0m0.090s
+sys	0m0.008s
+manim/manimlib/once_useful_constructs/region.py
+--- original/manim/manimlib/once_useful_constructs/region.py
++++ fixed/manim/manimlib/once_useful_constructs/region.py
+@@ -1,7 +1,6 @@
+ from copy import deepcopy
+ import itertools as it
+ 
+-from manimlib.constants import *
+ from manimlib.mobject.mobject import Mobject
+ from manimlib.utils.iterables import adjacent_pairs
+ 
+
+real	0m0.095s
+user	0m0.087s
+sys	0m0.008s
+manim/manimlib/once_useful_constructs/light.py
+
+real	0m0.124s
+user	0m0.107s
+sys	0m0.016s
+manim/manimlib/once_useful_constructs/fractals.py
+
+real	0m0.128s
+user	0m0.116s
+sys	0m0.012s
+manim/manimlib/once_useful_constructs/graph_scene.py
+
+real	0m0.121s
+user	0m0.104s
+sys	0m0.016s
+manim/manimlib/constants.py
+
+real	0m0.082s
+user	0m0.082s
+sys	0m0.000s
+manim/docs/source/manim_example_ext.py
+--- original/manim/docs/source/manim_example_ext.py
++++ fixed/manim/docs/source/manim_example_ext.py
+@@ -1,8 +1,7 @@
+ from docutils import nodes
+-from docutils.parsers.rst import directives, Directive
++from docutils.parsers.rst import Directive
+ 
+ import jinja2
+-import os
+ 
+ 
+ class skip_manim_node(nodes.Admonition, nodes.Element):
+
+real	0m0.082s
+user	0m0.078s
+sys	0m0.004s
+manim/docs/source/conf.py
+
+real	0m0.082s
+user	0m0.071s
+sys	0m0.012s
+manim/docs/example.py
+
+real	0m0.085s
+user	0m0.081s
+sys	0m0.004s
+manim/example_scenes.py
+
+real	0m0.122s
+user	0m0.106s
+sys	0m0.016s
+PythonPlantsVsZombies/main.py
+
+real	0m0.081s
+user	0m0.073s
+sys	0m0.008s
+PythonPlantsVsZombies/source/state/mainmenu.py
+--- original/PythonPlantsVsZombies/source/state/mainmenu.py
++++ fixed/PythonPlantsVsZombies/source/state/mainmenu.py
+@@ -1,6 +1,5 @@
+ __author__ = 'marble_xu'
+ 
+-import pygame as pg
+ from .. import tool
+ from .. import constants as c
+ 
+
+real	0m0.083s
+user	0m0.083s
+sys	0m0.000s
+PythonPlantsVsZombies/source/state/__init__.py
+
+real	0m0.078s
+user	0m0.074s
+sys	0m0.004s
+PythonPlantsVsZombies/source/state/level.py
+
+real	0m0.140s
+user	0m0.135s
+sys	0m0.004s
+PythonPlantsVsZombies/source/state/screen.py
+--- original/PythonPlantsVsZombies/source/state/screen.py
++++ fixed/PythonPlantsVsZombies/source/state/screen.py
+@@ -1,6 +1,5 @@
+ __author__ = 'marble_xu'
+ 
+-import pygame as pg
+ from .. import tool
+ from .. import constants as c
+ 
+
+real	0m0.086s
+user	0m0.078s
+sys	0m0.008s
+PythonPlantsVsZombies/source/tool.py
+
+real	0m0.094s
+user	0m0.074s
+sys	0m0.019s
+PythonPlantsVsZombies/source/__init__.py
+
+real	0m0.076s
+user	0m0.064s
+sys	0m0.012s
+PythonPlantsVsZombies/source/main.py
+
+real	0m0.081s
+user	0m0.061s
+sys	0m0.020s
+PythonPlantsVsZombies/source/component/__init__.py
+
+real	0m0.077s
+user	0m0.073s
+sys	0m0.004s
+PythonPlantsVsZombies/source/component/menubar.py
+
+real	0m0.124s
+user	0m0.104s
+sys	0m0.020s
+PythonPlantsVsZombies/source/component/zombie.py
+
+real	0m0.118s
+user	0m0.102s
+sys	0m0.016s
+PythonPlantsVsZombies/source/component/map.py
+--- original/PythonPlantsVsZombies/source/component/map.py
++++ fixed/PythonPlantsVsZombies/source/component/map.py
+@@ -1,8 +1,6 @@
+ __author__ = 'marble_xu'
+ 
+ import random
+-import pygame as pg
+-from .. import tool
+ from .. import constants as c
+ 
+ class Map():
+
+real	0m0.087s
+user	0m0.079s
+sys	0m0.008s
+PythonPlantsVsZombies/source/component/plant.py
+
+real	0m0.166s
+user	0m0.162s
+sys	0m0.004s
+PythonPlantsVsZombies/source/constants.py
+
+real	0m0.087s
+user	0m0.074s
+sys	0m0.012s
+rebound/setup.py
+
+real	0m0.086s
+user	0m0.082s
+sys	0m0.004s
+rebound/rebound/__main__.py
+--- original/rebound/rebound/__main__.py
++++ fixed/rebound/rebound/__main__.py
+@@ -1,4 +1,3 @@
+-import sys
+ from rebound import main
+ 
+ if __name__ == "__main__":
+
+real	0m0.076s
+user	0m0.072s
+sys	0m0.004s
+rebound/rebound/__init__.py
+
+real	0m0.070s
+user	0m0.070s
+sys	0m0.000s
+rebound/rebound/rebound.py
+--- original/rebound/rebound/rebound.py
++++ fixed/rebound/rebound/rebound.py
+@@ -13,7 +13,6 @@
+ from subprocess import PIPE, Popen
+ from threading import Thread
+ import webbrowser
+-import time
+ from urwid.widget import (BOX, FLOW, FIXED)
+ import random
+ 
+
+real	0m0.192s
+user	0m0.172s
+sys	0m0.020s
+rebound/tests/python_test.py
+
+real	0m0.080s
+user	0m0.075s
+sys	0m0.004s
+rebound/tests/__init__.py
+
+real	0m0.076s
+user	0m0.071s
+sys	0m0.005s
+xonsh/xontrib/voxapi.py
+
+real	0m0.097s
+user	0m0.085s
+sys	0m0.012s
+xonsh/xontrib/distributed.py
+
+real	0m0.085s
+user	0m0.070s
+sys	0m0.015s
+xonsh/xontrib/free_cwd.py
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.012s
+xonsh/xontrib/jedi.py
+
+real	0m0.091s
+user	0m0.071s
+sys	0m0.020s
+xonsh/xontrib/vox.py
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.012s
+xonsh/xontrib/pdb.py
+
+real	0m0.081s
+user	0m0.080s
+sys	0m0.000s
+xonsh/xontrib/mplhooks.py
+
+real	0m0.089s
+user	0m0.081s
+sys	0m0.008s
+xonsh/xontrib/mpl.py
+
+real	0m0.086s
+user	0m0.082s
+sys	0m0.004s
+xonsh/xontrib/whole_word_jumping.py
+
+real	0m0.085s
+user	0m0.077s
+sys	0m0.008s
+xonsh/xontrib/coreutils.py
+
+real	0m0.089s
+user	0m0.088s
+sys	0m0.000s
+xonsh/xontrib/prompt_ret_code.py
+
+real	0m0.081s
+user	0m0.061s
+sys	0m0.020s
+xonsh/xontrib/bashisms.py
+
+real	0m0.090s
+user	0m0.081s
+sys	0m0.008s
+xonsh/xontrib/xog.py
+
+real	0m0.081s
+user	0m0.073s
+sys	0m0.008s
+xonsh/xontrib/autovox.py
+
+real	0m0.085s
+user	0m0.081s
+sys	0m0.004s
+xonsh/xontrib/abbrevs.py
+
+real	0m0.082s
+user	0m0.078s
+sys	0m0.004s
+xonsh/xonsh/built_ins.py
+
+real	0m0.131s
+user	0m0.115s
+sys	0m0.016s
+xonsh/xonsh/imphooks.py
+
+real	0m0.095s
+user	0m0.087s
+sys	0m0.008s
+xonsh/xonsh/codecache.py
+
+real	0m0.092s
+user	0m0.087s
+sys	0m0.004s
+xonsh/xonsh/execer.py
+
+real	0m0.096s
+user	0m0.076s
+sys	0m0.020s
+xonsh/xonsh/ply/ply/cpp.py
+
+real	0m0.138s
+user	0m0.126s
+sys	0m0.012s
+xonsh/xonsh/ply/ply/lex.py
+
+real	0m0.150s
+user	0m0.137s
+sys	0m0.012s
+xonsh/xonsh/ply/ply/ctokens.py
+
+real	0m0.084s
+user	0m0.068s
+sys	0m0.016s
+xonsh/xonsh/ply/ply/__init__.py
+
+real	0m0.071s
+user	0m0.063s
+sys	0m0.008s
+xonsh/xonsh/ply/ply/ygen.py
+
+real	0m0.090s
+user	0m0.070s
+sys	0m0.019s
+xonsh/xonsh/ply/ply/yacc.py
+
+real	0m0.278s
+user	0m0.266s
+sys	0m0.012s
+xonsh/xonsh/pytest_plugin.py
+
+real	0m0.087s
+user	0m0.082s
+sys	0m0.005s
+xonsh/xonsh/procs/pipelines.py
+
+real	0m0.128s
+user	0m0.116s
+sys	0m0.012s
+xonsh/xonsh/procs/readers.py
+
+real	0m0.104s
+user	0m0.100s
+sys	0m0.004s
+xonsh/xonsh/procs/__init__.py
+
+real	0m0.077s
+user	0m0.061s
+sys	0m0.016s
+xonsh/xonsh/procs/posix.py
+
+real	0m0.112s
+user	0m0.100s
+sys	0m0.012s
+xonsh/xonsh/procs/proxies.py
+
+real	0m0.124s
+user	0m0.116s
+sys	0m0.008s
+xonsh/xonsh/procs/specs.py
+
+real	0m0.136s
+user	0m0.120s
+sys	0m0.016s
+xonsh/xonsh/lib/__init__.py
+
+real	0m0.078s
+user	0m0.055s
+sys	0m0.023s
+xonsh/xonsh/lib/itertools.py
+
+real	0m0.081s
+user	0m0.068s
+sys	0m0.013s
+xonsh/xonsh/lib/collections.py
+
+real	0m0.083s
+user	0m0.067s
+sys	0m0.016s
+xonsh/xonsh/lexer.py
+--- original/xonsh/xonsh/lexer.py
++++ fixed/xonsh/xonsh/lexer.py
+@@ -435,7 +435,6 @@
+ 
+     def build(self, **kwargs):
+         """Part of the PLY lexer API."""
+-        pass
+ 
+     def reset(self):
+         pass
+
+real	0m0.146s
+user	0m0.137s
+sys	0m0.008s
+xonsh/xonsh/dirstack.py
+
+real	0m0.114s
+user	0m0.102s
+sys	0m0.012s
+xonsh/xonsh/pygments_cache.py
+
+real	0m0.110s
+user	0m0.102s
+sys	0m0.008s
+xonsh/xonsh/tokenize.py
+
+real	0m0.144s
+user	0m0.136s
+sys	0m0.008s
+xonsh/xonsh/contexts.py
+
+real	0m0.083s
+user	0m0.071s
+sys	0m0.012s
+xonsh/xonsh/parsers/base.py
+--- original/xonsh/xonsh/parsers/base.py
++++ fixed/xonsh/xonsh/parsers/base.py
+@@ -1784,25 +1784,21 @@
+ 
+     def p_nodedent_any(self, p):
+         """nodedent : INDENT any_dedent_toks DEDENT"""
+-        pass
+ 
+     def p_nodedent_many(self, p):
+         """nodedent : nodedent nodedent"""
+-        pass
+ 
+     def p_any_dedent_tok(self, p):
+         """
+         any_dedent_tok : nodedent
+                        | DEDENT
+         """
+-        pass
+ 
+     def p_any_dedent_toks(self, p):
+         """
+         any_dedent_toks : any_dedent_tok
+                         | any_dedent_toks any_dedent_tok
+         """
+-        pass
+ 
+     def _attach_nonewline_base_rules(self):
+         toks = set(self.tokens)
+@@ -1832,11 +1828,9 @@
+ 
+     def p_nonewline_any(self, p):
+         """nonewline : any_nested_raw"""
+-        pass
+ 
+     def p_nonewline_many(self, p):
+         """nonewline : nonewline nonewline"""
+-        pass
+ 
+     def p_test_ol(self, p):
+         """
+@@ -2446,11 +2440,9 @@
+ 
+     def p_nocloser_any(self, p):
+         """nocloser : any_nested_raw"""
+-        pass
+ 
+     def p_nocloser_many(self, p):
+         """nocloser : nocloser nocloser"""
+-        pass
+ 
+     def p_string_literal(self, p):
+         """string_literal : string_tok"""
+@@ -2640,19 +2632,15 @@
+         any_raw_tok : nocomma
+                     | COMMA
+         """
+-        pass
+ 
+     def p_any_raw_toks_one(self, p):
+         """any_raw_toks : any_raw_tok"""
+-        pass
+ 
+     def p_any_raw_toks_many(self, p):
+         """any_raw_toks : any_raw_toks any_raw_tok"""
+-        pass
+ 
+     def p_nocomma_part_tok(self, p):
+         """nocomma_part : nocomma_tok"""
+-        pass
+ 
+     def p_any_nested_raw(self, p):
+         """
+@@ -2667,19 +2655,15 @@
+                        | DOLLAR_LBRACKET any_raw_toks_opt RBRACKET
+                        | ATDOLLAR_LPAREN any_raw_toks_opt RPAREN
+         """
+-        pass
+ 
+     def p_nocomma_part_any(self, p):
+         """nocomma_part : any_nested_raw"""
+-        pass
+ 
+     def p_nocomma_base(self, p):
+         """nocomma : nocomma_part"""
+-        pass
+ 
+     def p_nocomma_append(self, p):
+         """nocomma : nocomma nocomma_part"""
+-        pass
+ 
+     def p_comma_nocomma(self, p):
+         """comma_nocomma : comma_tok nocomma"""
+
+real	0m0.598s
+user	0m0.577s
+sys	0m0.020s
+xonsh/xonsh/parsers/v310.py
+
+real	0m0.088s
+user	0m0.084s
+sys	0m0.004s
+xonsh/xonsh/parsers/v38.py
+
+real	0m0.112s
+user	0m0.100s
+sys	0m0.012s
+xonsh/xonsh/parsers/v36.py
+
+real	0m0.085s
+user	0m0.085s
+sys	0m0.000s
+xonsh/xonsh/parsers/fstring_adaptor.py
+
+real	0m0.097s
+user	0m0.085s
+sys	0m0.012s
+xonsh/xonsh/parsers/__init__.py
+
+real	0m0.072s
+user	0m0.064s
+sys	0m0.008s
+xonsh/xonsh/parsers/v39.py
+
+real	0m0.086s
+user	0m0.074s
+sys	0m0.012s
+xonsh/xonsh/parsers/context_check.py
+
+real	0m0.085s
+user	0m0.069s
+sys	0m0.016s
+xonsh/xonsh/parsers/completion_context.py
+
+real	0m0.144s
+user	0m0.123s
+sys	0m0.021s
+xonsh/xonsh/cli_utils.py
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
+xonsh/xonsh/environ.py
+--- original/xonsh/xonsh/environ.py
++++ fixed/xonsh/xonsh/environ.py
+@@ -2232,7 +2232,6 @@
+     sys.path while loading rc files.
+     """
+ 
+-    pass
+ 
+ 
+ def xonsh_script_run_control(filename, ctx, env, execer=None, login=True):
+
+real	0m0.290s
+user	0m0.286s
+sys	0m0.004s
+xonsh/xonsh/openpy.py
+
+real	0m0.085s
+user	0m0.085s
+sys	0m0.000s
+xonsh/xonsh/foreign_shells.py
+
+real	0m0.112s
+user	0m0.108s
+sys	0m0.004s
+xonsh/xonsh/tracer.py
+
+real	0m0.102s
+user	0m0.097s
+sys	0m0.004s
+xonsh/xonsh/diff_history.py
+
+real	0m0.103s
+user	0m0.094s
+sys	0m0.008s
+xonsh/xonsh/ptk2/key_bindings.py
+
+real	0m0.080s
+user	0m0.068s
+sys	0m0.012s
+xonsh/xonsh/ptk2/__init__.py
+
+real	0m0.080s
+user	0m0.060s
+sys	0m0.020s
+xonsh/xonsh/ptk2/completer.py
+
+real	0m0.077s
+user	0m0.070s
+sys	0m0.008s
+xonsh/xonsh/ptk2/shell.py
+
+real	0m0.080s
+user	0m0.076s
+sys	0m0.004s
+xonsh/xonsh/ptk2/history.py
+
+real	0m0.080s
+user	0m0.076s
+sys	0m0.004s
+xonsh/xonsh/lazyjson.py
+
+real	0m0.103s
+user	0m0.087s
+sys	0m0.016s
+xonsh/xonsh/xontribs_meta.py
+
+real	0m0.113s
+user	0m0.101s
+sys	0m0.012s
+xonsh/xonsh/color_tools.py
+
+real	0m0.111s
+user	0m0.099s
+sys	0m0.012s
+xonsh/xonsh/events.py
+
+real	0m0.112s
+user	0m0.108s
+sys	0m0.004s
+xonsh/xonsh/xoreutils/_which.py
+
+real	0m0.093s
+user	0m0.081s
+sys	0m0.013s
+xonsh/xonsh/xoreutils/tee.py
+
+real	0m0.081s
+user	0m0.081s
+sys	0m0.000s
+xonsh/xonsh/xoreutils/uptime.py
+
+real	0m0.088s
+user	0m0.080s
+sys	0m0.008s
+xonsh/xonsh/xoreutils/ulimit.py
+
+real	0m0.094s
+user	0m0.082s
+sys	0m0.012s
+xonsh/xonsh/xoreutils/__init__.py
+
+real	0m0.077s
+user	0m0.073s
+sys	0m0.004s
+xonsh/xonsh/xoreutils/tty.py
+
+real	0m0.079s
+user	0m0.063s
+sys	0m0.016s
+xonsh/xonsh/xoreutils/which.py
+
+real	0m0.089s
+user	0m0.078s
+sys	0m0.012s
+xonsh/xonsh/xoreutils/echo.py
+
+real	0m0.083s
+user	0m0.066s
+sys	0m0.017s
+xonsh/xonsh/xoreutils/pwd.py
+
+real	0m0.079s
+user	0m0.075s
+sys	0m0.004s
+xonsh/xonsh/xoreutils/yes.py
+
+real	0m0.079s
+user	0m0.071s
+sys	0m0.008s
+xonsh/xonsh/xoreutils/util.py
+
+real	0m0.077s
+user	0m0.057s
+sys	0m0.020s
+xonsh/xonsh/xoreutils/cat.py
+--- original/xonsh/xonsh/xoreutils/cat.py
++++ fixed/xonsh/xonsh/xoreutils/cat.py
+@@ -82,7 +82,6 @@
+             break
+         except Exception as e:
+             print("xonsh:", e, flush=True, file=out)
+-            pass
+     if fobj is not None:
+         fobj.close()
+     return False, line_count
+
+real	0m0.096s
+user	0m0.092s
+sys	0m0.004s
+xonsh/xonsh/xoreutils/umask.py
+
+real	0m0.091s
+user	0m0.083s
+sys	0m0.008s
+xonsh/xonsh/__main__.py
+
+real	0m0.079s
+user	0m0.067s
+sys	0m0.012s
+xonsh/xonsh/xonfig.py
+
+real	0m0.132s
+user	0m0.120s
+sys	0m0.012s
+xonsh/xonsh/jobs.py
+
+real	0m0.104s
+user	0m0.079s
+sys	0m0.024s
+xonsh/xonsh/__init__.py
+
+real	0m0.088s
+user	0m0.076s
+sys	0m0.012s
+xonsh/xonsh/ast.py
+--- original/xonsh/xonsh/ast.py
++++ fixed/xonsh/xonsh/ast.py
+@@ -5,104 +5,50 @@
+ import sys
+ from ast import (
+     Module,
+-    Num,
+     Expr,
+     Str,
+     Bytes,
+     UnaryOp,
+-    UAdd,
+-    USub,
+-    Invert,
+     BinOp,
+-    Add,
+-    Sub,
+-    Mult,
+-    Div,
+-    FloorDiv,
+-    Mod,
+-    Pow,
+     Compare,
+-    Lt,
+-    Gt,
+-    LtE,
+-    GtE,
+-    Eq,
+-    NotEq,
+-    In,
+-    NotIn,
+-    Is,
+-    IsNot,
+-    Not,
+     BoolOp,
+-    Or,
+-    And,
+     Subscript,
+     Load,
+-    Slice,
+-    ExtSlice,
+     List,
+     Tuple,
+-    Set,
+-    Dict,
+     AST,
+     NameConstant,
+     Name,
+-    GeneratorExp,
+-    Store,
+-    comprehension,
+-    ListComp,
+-    SetComp,
+-    DictComp,
+     Assign,
+     AugAssign,
+-    BitXor,
+-    BitAnd,
+-    BitOr,
+-    LShift,
+-    RShift,
+     Assert,
+     Delete,
+-    Del,
+     Pass,
+     Raise,
+     Import,
+-    alias,
+     ImportFrom,
+     Continue,
+     Break,
+-    Yield,
+-    YieldFrom,
+     Return,
+-    IfExp,
+     Lambda,
+-    arguments,
+-    arg,
+     Call,
+-    keyword,
+     Attribute,
+     Global,
+     Nonlocal,
+     If,
+     While,
+     For,
+-    withitem,
+     With,
+     Try,
+-    ExceptHandler,
+     FunctionDef,
+     ClassDef,
+     Starred,
+     NodeTransformer,
+-    Interactive,
+     Expression,
+-    Index,
+-    literal_eval,
+     dump,
+     walk,
+     increment_lineno,
+-    Constant,
+ )
+-from ast import Ellipsis as EllipsisNode
+ 
+ # pylint: enable=unused-import
+ import textwrap
+@@ -112,13 +58,7 @@
+ from xonsh.tools import subproc_toks, find_next_break, get_logical_line
+ 
+ from ast import (
+-    MatMult,
+-    AsyncFunctionDef,
+-    AsyncWith,
+-    AsyncFor,
+-    Await,
+     JoinedStr,
+-    FormattedValue,
+     AnnAssign,
+ )
+ 
+
+real	0m0.157s
+user	0m0.149s
+sys	0m0.008s
+xonsh/xonsh/webconfig/__main__.py
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
+xonsh/xonsh/webconfig/__init__.py
+
+real	0m0.074s
+user	0m0.066s
+sys	0m0.008s
+xonsh/xonsh/webconfig/main.py
+
+real	0m0.089s
+user	0m0.080s
+sys	0m0.009s
+xonsh/xonsh/commands_cache.py
+
+real	0m0.108s
+user	0m0.104s
+sys	0m0.004s
+xonsh/xonsh/macutils.py
+
+real	0m0.084s
+user	0m0.072s
+sys	0m0.012s
+xonsh/xonsh/dumb_shell.py
+
+real	0m0.079s
+user	0m0.074s
+sys	0m0.005s
+xonsh/xonsh/lazyasd.py
+
+real	0m0.105s
+user	0m0.094s
+sys	0m0.012s
+xonsh/xonsh/completer.py
+
+real	0m0.093s
+user	0m0.089s
+sys	0m0.004s
+xonsh/xonsh/inspectors.py
+
+real	0m0.121s
+user	0m0.117s
+sys	0m0.004s
+xonsh/xonsh/pretty.py
+
+real	0m0.132s
+user	0m0.120s
+sys	0m0.012s
+xonsh/xonsh/tools.py
+
+real	0m0.245s
+user	0m0.237s
+sys	0m0.008s
+xonsh/xonsh/main.py
+
+real	0m0.107s
+user	0m0.103s
+sys	0m0.005s
+xonsh/xonsh/lazyimps.py
+
+real	0m0.090s
+user	0m0.077s
+sys	0m0.012s
+xonsh/xonsh/readline_shell.py
+--- original/xonsh/xonsh/readline_shell.py
++++ fixed/xonsh/xonsh/readline_shell.py
+@@ -175,7 +175,7 @@
+ def teardown_readline():
+     """Tears down up the readline module, if available."""
+     try:
+-        import readline
++        pass
+     except (ImportError, TypeError):
+         return
+ 
+
+real	0m0.166s
+user	0m0.146s
+sys	0m0.020s
+xonsh/xonsh/jupyter_shell.py
+
+real	0m0.083s
+user	0m0.067s
+sys	0m0.016s
+xonsh/xonsh/ansi_colors.py
+
+real	0m0.129s
+user	0m0.121s
+sys	0m0.008s
+xonsh/xonsh/xontribs.py
+
+real	0m0.097s
+user	0m0.081s
+sys	0m0.016s
+xonsh/xonsh/wizard.py
+
+real	0m0.133s
+user	0m0.128s
+sys	0m0.005s
+xonsh/xonsh/completers/man.py
+
+real	0m0.083s
+user	0m0.075s
+sys	0m0.008s
+xonsh/xonsh/completers/base.py
+
+real	0m0.081s
+user	0m0.072s
+sys	0m0.008s
+xonsh/xonsh/completers/path.py
+
+real	0m0.112s
+user	0m0.103s
+sys	0m0.008s
+xonsh/xonsh/completers/bash.py
+
+real	0m0.091s
+user	0m0.075s
+sys	0m0.016s
+xonsh/xonsh/completers/__init__.py
+
+real	0m0.082s
+user	0m0.069s
+sys	0m0.013s
+xonsh/xonsh/completers/pip.py
+
+real	0m0.076s
+user	0m0.076s
+sys	0m0.000s
+xonsh/xonsh/completers/completer.py
+
+real	0m0.089s
+user	0m0.084s
+sys	0m0.004s
+xonsh/xonsh/completers/tools.py
+
+real	0m0.088s
+user	0m0.084s
+sys	0m0.004s
+xonsh/xonsh/completers/environment.py
+
+real	0m0.076s
+user	0m0.072s
+sys	0m0.004s
+xonsh/xonsh/completers/dirs.py
+
+real	0m0.080s
+user	0m0.064s
+sys	0m0.016s
+xonsh/xonsh/completers/init.py
+
+real	0m0.088s
+user	0m0.072s
+sys	0m0.016s
+xonsh/xonsh/completers/xompletions.py
+
+real	0m0.089s
+user	0m0.080s
+sys	0m0.008s
+xonsh/xonsh/completers/bash_completion.py
+
+real	0m0.098s
+user	0m0.086s
+sys	0m0.012s
+xonsh/xonsh/completers/_aliases.py
+
+real	0m0.086s
+user	0m0.069s
+sys	0m0.017s
+xonsh/xonsh/completers/commands.py
+
+real	0m0.086s
+user	0m0.078s
+sys	0m0.008s
+xonsh/xonsh/completers/python.py
+
+real	0m0.101s
+user	0m0.097s
+sys	0m0.004s
+xonsh/xonsh/shell.py
+
+real	0m0.092s
+user	0m0.083s
+sys	0m0.008s
+xonsh/xonsh/jupyter_kernel.py
+
+real	0m0.116s
+user	0m0.096s
+sys	0m0.020s
+xonsh/xonsh/parser.py
+
+real	0m0.078s
+user	0m0.069s
+sys	0m0.009s
+xonsh/xonsh/jsonutils.py
+
+real	0m0.081s
+user	0m0.069s
+sys	0m0.012s
+xonsh/xonsh/style_tools.py
+
+real	0m0.107s
+user	0m0.103s
+sys	0m0.004s
+xonsh/xonsh/ptk_shell/key_bindings.py
+--- original/xonsh/xonsh/ptk_shell/key_bindings.py
++++ fixed/xonsh/xonsh/ptk_shell/key_bindings.py
+@@ -378,7 +378,6 @@
+         """Prevents the writing of ^Z to the prompt, if Ctrl+Z was pressed
+         during the previous command.
+         """
+-        pass
+ 
+     @handle(Keys.ControlX, Keys.ControlX, filter=has_selection)
+     def _cut(event):
+
+real	0m0.135s
+user	0m0.127s
+sys	0m0.008s
+xonsh/xonsh/ptk_shell/updator.py
+
+real	0m0.090s
+user	0m0.078s
+sys	0m0.012s
+xonsh/xonsh/ptk_shell/__init__.py
+
+real	0m0.078s
+user	0m0.078s
+sys	0m0.000s
+xonsh/xonsh/ptk_shell/completer.py
+
+real	0m0.087s
+user	0m0.079s
+sys	0m0.008s
+xonsh/xonsh/ptk_shell/shell.py
+
+real	0m0.111s
+user	0m0.107s
+sys	0m0.004s
+xonsh/xonsh/ptk_shell/formatter.py
+
+real	0m0.089s
+user	0m0.085s
+sys	0m0.004s
+xonsh/xonsh/ptk_shell/history.py
+
+real	0m0.087s
+user	0m0.082s
+sys	0m0.004s
+xonsh/xonsh/timings.py
+--- original/xonsh/xonsh/timings.py
++++ fixed/xonsh/xonsh/timings.py
+@@ -18,13 +18,12 @@
+ from xonsh.built_ins import XSH
+ from xonsh.lazyasd import lazyobject, lazybool
+ from xonsh.events import events
+-from xonsh.platform import ON_WINDOWS
+ 
+ 
+ @lazybool
+ def _HAVE_RESOURCE():
+     try:
+-        import resource as r
++        pass
+ 
+         have = True
+     except ImportError:
+
+real	0m0.114s
+user	0m0.098s
+sys	0m0.016s
+xonsh/xonsh/history/sqlite.py
+
+real	0m0.101s
+user	0m0.081s
+sys	0m0.019s
+xonsh/xonsh/history/base.py
+--- original/xonsh/xonsh/history/base.py
++++ fixed/xonsh/xonsh/history/base.py
+@@ -123,11 +123,9 @@
+             ``rtn`` and ``ts``. These key names mirror the same names defined
+             as instance variables in the ``HistoryEntry`` class.
+         """
+-        pass
+ 
+     def flush(self, **kwargs):
+         """Flush the history items to disk from a buffer."""
+-        pass
+ 
+     def items(self, newest_first=False):
+         """Get history items of current session."""
+@@ -157,10 +155,8 @@
+         blocking: bool
+             If set blocking, then wait until gc action finished.
+         """
+-        pass
+ 
+     def clear(self):
+         """Clears the history of the current session from both the disk and
+         memory.
+         """
+-        pass
+
+real	0m0.089s
+user	0m0.081s
+sys	0m0.008s
+xonsh/xonsh/history/__init__.py
+
+real	0m0.082s
+user	0m0.082s
+sys	0m0.000s
+xonsh/xonsh/history/main.py
+
+real	0m0.108s
+user	0m0.095s
+sys	0m0.012s
+xonsh/xonsh/history/dummy.py
+
+real	0m0.082s
+user	0m0.075s
+sys	0m0.008s
+xonsh/xonsh/history/json.py
+--- original/xonsh/xonsh/history/json.py
++++ fixed/xonsh/xonsh/history/json.py
+@@ -183,7 +183,6 @@
+                             f"... Deleted {i:7d} of {len(rm_files):7d} history files.\r",
+                             end="",
+                         )
+-                    pass
+                 except OSError:
+                     pass
+                 i += 1
+
+real	0m0.151s
+user	0m0.147s
+sys	0m0.005s
+xonsh/xonsh/proc.py
+
+real	0m0.079s
+user	0m0.063s
+sys	0m0.016s
+xonsh/xonsh/platform.py
+
+real	0m0.112s
+user	0m0.104s
+sys	0m0.008s
+xonsh/xonsh/base_shell.py
+--- original/xonsh/xonsh/base_shell.py
++++ fixed/xonsh/xonsh/base_shell.py
+@@ -606,4 +606,3 @@
+         dependent on the shell backend. Also it is mostly optional since
+         it only affects ^Z backgrounding behaviour.
+         """
+-        pass
+
+real	0m0.152s
+user	0m0.148s
+sys	0m0.004s
+xonsh/xonsh/pyghooks.py
+
+real	0m0.178s
+user	0m0.166s
+sys	0m0.012s
+xonsh/xonsh/winutils.py
+
+real	0m0.116s
+user	0m0.100s
+sys	0m0.016s
+xonsh/xonsh/prompt/gitstatus.py
+
+real	0m0.099s
+user	0m0.078s
+sys	0m0.021s
+xonsh/xonsh/prompt/base.py
+
+real	0m0.101s
+user	0m0.081s
+sys	0m0.020s
+xonsh/xonsh/prompt/vc.py
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.012s
+xonsh/xonsh/prompt/env.py
+
+real	0m0.082s
+user	0m0.074s
+sys	0m0.008s
+xonsh/xonsh/prompt/times.py
+
+real	0m0.079s
+user	0m0.067s
+sys	0m0.012s
+xonsh/xonsh/prompt/__init__.py
+
+real	0m0.076s
+user	0m0.072s
+sys	0m0.004s
+xonsh/xonsh/prompt/job.py
+
+real	0m0.081s
+user	0m0.073s
+sys	0m0.008s
+xonsh/xonsh/prompt/cwd.py
+
+real	0m0.086s
+user	0m0.086s
+sys	0m0.000s
+xonsh/xonsh/aliases.py
+
+real	0m0.124s
+user	0m0.112s
+sys	0m0.012s
+xonsh/setup.py
+--- original/xonsh/setup.py
++++ fixed/xonsh/setup.py
+@@ -7,7 +7,7 @@
+ import sys
+ import subprocess
+ 
+-from setuptools import setup, find_packages
++from setuptools import setup
+ from setuptools.command.sdist import sdist
+ from setuptools.command.install import install
+ from setuptools.command.develop import develop
+
+real	0m0.120s
+user	0m0.115s
+sys	0m0.004s
+xonsh/xonsh-in-docker.py
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
+xonsh/conftest.py
+
+real	0m0.076s
+user	0m0.076s
+sys	0m0.000s
+xonsh/docs/cmdhelp.py
+--- original/xonsh/docs/cmdhelp.py
++++ fixed/xonsh/docs/cmdhelp.py
+@@ -10,16 +10,13 @@
+ import io
+ import textwrap
+ import importlib
+-from docutils import nodes, statemachine, utils
++from docutils import nodes
+ 
+ try:
+     from docutils.utils.error_reporting import ErrorString  # the new way
+ except ImportError:
+     from docutils.error_reporting import ErrorString  # the old way
+-from docutils.parsers.rst import Directive, convert_directive_function
+-from docutils.parsers.rst import directives, roles, states
+-from docutils.parsers.rst.roles import set_classes
+-from docutils.transforms import misc
++from docutils.parsers.rst import Directive
+ from docutils.statemachine import ViewList
+ 
+ from sphinx.util.nodes import nested_parse_with_titles
+
+real	0m0.090s
+user	0m0.078s
+sys	0m0.012s
+xonsh/docs/rst_helpers.py
+
+real	0m0.084s
+user	0m0.075s
+sys	0m0.008s
+xonsh/docs/conf.py
+--- original/xonsh/docs/conf.py
++++ fixed/xonsh/docs/conf.py
+@@ -15,7 +15,6 @@
+ # make current docs directory modules importable
+ sys.path.append(str(Path(__file__).parent.resolve()))
+ 
+-import builtins
+ import inspect
+ import importlib
+ import typing as tp
+
+real	0m0.114s
+user	0m0.105s
+sys	0m0.008s
+xonsh/docs/jinja_rst_ext.py
+
+real	0m0.081s
+user	0m0.077s
+sys	0m0.004s
+xonsh/docs/serve_docs.py
+
+real	0m0.079s
+user	0m0.071s
+sys	0m0.008s
+xonsh/amalgamate.py
+
+real	0m0.122s
+user	0m0.118s
+sys	0m0.004s
+xonsh/tests/test_parser.py
+
+real	0m0.228s
+user	0m0.218s
+sys	0m0.009s
+xonsh/tests/test_contexts.py
+
+real	0m0.099s
+user	0m0.095s
+sys	0m0.004s
+xonsh/tests/procs/__init__.py
+
+real	0m0.079s
+user	0m0.063s
+sys	0m0.016s
+xonsh/tests/procs/test_specs.py
+
+real	0m0.087s
+user	0m0.075s
+sys	0m0.012s
+xonsh/tests/procs/tools.py
+
+real	0m0.078s
+user	0m0.070s
+sys	0m0.008s
+xonsh/tests/test_aliases.py
+
+real	0m0.096s
+user	0m0.080s
+sys	0m0.016s
+xonsh/tests/test_wizard.py
+
+real	0m0.081s
+user	0m0.064s
+sys	0m0.016s
+xonsh/tests/test_bashisms.py
+
+real	0m0.087s
+user	0m0.075s
+sys	0m0.012s
+xonsh/tests/test_readline_shell.py
+
+real	0m0.081s
+user	0m0.069s
+sys	0m0.012s
+xonsh/tests/test_imphooks.py
+
+real	0m0.078s
+user	0m0.070s
+sys	0m0.008s
+xonsh/tests/test_pyghooks.py
+
+real	0m0.108s
+user	0m0.104s
+sys	0m0.004s
+xonsh/tests/aliases/test_completer_alias.py
+
+real	0m0.077s
+user	0m0.073s
+sys	0m0.004s
+xonsh/tests/aliases/test_source.py
+
+real	0m0.083s
+user	0m0.059s
+sys	0m0.023s
+xonsh/tests/aliases/__init__.py
+
+real	0m0.076s
+user	0m0.068s
+sys	0m0.008s
+xonsh/tests/aliases/test_xexec.py
+
+real	0m0.087s
+user	0m0.075s
+sys	0m0.012s
+xonsh/tests/test_jsonutils.py
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
+xonsh/tests/test_xonfig.py
+
+real	0m0.084s
+user	0m0.063s
+sys	0m0.021s
+xonsh/tests/test_color_tools.py
+
+real	0m0.081s
+user	0m0.081s
+sys	0m0.000s
+xonsh/tests/test_news.py
+
+real	0m0.087s
+user	0m0.071s
+sys	0m0.016s
+xonsh/tests/test_ptk_completer.py
+
+real	0m0.082s
+user	0m0.081s
+sys	0m0.001s
+xonsh/tests/test_lazyjson.py
+
+real	0m0.098s
+user	0m0.075s
+sys	0m0.023s
+xonsh/tests/test_platform.py
+
+real	0m0.090s
+user	0m0.078s
+sys	0m0.012s
+xonsh/tests/test_lexer.py
+
+real	0m0.104s
+user	0m0.092s
+sys	0m0.012s
+xonsh/tests/test_lazyasd.py
+
+real	0m0.082s
+user	0m0.062s
+sys	0m0.019s
+xonsh/tests/test_tools.py
+--- original/xonsh/tests/test_tools.py
++++ fixed/xonsh/tests/test_tools.py
+@@ -1710,7 +1710,6 @@
+     @deprecated(**arguments)
+     def my_function():
+         """Does nothing."""
+-        pass
+ 
+     assert my_function.__doc__ == expected_docstring
+ 
+
+real	0m0.310s
+user	0m0.294s
+sys	0m0.016s
+xonsh/tests/test_pipelines.py
+
+real	0m0.082s
+user	0m0.070s
+sys	0m0.012s
+xonsh/tests/test_environ.py
+--- original/xonsh/tests/test_environ.py
++++ fixed/xonsh/tests/test_environ.py
+@@ -5,7 +5,6 @@
+ import re
+ import pathlib
+ import datetime
+-import itertools
+ from tempfile import TemporaryDirectory
+ 
+ import pytest
+
+real	0m0.141s
+user	0m0.121s
+sys	0m0.020s
+xonsh/tests/test_builtins.py
+
+real	0m0.107s
+user	0m0.102s
+sys	0m0.004s
+xonsh/tests/test_events.py
+
+real	0m0.086s
+user	0m0.078s
+sys	0m0.008s
+xonsh/tests/test_ptk_history.py
+
+real	0m0.084s
+user	0m0.075s
+sys	0m0.009s
+xonsh/tests/test_history_json.py
+--- original/xonsh/tests/test_history_json.py
++++ fixed/xonsh/tests/test_history_json.py
+@@ -1,7 +1,6 @@
+ # -*- coding: utf-8 -*-
+ """Tests the json history backend."""
+ # pylint: disable=protected-access
+-import os
+ import shlex
+ 
+ import pytest
+
+real	0m0.162s
+user	0m0.146s
+sys	0m0.016s
+xonsh/tests/test_commands_cache.py
+
+real	0m0.089s
+user	0m0.073s
+sys	0m0.015s
+xonsh/tests/tools.py
+
+real	0m0.103s
+user	0m0.098s
+sys	0m0.005s
+xonsh/tests/test_dirstack.py
+
+real	0m0.095s
+user	0m0.074s
+sys	0m0.020s
+xonsh/tests/test_ansi_colors.py
+
+real	0m0.094s
+user	0m0.085s
+sys	0m0.009s
+xonsh/tests/test_foreign_shells.py
+
+real	0m0.084s
+user	0m0.072s
+sys	0m0.012s
+xonsh/tests/test_ptk_shell.py
+--- original/xonsh/tests/test_ptk_shell.py
++++ fixed/xonsh/tests/test_ptk_shell.py
+@@ -74,7 +74,6 @@
+     if warn_snip:
+         assert warn_snip in mocked_warn
+ 
+-    pass
+ 
+ 
+ @pytest.mark.parametrize(
+
+real	0m0.087s
+user	0m0.079s
+sys	0m0.008s
+xonsh/tests/test_mpl.py
+
+real	0m0.086s
+user	0m0.074s
+sys	0m0.012s
+xonsh/tests/test_dirstack_unc.py
+--- original/xonsh/tests/test_dirstack_unc.py
++++ fixed/xonsh/tests/test_dirstack_unc.py
+@@ -215,7 +215,6 @@
+ @pytest.mark.skipif(not ON_WINDOWS, reason="Windows-only UNC functionality")
+ def test_uncpushd_push_base_push_rempath(xession):
+     """push to subdir under share, verify  mapped path includes subdir"""
+-    pass
+ 
+ 
+ # really?  Need to cut-and-paste 2 flavors of this? fixture requires yield in defined function body, not callee
+
+real	0m0.134s
+user	0m0.119s
+sys	0m0.016s
+xonsh/tests/test_execer.py
+
+real	0m0.086s
+user	0m0.086s
+sys	0m0.000s
+xonsh/tests/conftest.py
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
+xonsh/tests/test_xoreutils.py
+
+real	0m0.097s
+user	0m0.093s
+sys	0m0.004s
+xonsh/tests/test_path_completers.py
+
+real	0m0.089s
+user	0m0.089s
+sys	0m0.000s
+xonsh/tests/test_base_shell.py
+
+real	0m0.088s
+user	0m0.080s
+sys	0m0.008s
+xonsh/tests/test_cli_utils.py
+
+real	0m0.078s
+user	0m0.074s
+sys	0m0.004s
+xonsh/tests/completers/test_bash_completer.py
+
+real	0m0.089s
+user	0m0.089s
+sys	0m0.000s
+xonsh/tests/completers/test_completer_command.py
+
+real	0m0.078s
+user	0m0.066s
+sys	0m0.012s
+xonsh/tests/completers/test_pip_completer.py
+
+real	0m0.079s
+user	0m0.075s
+sys	0m0.004s
+xonsh/tests/completers/test_base_completer.py
+--- original/xonsh/tests/completers/test_base_completer.py
++++ fixed/xonsh/tests/completers/test_base_completer.py
+@@ -5,7 +5,6 @@
+ from xonsh.parsers.completion_context import (
+     CompletionContext,
+     CommandContext,
+-    CommandArg,
+     PythonContext,
+ )
+ 
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
+xonsh/tests/completers/test_command_completers.py
+
+real	0m0.084s
+user	0m0.080s
+sys	0m0.004s
+xonsh/tests/completers/test_environment_completer.py
+--- original/xonsh/tests/completers/test_environment_completer.py
++++ fixed/xonsh/tests/completers/test_environment_completer.py
+@@ -1,6 +1,6 @@
+ import pytest
+ 
+-from xonsh.environ import Env, Var
++from xonsh.environ import Env
+ from xonsh.parsers.completion_context import CompletionContextParser
+ from xonsh.completers.environment import complete_environment_vars
+ 
+
+real	0m0.082s
+user	0m0.070s
+sys	0m0.012s
+xonsh/tests/completers/test_xompletions.py
+
+real	0m0.082s
+user	0m0.073s
+sys	0m0.008s
+xonsh/tests/completers/test_dir_completers.py
+--- original/xonsh/tests/completers/test_dir_completers.py
++++ fixed/xonsh/tests/completers/test_dir_completers.py
+@@ -1,4 +1,3 @@
+-import re
+ import pytest
+ import tempfile
+ from os import sep
+
+real	0m0.099s
+user	0m0.087s
+sys	0m0.012s
+xonsh/tests/test_shell.py
+
+real	0m0.089s
+user	0m0.084s
+sys	0m0.005s
+xonsh/tests/xpack/__init__.py
+
+real	0m0.073s
+user	0m0.061s
+sys	0m0.012s
+xonsh/tests/xpack/sub/__init__.py
+
+real	0m0.071s
+user	0m0.059s
+sys	0m0.012s
+xonsh/tests/test_main.py
+--- original/xonsh/tests/test_main.py
++++ fixed/xonsh/tests/test_main.py
+@@ -12,7 +12,7 @@
+ import xonsh.main
+ from xonsh.main import XonshMode
+ import pytest
+-from tools import ON_WINDOWS, TEST_DIR, VER_FULL, skip_if_on_windows
++from tools import ON_WINDOWS, TEST_DIR, skip_if_on_windows
+ 
+ 
+ def Shell(*args, **kwargs):
+
+real	0m0.141s
+user	0m0.137s
+sys	0m0.004s
+xonsh/tests/test_history_dummy.py
+
+real	0m0.077s
+user	0m0.065s
+sys	0m0.012s
+xonsh/tests/test_ast.py
+
+real	0m0.083s
+user	0m0.078s
+sys	0m0.005s
+xonsh/tests/test_jupyter_kernel.py
+
+real	0m0.088s
+user	0m0.080s
+sys	0m0.008s
+xonsh/tests/xontribs/test_abbrevs.py
+
+real	0m0.077s
+user	0m0.069s
+sys	0m0.008s
+xonsh/tests/xontribs/test_jedi.py
+
+real	0m0.092s
+user	0m0.084s
+sys	0m0.008s
+xonsh/tests/test_integrations.py
+
+real	0m0.100s
+user	0m0.087s
+sys	0m0.013s
+xonsh/tests/test_vox.py
+
+real	0m0.097s
+user	0m0.084s
+sys	0m0.013s
+xonsh/tests/test_xontribs.py
+
+real	0m0.082s
+user	0m0.070s
+sys	0m0.012s
+xonsh/tests/test_man.py
+
+real	0m0.080s
+user	0m0.068s
+sys	0m0.012s
+xonsh/tests/fake_lib/jupyter_client/kernelspec.py
+
+real	0m0.078s
+user	0m0.074s
+sys	0m0.004s
+xonsh/tests/fake_lib/jupyter_client/__init__.py
+
+real	0m0.078s
+user	0m0.066s
+sys	0m0.012s
+xonsh/tests/test_completion_context.py
+
+real	0m0.126s
+user	0m0.106s
+sys	0m0.020s
+xonsh/tests/test_history_sqlite.py
+
+real	0m0.107s
+user	0m0.091s
+sys	0m0.016s
+xonsh/tests/test_lib/test_itertools.py
+
+real	0m0.074s
+user	0m0.063s
+sys	0m0.012s
+xonsh/tests/test_lib/test_collections.py
+
+real	0m0.098s
+user	0m0.090s
+sys	0m0.008s
+xonsh/tests/test_ptk_highlight.py
+
+real	0m0.089s
+user	0m0.085s
+sys	0m0.004s
+xonsh/tests/prompt/test_base.py
+
+real	0m0.090s
+user	0m0.074s
+sys	0m0.015s
+xonsh/tests/prompt/test_gitstatus.py
+
+real	0m0.079s
+user	0m0.067s
+sys	0m0.012s
+xonsh/tests/prompt/test_vc.py
+
+real	0m0.100s
+user	0m0.088s
+sys	0m0.012s
+xonsh/tests/test_completer.py
+
+real	0m0.093s
+user	0m0.088s
+sys	0m0.004s
+xonsh/tests/test_ptk_multiline.py
+
+real	0m0.087s
+user	0m0.074s
+sys	0m0.013s
+xonsh/tests/test_python_completers.py
+--- original/xonsh/tests/test_python_completers.py
++++ fixed/xonsh/tests/test_python_completers.py
+@@ -10,7 +10,6 @@
+     CommandArg,
+     CommandContext,
+     CompletionContext,
+-    CompletionContextParser,
+     PythonContext,
+ )
+ 
+
+real	0m0.102s
+user	0m0.086s
+sys	0m0.016s
+xonsh/scent.py
+
+real	0m0.088s
+user	0m0.084s
+sys	0m0.004s
+XSStrike/core/dom.py
+
+real	0m0.088s
+user	0m0.079s
+sys	0m0.008s
+XSStrike/core/colors.py
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
+XSStrike/core/filterChecker.py
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
+XSStrike/core/log.py
+
+real	0m0.095s
+user	0m0.079s
+sys	0m0.016s
+XSStrike/core/zetanize.py
+
+real	0m0.081s
+user	0m0.072s
+sys	0m0.008s
+XSStrike/core/arjun.py
+
+real	0m0.080s
+user	0m0.064s
+sys	0m0.016s
+XSStrike/core/checker.py
+
+real	0m0.088s
+user	0m0.080s
+sys	0m0.008s
+XSStrike/core/config.py
+
+real	0m0.080s
+user	0m0.067s
+sys	0m0.012s
+XSStrike/core/generator.py
+--- original/XSStrike/core/generator.py
++++ fixed/XSStrike/core/generator.py
+@@ -1,4 +1,4 @@
+-from core.config import xsschecker, badTags, fillings, eFillings, lFillings, jFillings, eventHandlers, tags, functions
++from core.config import eFillings, eventHandlers, fillings, functions, jFillings, lFillings, tags, xsschecker
+ from core.jsContexter import jsContexter
+ from core.utils import randomUpper as r, genGen, extractScripts
+ 
+
+real	0m0.113s
+user	0m0.109s
+sys	0m0.004s
+XSStrike/core/__init__.py
+
+real	0m0.078s
+user	0m0.067s
+sys	0m0.012s
+XSStrike/core/requester.py
+
+real	0m0.089s
+user	0m0.072s
+sys	0m0.016s
+XSStrike/core/prompt.py
+
+real	0m0.078s
+user	0m0.070s
+sys	0m0.008s
+XSStrike/core/utils.py
+
+real	0m0.099s
+user	0m0.087s
+sys	0m0.012s
+XSStrike/core/fuzzer.py
+
+real	0m0.082s
+user	0m0.082s
+sys	0m0.000s
+XSStrike/core/jsContexter.py
+
+real	0m0.083s
+user	0m0.079s
+sys	0m0.004s
+XSStrike/core/photon.py
+
+real	0m0.086s
+user	0m0.070s
+sys	0m0.016s
+XSStrike/core/encoders.py
+
+real	0m0.078s
+user	0m0.070s
+sys	0m0.008s
+XSStrike/core/updater.py
+--- original/XSStrike/core/updater.py
++++ fixed/XSStrike/core/updater.py
+@@ -3,7 +3,7 @@
+ from requests import get
+ 
+ from core.config import changes
+-from core.colors import run, que, good, info, end, green
++from core.colors import end, green, que
+ from core.log import setup_logger
+ 
+ logger = setup_logger(__name__)
+
+real	0m0.078s
+user	0m0.073s
+sys	0m0.004s
+XSStrike/core/wafDetector.py
+
+real	0m0.078s
+user	0m0.069s
+sys	0m0.008s
+XSStrike/core/htmlParser.py
+--- original/XSStrike/core/htmlParser.py
++++ fixed/XSStrike/core/htmlParser.py
+@@ -1,7 +1,7 @@
+ import re
+ 
+-from core.config import badTags, xsschecker
+-from core.utils import isBadContext, equalize, escaped, extractScripts
++from core.config import xsschecker
++from core.utils import escaped, extractScripts, isBadContext
+ 
+ 
+ def htmlParser(response, encoding):
+
+real	0m0.097s
+user	0m0.081s
+sys	0m0.016s
+XSStrike/plugins/__init__.py
+
+real	0m0.076s
+user	0m0.071s
+sys	0m0.004s
+XSStrike/plugins/retireJs.py
+--- original/XSStrike/plugins/retireJs.py
++++ fixed/XSStrike/plugins/retireJs.py
+@@ -1,7 +1,6 @@
+ import re
+ import json
+ import hashlib
+-from urllib.parse import urlparse
+ 
+ from core.colors import green, end
+ from core.requester import requester
+
+real	0m0.109s
+user	0m0.097s
+sys	0m0.012s
+XSStrike/xsstrike.py
+--- original/XSStrike/xsstrike.py
++++ fixed/XSStrike/xsstrike.py
+@@ -13,7 +13,7 @@
+     import concurrent.futures
+     from urllib.parse import urlparse
+     try:
+-        import fuzzywuzzy
++        pass
+     except ImportError:
+         import os
+         print ('%s fuzzywuzzy isn\'t installed, installing now.' % info)
+
+real	0m0.109s
+user	0m0.097s
+sys	0m0.012s
+XSStrike/modes/singleFuzz.py
+
+real	0m0.082s
+user	0m0.074s
+sys	0m0.008s
+XSStrike/modes/__init__.py
+
+real	0m0.081s
+user	0m0.069s
+sys	0m0.011s
+XSStrike/modes/bruteforcer.py
+
+real	0m0.084s
+user	0m0.080s
+sys	0m0.004s
+XSStrike/modes/scan.py
+--- original/XSStrike/modes/scan.py
++++ fixed/XSStrike/modes/scan.py
+@@ -1,10 +1,9 @@
+ import copy
+-import re
+-from urllib.parse import urlparse, quote, unquote
++from urllib.parse import unquote, urlparse
+ 
+ from core.arjun import arjun
+ from core.checker import checker
+-from core.colors import good, bad, end, info, green, red, que
++from core.colors import end, green, que
+ import core.config
+ from core.config import xsschecker, minEfficiency
+ from core.dom import dom
+@@ -12,7 +11,7 @@
+ from core.generator import generator
+ from core.htmlParser import htmlParser
+ from core.requester import requester
+-from core.utils import getUrl, getParams, getVar
++from core.utils import getParams, getUrl
+ from core.wafDetector import wafDetector
+ from core.log import setup_logger
+ 
+
+real	0m0.100s
+user	0m0.092s
+sys	0m0.008s
+XSStrike/modes/crawl.py
+--- original/XSStrike/modes/crawl.py
++++ fixed/XSStrike/modes/crawl.py
+@@ -2,7 +2,7 @@
+ import re
+ 
+ import core.config
+-from core.colors import red, good, green, end
++from core.colors import end, green
+ from core.config import xsschecker
+ from core.filterChecker import filterChecker
+ from core.generator import generator
+
+real	0m0.092s
+user	0m0.084s
+sys	0m0.008s

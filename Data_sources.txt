@@ -1,9 +1,21 @@
-For DepClean,BloatlibD and Jingredients --
+For Java
+Tools --
 https://github.com/castor-software/depclean
 https://github.com/takashi-ishio/JIngredients
 
+Data--
 https://github.com/apache/maven-plugins (contains old plugins, avoid for now)
 https://maven.apache.org/plugins/index.html Used the github links to get source code and package it to .jars 
 Specifically downloaded plugins are mentioned in the Results_depclean/all_data folder as folder directories containing results of depclean analysis.
 
-For Python --- to be added
+For Python 
+Libraries 
+https://pypi.org/project/pycln/
+https://pypi.org/project/autoflake/
+
+Data
+https://github.com/marblexu/PythonPlantsVsZombies
+https://towardsdatascience.com/top-10-trending-python-projects-on-github-fb852cd58262
+All github projects taken are stored in Python_compare/Python_data
+
+Credits to all the project creaters/owners for their projects cited in the above links and actually used. These projects have only been used for analysis by me.
