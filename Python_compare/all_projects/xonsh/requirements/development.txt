@@ -1,4 +1,0 @@
--r tests.txt
-sniffer
-pyinotify
-jinja2 >= 2
