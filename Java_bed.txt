@@ -41,8 +41,6 @@ https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 
 30-07-2021
 
-Data source: https://github.com/apache/maven-plugins https://repo.maven.apache.org/maven2/org/apache/maven/plugins/
-
 Jingredients 
 
 1) Extract all the jars in the lib folder of the cloned Jingredients repo and move the internal folders for each jar to the lib folder (ignore the META folder for each jar)
@@ -58,7 +56,7 @@ Jingredients
     E.g.
     java -cp lib/:src/ sarf.jingredients.CreateValidJarList
 
-Converting maven projects to jars
+Converting maven projects to jars --- Ignore now as not using it for now instead used dependencies of each project obtained via depclean as jar data 
 
 1) must update updating compiler used for compilation to JavaSE1.7 (otherwise mvn package won't work)
 
@@ -82,3 +80,5 @@ for making maven jars (skipping license checks which may throw error) ----  mvn 
             </plugins>
         </build>
     </profile>
+Use this sed command to do so
+sed -ir 's@</properties>@<maven.compiler.source>1.7</maven.compiler.source><maven.compiler.target>1.7</maven.compiler.target></properties>@g' $(grep -rEl  '</properties>' ./) replace compiler important for making maven jars
