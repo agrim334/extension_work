@@ -1,0 +1,30 @@
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+package org.hibernate.engine.jdbc.cursor.internal;
+
+import org.hibernate.service.Service;
+import org.hibernate.service.spi.ServiceRegistryImplementor;
+import java.util.Map;
+import org.hibernate.engine.jdbc.cursor.spi.RefCursorSupport;
+import org.hibernate.boot.registry.StandardServiceInitiator;
+
+public class RefCursorSupportInitiator implements StandardServiceInitiator<RefCursorSupport>
+{
+    public static final RefCursorSupportInitiator INSTANCE;
+    
+    @Override
+    public RefCursorSupport initiateService(final Map configurationValues, final ServiceRegistryImplementor registry) {
+        return new StandardRefCursorSupport();
+    }
+    
+    @Override
+    public Class<RefCursorSupport> getServiceInitiated() {
+        return RefCursorSupport.class;
+    }
+    
+    static {
+        INSTANCE = new RefCursorSupportInitiator();
+    }
+}
