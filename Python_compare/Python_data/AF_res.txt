@@ -1,9 +1,18 @@
 manim/logo/logo.py
-0.00041457599999999983
+
+real	0m0.092s
+user	0m0.087s
+sys	0m0.005s
 manim/manimlib/utils/color.py
-0.0003690150000000003
+
+real	0m0.083s
+user	0m0.074s
+sys	0m0.009s
 manim/manimlib/utils/rate_functions.py
-0.0004024639999999982
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
 manim/manimlib/utils/space_ops.py
 --- original/manim/manimlib/utils/space_ops.py
 +++ fixed/manim/manimlib/utils/space_ops.py
@@ -13,119 +22,290 @@ manim/manimlib/utils/space_ops.py
  import math
  from mapbox_earcut import triangulate_float32 as earcut
  
-0.00032962500000000006
+
+real	0m0.149s
+user	0m0.144s
+sys	0m0.005s
 manim/manimlib/utils/customization.py
-0.0002410609999999938
+
+real	0m0.080s
+user	0m0.068s
+sys	0m0.012s
 manim/manimlib/utils/iterables.py
-0.0001702719999999991
+
+real	0m0.093s
+user	0m0.082s
+sys	0m0.012s
 manim/manimlib/utils/__init__.py
-0.00020591100000000306
+
+real	0m0.078s
+user	0m0.070s
+sys	0m0.008s
 manim/manimlib/utils/sounds.py
-0.00022570099999999482
+
+real	0m0.076s
+user	0m0.072s
+sys	0m0.004s
 manim/manimlib/utils/bezier.py
-0.00015975300000000553
+
+real	0m0.103s
+user	0m0.095s
+sys	0m0.008s
 manim/manimlib/utils/tex_file_writing.py
-0.00019672400000000229
+
+real	0m0.090s
+user	0m0.089s
+sys	0m0.000s
 manim/manimlib/utils/simple_functions.py
-0.00015461100000000588
+
+real	0m0.086s
+user	0m0.082s
+sys	0m0.004s
 manim/manimlib/utils/strings.py
-0.000168241999999999
+
+real	0m0.085s
+user	0m0.076s
+sys	0m0.008s
 manim/manimlib/utils/paths.py
-0.00014962899999999835
+
+real	0m0.089s
+user	0m0.072s
+sys	0m0.016s
 manim/manimlib/utils/file_ops.py
-0.0002780940000000065
+
+real	0m0.090s
+user	0m0.077s
+sys	0m0.012s
 manim/manimlib/utils/images.py
-0.000155447000000003
+
+real	0m0.091s
+user	0m0.082s
+sys	0m0.009s
 manim/manimlib/utils/config_ops.py
-0.0002211089999999971
+
+real	0m0.098s
+user	0m0.089s
+sys	0m0.008s
 manim/manimlib/utils/directories.py
-0.0004937470000000027
+
+real	0m0.083s
+user	0m0.070s
+sys	0m0.012s
 manim/manimlib/utils/init_config.py
-0.00023569000000000367
+
+real	0m0.097s
+user	0m0.089s
+sys	0m0.008s
 manim/manimlib/utils/family_ops.py
-0.0002967040000000018
+
+real	0m0.093s
+user	0m0.073s
+sys	0m0.020s
 manim/manimlib/utils/debug.py
-0.00020789900000000444
+
+real	0m0.082s
+user	0m0.078s
+sys	0m0.004s
 manim/manimlib/window.py
-0.00013650600000000152
+
+real	0m0.121s
+user	0m0.104s
+sys	0m0.016s
 manim/manimlib/animation/fading.py
-0.00024370300000000483
+
+real	0m0.107s
+user	0m0.095s
+sys	0m0.012s
 manim/manimlib/animation/specialized.py
-0.00018213699999999888
+
+real	0m0.103s
+user	0m0.086s
+sys	0m0.016s
 manim/manimlib/animation/movement.py
-0.0001540189999999983
+
+real	0m0.105s
+user	0m0.105s
+sys	0m0.000s
 manim/manimlib/animation/numbers.py
-0.0002459369999999947
+
+real	0m0.080s
+user	0m0.079s
+sys	0m0.001s
 manim/manimlib/animation/indication.py
-0.00018502199999999996
+
+real	0m0.114s
+user	0m0.110s
+sys	0m0.004s
 manim/manimlib/animation/__init__.py
-0.0001999410000000021
+
+real	0m0.080s
+user	0m0.071s
+sys	0m0.009s
 manim/manimlib/animation/growing.py
-0.00014235300000000478
+
+real	0m0.093s
+user	0m0.074s
+sys	0m0.019s
 manim/manimlib/animation/composition.py
-0.0002427810000000044
+
+real	0m0.108s
+user	0m0.088s
+sys	0m0.020s
 manim/manimlib/animation/transform.py
-0.00029514199999999824
+
+real	0m0.123s
+user	0m0.114s
+sys	0m0.008s
 manim/manimlib/animation/animation.py
-0.00034930399999999473
+
+real	0m0.092s
+user	0m0.079s
+sys	0m0.012s
 manim/manimlib/animation/transform_matching_parts.py
-0.00027186799999999803
+
+real	0m0.096s
+user	0m0.088s
+sys	0m0.008s
 manim/manimlib/animation/creation.py
-0.0002451600000000012
+
+real	0m0.100s
+user	0m0.096s
+sys	0m0.004s
 manim/manimlib/animation/rotation.py
-0.00024785399999999874
+
+real	0m0.099s
+user	0m0.086s
+sys	0m0.012s
 manim/manimlib/animation/update.py
-0.00028026099999999693
+
+real	0m0.085s
+user	0m0.076s
+sys	0m0.008s
 manim/manimlib/shader_wrapper.py
-0.0001981349999999986
+
+real	0m0.094s
+user	0m0.090s
+sys	0m0.004s
 manim/manimlib/config.py
-0.00018707199999999646
+
+real	0m0.121s
+user	0m0.117s
+sys	0m0.004s
 manim/manimlib/__main__.py
-0.00019651700000000022
+
+real	0m0.087s
+user	0m0.074s
+sys	0m0.013s
 manim/manimlib/camera/__init__.py
-0.00013350399999999957
+
+real	0m0.128s
+user	0m0.100s
+sys	0m0.028s
 manim/manimlib/camera/camera.py
-0.00017524600000000043
+
+real	0m0.124s
+user	0m0.108s
+sys	0m0.016s
 manim/manimlib/__init__.py
-0.00023887300000000056
+
+real	0m0.112s
+user	0m0.100s
+sys	0m0.012s
 manim/manimlib/extract_scene.py
-0.00015618899999999755
+
+real	0m0.105s
+user	0m0.100s
+sys	0m0.004s
 manim/manimlib/mobject/coordinate_systems.py
-0.00023932599999999804
+
+real	0m0.118s
+user	0m0.102s
+sys	0m0.016s
 manim/manimlib/mobject/number_line.py
-0.0001737300000000004
+
+real	0m0.095s
+user	0m0.071s
+sys	0m0.024s
 manim/manimlib/mobject/changing.py
-0.00021776999999999908
+
+real	0m0.087s
+user	0m0.079s
+sys	0m0.008s
 manim/manimlib/mobject/vector_field.py
-0.00019649100000000003
+
+real	0m0.101s
+user	0m0.093s
+sys	0m0.008s
 manim/manimlib/mobject/three_dimensions.py
-0.0002088859999999984
+
+real	0m0.094s
+user	0m0.085s
+sys	0m0.008s
 manim/manimlib/mobject/numbers.py
-0.00018111399999999958
+
+real	0m0.091s
+user	0m0.075s
+sys	0m0.016s
 manim/manimlib/mobject/interactive.py
-0.00022901800000000097
+
+real	0m0.117s
+user	0m0.117s
+sys	0m0.000s
 manim/manimlib/mobject/frame.py
-0.0002514859999999987
+
+real	0m0.082s
+user	0m0.063s
+sys	0m0.019s
 manim/manimlib/mobject/__init__.py
-0.00013434499999999752
+
+real	0m0.082s
+user	0m0.074s
+sys	0m0.008s
 manim/manimlib/mobject/probability.py
-0.00011771500000000087
+
+real	0m0.099s
+user	0m0.091s
+sys	0m0.008s
 manim/manimlib/mobject/shape_matchers.py
-0.00029546000000000086
+
+real	0m0.089s
+user	0m0.077s
+sys	0m0.012s
 manim/manimlib/mobject/value_tracker.py
-0.00011402600000000318
+
+real	0m0.098s
+user	0m0.082s
+sys	0m0.016s
 manim/manimlib/mobject/mobject_update_utils.py
-0.00021602400000000216
+
+real	0m0.080s
+user	0m0.064s
+sys	0m0.016s
 manim/manimlib/mobject/svg/drawings.py
-0.00022498500000000046
+
+real	0m0.108s
+user	0m0.096s
+sys	0m0.012s
 manim/manimlib/mobject/svg/svg_mobject.py
-0.00016576499999999827
+
+real	0m0.111s
+user	0m0.102s
+sys	0m0.008s
 manim/manimlib/mobject/svg/__init__.py
-0.00017472900000000194
+
+real	0m0.082s
+user	0m0.066s
+sys	0m0.015s
 manim/manimlib/mobject/svg/text_mobject.py
-0.000144138000000002
+
+real	0m0.120s
+user	0m0.112s
+sys	0m0.008s
 manim/manimlib/mobject/svg/brace.py
-0.00019423500000000093
+
+real	0m0.096s
+user	0m0.084s
+sys	0m0.012s
 manim/manimlib/mobject/svg/tex_mobject.py
 --- original/manim/manimlib/mobject/svg/tex_mobject.py
 +++ fixed/manim/manimlib/mobject/svg/tex_mobject.py
@@ -137,33 +317,75 @@ manim/manimlib/mobject/svg/tex_mobject.py
  
  from manimlib.constants import *
  from manimlib.mobject.geometry import Line
-0.0002011869999999985
+
+real	0m0.126s
+user	0m0.114s
+sys	0m0.012s
 manim/manimlib/mobject/geometry.py
-0.0001771059999999998
+
+real	0m0.140s
+user	0m0.136s
+sys	0m0.004s
 manim/manimlib/mobject/matrix.py
-0.00016666599999999934
+
+real	0m0.099s
+user	0m0.095s
+sys	0m0.004s
 manim/manimlib/mobject/mobject.py
-0.0001637530000000026
+
+real	0m0.201s
+user	0m0.197s
+sys	0m0.004s
 manim/manimlib/mobject/functions.py
-9.346699999999986e-05
+
+real	0m0.087s
+user	0m0.075s
+sys	0m0.012s
 manim/manimlib/mobject/types/point_cloud_mobject.py
-0.00014580599999999833
+
+real	0m0.089s
+user	0m0.084s
+sys	0m0.004s
 manim/manimlib/mobject/types/image_mobject.py
-0.00013713099999999867
+
+real	0m0.091s
+user	0m0.075s
+sys	0m0.016s
 manim/manimlib/mobject/types/vectorized_mobject.py
-0.00019556100000000035
+
+real	0m0.160s
+user	0m0.155s
+sys	0m0.004s
 manim/manimlib/mobject/types/__init__.py
-0.000333547
+
+real	0m0.079s
+user	0m0.062s
+sys	0m0.016s
 manim/manimlib/mobject/types/surface.py
-0.00018999899999999972
+
+real	0m0.100s
+user	0m0.091s
+sys	0m0.009s
 manim/manimlib/mobject/types/dot_cloud.py
-0.00024212300000000034
+
+real	0m0.091s
+user	0m0.087s
+sys	0m0.004s
 manim/manimlib/scene/three_d_scene.py
-0.0002209700000000009
+
+real	0m0.082s
+user	0m0.077s
+sys	0m0.004s
 manim/manimlib/scene/__init__.py
-0.00018741599999999928
+
+real	0m0.079s
+user	0m0.063s
+sys	0m0.016s
 manim/manimlib/scene/sample_space_scene.py
-0.00027599999999999847
+
+real	0m0.095s
+user	0m0.079s
+sys	0m0.016s
 manim/manimlib/scene/scene.py
 --- original/manim/manimlib/scene/scene.py
 +++ fixed/manim/manimlib/scene/scene.py
@@ -175,29 +397,65 @@ manim/manimlib/scene/scene.py
  
      def construct(self):
          # Where all the animation happens
-0.00019742899999999897
+
+real	0m0.160s
+user	0m0.147s
+sys	0m0.012s
 manim/manimlib/scene/vector_space_scene.py
-0.00024488500000000024
+
+real	0m0.117s
+user	0m0.109s
+sys	0m0.008s
 manim/manimlib/scene/scene_file_writer.py
-0.0001449250000000006
+
+real	0m0.098s
+user	0m0.082s
+sys	0m0.016s
 manim/manimlib/event_handler/__init__.py
-0.00046128200000000036
+
+real	0m0.074s
+user	0m0.066s
+sys	0m0.008s
 manim/manimlib/event_handler/event_dispatcher.py
-0.00012800299999999806
+
+real	0m0.085s
+user	0m0.068s
+sys	0m0.017s
 manim/manimlib/event_handler/event_listner.py
-0.0003543629999999999
+
+real	0m0.083s
+user	0m0.070s
+sys	0m0.012s
 manim/manimlib/event_handler/event_type.py
-0.00018982999999999847
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
 manim/manimlib/once_useful_constructs/arithmetic.py
-0.00020982699999999924
+
+real	0m0.090s
+user	0m0.082s
+sys	0m0.008s
 manim/manimlib/once_useful_constructs/combinatorics.py
-0.00017237600000000186
+
+real	0m0.090s
+user	0m0.082s
+sys	0m0.008s
 manim/manimlib/once_useful_constructs/graph_theory.py
-0.00021483999999999392
+
+real	0m0.111s
+user	0m0.107s
+sys	0m0.004s
 manim/manimlib/once_useful_constructs/complex_transformation_scene.py
-0.0001742089999999981
+
+real	0m0.092s
+user	0m0.068s
+sys	0m0.024s
 manim/manimlib/once_useful_constructs/__init__.py
-0.0001329129999999984
+
+real	0m0.079s
+user	0m0.075s
+sys	0m0.004s
 manim/manimlib/once_useful_constructs/reconfigurable_scene.py
 --- original/manim/manimlib/once_useful_constructs/reconfigurable_scene.py
 +++ fixed/manim/manimlib/once_useful_constructs/reconfigurable_scene.py
@@ -207,11 +465,20 @@ manim/manimlib/once_useful_constructs/reconfigurable_scene.py
  from manimlib.mobject.mobject import Mobject
  from manimlib.scene.scene import Scene
  
-0.00017419700000000093
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.012s
 manim/manimlib/once_useful_constructs/matrix_multiplication.py
-0.00013920999999999725
+
+real	0m0.093s
+user	0m0.073s
+sys	0m0.020s
 manim/manimlib/once_useful_constructs/counting.py
-0.00018546099999999788
+
+real	0m0.098s
+user	0m0.090s
+sys	0m0.008s
 manim/manimlib/once_useful_constructs/region.py
 --- original/manim/manimlib/once_useful_constructs/region.py
 +++ fixed/manim/manimlib/once_useful_constructs/region.py
@@ -223,15 +490,30 @@ manim/manimlib/once_useful_constructs/region.py
  from manimlib.mobject.mobject import Mobject
  from manimlib.utils.iterables import adjacent_pairs
  
-0.000429396000000002
+
+real	0m0.095s
+user	0m0.087s
+sys	0m0.008s
 manim/manimlib/once_useful_constructs/light.py
-0.00019864700000000318
+
+real	0m0.124s
+user	0m0.107s
+sys	0m0.016s
 manim/manimlib/once_useful_constructs/fractals.py
-0.00015651499999999943
+
+real	0m0.128s
+user	0m0.116s
+sys	0m0.012s
 manim/manimlib/once_useful_constructs/graph_scene.py
-0.00018115999999999965
+
+real	0m0.121s
+user	0m0.104s
+sys	0m0.016s
 manim/manimlib/constants.py
-0.00022655900000000118
+
+real	0m0.082s
+user	0m0.082s
+sys	0m0.000s
 manim/docs/source/manim_example_ext.py
 --- original/manim/docs/source/manim_example_ext.py
 +++ fixed/manim/docs/source/manim_example_ext.py
@@ -245,15 +527,30 @@ manim/docs/source/manim_example_ext.py
  
  
  class skip_manim_node(nodes.Admonition, nodes.Element):
-0.00020639299999999916
+
+real	0m0.082s
+user	0m0.078s
+sys	0m0.004s
 manim/docs/source/conf.py
-0.0001783189999999997
+
+real	0m0.082s
+user	0m0.071s
+sys	0m0.012s
 manim/docs/example.py
-0.00023040400000000003
+
+real	0m0.085s
+user	0m0.081s
+sys	0m0.004s
 manim/example_scenes.py
-0.0003271920000000039
+
+real	0m0.122s
+user	0m0.106s
+sys	0m0.016s
 PythonPlantsVsZombies/main.py
-0.0001674090000000003
+
+real	0m0.081s
+user	0m0.073s
+sys	0m0.008s
 PythonPlantsVsZombies/source/state/mainmenu.py
 --- original/PythonPlantsVsZombies/source/state/mainmenu.py
 +++ fixed/PythonPlantsVsZombies/source/state/mainmenu.py
@@ -264,11 +561,20 @@ PythonPlantsVsZombies/source/state/mainmenu.py
  from .. import tool
  from .. import constants as c
  
-0.000261235999999998
+
+real	0m0.083s
+user	0m0.083s
+sys	0m0.000s
 PythonPlantsVsZombies/source/state/__init__.py
-0.00017410699999999973
+
+real	0m0.078s
+user	0m0.074s
+sys	0m0.004s
 PythonPlantsVsZombies/source/state/level.py
-0.0001702239999999966
+
+real	0m0.140s
+user	0m0.135s
+sys	0m0.004s
 PythonPlantsVsZombies/source/state/screen.py
 --- original/PythonPlantsVsZombies/source/state/screen.py
 +++ fixed/PythonPlantsVsZombies/source/state/screen.py
@@ -279,19 +585,40 @@ PythonPlantsVsZombies/source/state/screen.py
  from .. import tool
  from .. import constants as c
  
-0.00048026200000000213
+
+real	0m0.086s
+user	0m0.078s
+sys	0m0.008s
 PythonPlantsVsZombies/source/tool.py
-0.00018801699999999866
+
+real	0m0.094s
+user	0m0.074s
+sys	0m0.019s
 PythonPlantsVsZombies/source/__init__.py
-0.00016530099999999964
+
+real	0m0.076s
+user	0m0.064s
+sys	0m0.012s
 PythonPlantsVsZombies/source/main.py
-0.00023128900000000258
+
+real	0m0.081s
+user	0m0.061s
+sys	0m0.020s
 PythonPlantsVsZombies/source/component/__init__.py
-0.00021038800000000232
+
+real	0m0.077s
+user	0m0.073s
+sys	0m0.004s
 PythonPlantsVsZombies/source/component/menubar.py
-0.0002139970000000005
+
+real	0m0.124s
+user	0m0.104s
+sys	0m0.020s
 PythonPlantsVsZombies/source/component/zombie.py
-0.00022556500000000396
+
+real	0m0.118s
+user	0m0.102s
+sys	0m0.016s
 PythonPlantsVsZombies/source/component/map.py
 --- original/PythonPlantsVsZombies/source/component/map.py
 +++ fixed/PythonPlantsVsZombies/source/component/map.py
@@ -304,13 +631,25 @@ PythonPlantsVsZombies/source/component/map.py
  from .. import constants as c
  
  class Map():
-0.00015146100000000204
+
+real	0m0.087s
+user	0m0.079s
+sys	0m0.008s
 PythonPlantsVsZombies/source/component/plant.py
-0.00018173400000000284
+
+real	0m0.166s
+user	0m0.162s
+sys	0m0.004s
 PythonPlantsVsZombies/source/constants.py
-0.00018071199999999954
+
+real	0m0.087s
+user	0m0.074s
+sys	0m0.012s
 rebound/setup.py
-0.00020265000000000213
+
+real	0m0.086s
+user	0m0.082s
+sys	0m0.004s
 rebound/rebound/__main__.py
 --- original/rebound/rebound/__main__.py
 +++ fixed/rebound/rebound/__main__.py
@@ -319,9 +658,15 @@ rebound/rebound/__main__.py
  from rebound import main
  
  if __name__ == "__main__":
-0.00018391900000000114
+
+real	0m0.076s
+user	0m0.072s
+sys	0m0.004s
 rebound/rebound/__init__.py
-0.0001592329999999982
+
+real	0m0.070s
+user	0m0.070s
+sys	0m0.000s
 rebound/rebound/rebound.py
 --- original/rebound/rebound/rebound.py
 +++ fixed/rebound/rebound/rebound.py
@@ -333,81 +678,195 @@ rebound/rebound/rebound.py
  from urwid.widget import (BOX, FLOW, FIXED)
  import random
  
-0.00017075000000000076
+
+real	0m0.192s
+user	0m0.172s
+sys	0m0.020s
 rebound/tests/python_test.py
-0.00030405600000000046
+
+real	0m0.080s
+user	0m0.075s
+sys	0m0.004s
 rebound/tests/__init__.py
-0.000176873000000001
+
+real	0m0.076s
+user	0m0.071s
+sys	0m0.005s
 xonsh/xontrib/voxapi.py
-0.00018847799999999887
+
+real	0m0.097s
+user	0m0.085s
+sys	0m0.012s
 xonsh/xontrib/distributed.py
-0.00016235899999999734
+
+real	0m0.085s
+user	0m0.070s
+sys	0m0.015s
 xonsh/xontrib/free_cwd.py
-0.00014605399999999963
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.012s
 xonsh/xontrib/jedi.py
-0.00027304799999999796
+
+real	0m0.091s
+user	0m0.071s
+sys	0m0.020s
 xonsh/xontrib/vox.py
-0.00014081300000000005
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.012s
 xonsh/xontrib/pdb.py
-0.0002938150000000028
+
+real	0m0.081s
+user	0m0.080s
+sys	0m0.000s
 xonsh/xontrib/mplhooks.py
-0.00030821399999999763
+
+real	0m0.089s
+user	0m0.081s
+sys	0m0.008s
 xonsh/xontrib/mpl.py
-0.0002055919999999975
+
+real	0m0.086s
+user	0m0.082s
+sys	0m0.004s
 xonsh/xontrib/whole_word_jumping.py
-0.0002141459999999984
+
+real	0m0.085s
+user	0m0.077s
+sys	0m0.008s
 xonsh/xontrib/coreutils.py
-0.0002539860000000012
+
+real	0m0.089s
+user	0m0.088s
+sys	0m0.000s
 xonsh/xontrib/prompt_ret_code.py
-9.747599999999912e-05
+
+real	0m0.081s
+user	0m0.061s
+sys	0m0.020s
 xonsh/xontrib/bashisms.py
-0.00013466600000000203
+
+real	0m0.090s
+user	0m0.081s
+sys	0m0.008s
 xonsh/xontrib/xog.py
-0.00020925800000000036
+
+real	0m0.081s
+user	0m0.073s
+sys	0m0.008s
 xonsh/xontrib/autovox.py
-0.00013572800000000163
+
+real	0m0.085s
+user	0m0.081s
+sys	0m0.004s
 xonsh/xontrib/abbrevs.py
-0.00013407199999999897
+
+real	0m0.082s
+user	0m0.078s
+sys	0m0.004s
 xonsh/xonsh/built_ins.py
-0.0001599930000000041
+
+real	0m0.131s
+user	0m0.115s
+sys	0m0.016s
 xonsh/xonsh/imphooks.py
-0.00019559099999999843
+
+real	0m0.095s
+user	0m0.087s
+sys	0m0.008s
 xonsh/xonsh/codecache.py
-0.00015191500000000246
+
+real	0m0.092s
+user	0m0.087s
+sys	0m0.004s
 xonsh/xonsh/execer.py
-0.0002414889999999975
+
+real	0m0.096s
+user	0m0.076s
+sys	0m0.020s
 xonsh/xonsh/ply/ply/cpp.py
-0.00024544200000000196
+
+real	0m0.138s
+user	0m0.126s
+sys	0m0.012s
 xonsh/xonsh/ply/ply/lex.py
-0.00019298600000000263
+
+real	0m0.150s
+user	0m0.137s
+sys	0m0.012s
 xonsh/xonsh/ply/ply/ctokens.py
-0.00029755100000000007
+
+real	0m0.084s
+user	0m0.068s
+sys	0m0.016s
 xonsh/xonsh/ply/ply/__init__.py
-0.0002353679999999997
+
+real	0m0.071s
+user	0m0.063s
+sys	0m0.008s
 xonsh/xonsh/ply/ply/ygen.py
-0.00012693300000000268
+
+real	0m0.090s
+user	0m0.070s
+sys	0m0.019s
 xonsh/xonsh/ply/ply/yacc.py
-0.00013648700000000458
+
+real	0m0.278s
+user	0m0.266s
+sys	0m0.012s
 xonsh/xonsh/pytest_plugin.py
-0.00012009400000000114
+
+real	0m0.087s
+user	0m0.082s
+sys	0m0.005s
 xonsh/xonsh/procs/pipelines.py
-0.00017531299999999986
+
+real	0m0.128s
+user	0m0.116s
+sys	0m0.012s
 xonsh/xonsh/procs/readers.py
-0.0004004870000000049
+
+real	0m0.104s
+user	0m0.100s
+sys	0m0.004s
 xonsh/xonsh/procs/__init__.py
-0.00022123999999999755
+
+real	0m0.077s
+user	0m0.061s
+sys	0m0.016s
 xonsh/xonsh/procs/posix.py
-0.00025166700000000056
+
+real	0m0.112s
+user	0m0.100s
+sys	0m0.012s
 xonsh/xonsh/procs/proxies.py
-0.00018299299999999935
+
+real	0m0.124s
+user	0m0.116s
+sys	0m0.008s
 xonsh/xonsh/procs/specs.py
-0.00019667900000000169
+
+real	0m0.136s
+user	0m0.120s
+sys	0m0.016s
 xonsh/xonsh/lib/__init__.py
-0.00015079299999999976
+
+real	0m0.078s
+user	0m0.055s
+sys	0m0.023s
 xonsh/xonsh/lib/itertools.py
-0.00023810100000000098
+
+real	0m0.081s
+user	0m0.068s
+sys	0m0.013s
 xonsh/xonsh/lib/collections.py
-0.00024502000000000204
+
+real	0m0.083s
+user	0m0.067s
+sys	0m0.016s
 xonsh/xonsh/lexer.py
 --- original/xonsh/xonsh/lexer.py
 +++ fixed/xonsh/xonsh/lexer.py
@@ -419,15 +878,30 @@ xonsh/xonsh/lexer.py
  
      def reset(self):
          pass
-0.00016394100000000078
+
+real	0m0.146s
+user	0m0.137s
+sys	0m0.008s
 xonsh/xonsh/dirstack.py
-0.0002514979999999993
+
+real	0m0.114s
+user	0m0.102s
+sys	0m0.012s
 xonsh/xonsh/pygments_cache.py
-0.00026327099999999895
+
+real	0m0.110s
+user	0m0.102s
+sys	0m0.008s
 xonsh/xonsh/tokenize.py
-0.0002752009999999992
+
+real	0m0.144s
+user	0m0.136s
+sys	0m0.008s
 xonsh/xonsh/contexts.py
-0.0002571510000000006
+
+real	0m0.083s
+user	0m0.071s
+sys	0m0.012s
 xonsh/xonsh/parsers/base.py
 --- original/xonsh/xonsh/parsers/base.py
 +++ fixed/xonsh/xonsh/parsers/base.py
@@ -521,25 +995,55 @@ xonsh/xonsh/parsers/base.py
  
      def p_comma_nocomma(self, p):
          """comma_nocomma : comma_tok nocomma"""
-0.0001230579999999988
+
+real	0m0.598s
+user	0m0.577s
+sys	0m0.020s
 xonsh/xonsh/parsers/v310.py
-0.00027702599999999966
+
+real	0m0.088s
+user	0m0.084s
+sys	0m0.004s
 xonsh/xonsh/parsers/v38.py
-0.00010144399999999915
+
+real	0m0.112s
+user	0m0.100s
+sys	0m0.012s
 xonsh/xonsh/parsers/v36.py
-0.00029000399999999996
+
+real	0m0.085s
+user	0m0.085s
+sys	0m0.000s
 xonsh/xonsh/parsers/fstring_adaptor.py
-0.0002669769999999981
+
+real	0m0.097s
+user	0m0.085s
+sys	0m0.012s
 xonsh/xonsh/parsers/__init__.py
-0.00019429900000000194
+
+real	0m0.072s
+user	0m0.064s
+sys	0m0.008s
 xonsh/xonsh/parsers/v39.py
-0.0003277320000000007
+
+real	0m0.086s
+user	0m0.074s
+sys	0m0.012s
 xonsh/xonsh/parsers/context_check.py
-0.00032351400000000044
+
+real	0m0.085s
+user	0m0.069s
+sys	0m0.016s
 xonsh/xonsh/parsers/completion_context.py
-0.000210156999999999
+
+real	0m0.144s
+user	0m0.123s
+sys	0m0.021s
 xonsh/xonsh/cli_utils.py
-0.00013859299999999936
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
 xonsh/xonsh/environ.py
 --- original/xonsh/xonsh/environ.py
 +++ fixed/xonsh/xonsh/environ.py
@@ -551,55 +1055,130 @@ xonsh/xonsh/environ.py
  
  
  def xonsh_script_run_control(filename, ctx, env, execer=None, login=True):
-0.00027401300000000003
+
+real	0m0.290s
+user	0m0.286s
+sys	0m0.004s
 xonsh/xonsh/openpy.py
-0.00026490000000000194
+
+real	0m0.085s
+user	0m0.085s
+sys	0m0.000s
 xonsh/xonsh/foreign_shells.py
-0.0002032390000000009
+
+real	0m0.112s
+user	0m0.108s
+sys	0m0.004s
 xonsh/xonsh/tracer.py
-0.00028331100000000137
+
+real	0m0.102s
+user	0m0.097s
+sys	0m0.004s
 xonsh/xonsh/diff_history.py
-0.00017092499999999539
+
+real	0m0.103s
+user	0m0.094s
+sys	0m0.008s
 xonsh/xonsh/ptk2/key_bindings.py
-0.00010052999999999798
+
+real	0m0.080s
+user	0m0.068s
+sys	0m0.012s
 xonsh/xonsh/ptk2/__init__.py
-0.00032003899999999766
+
+real	0m0.080s
+user	0m0.060s
+sys	0m0.020s
 xonsh/xonsh/ptk2/completer.py
-0.0002730919999999991
+
+real	0m0.077s
+user	0m0.070s
+sys	0m0.008s
 xonsh/xonsh/ptk2/shell.py
-0.00018450999999999884
+
+real	0m0.080s
+user	0m0.076s
+sys	0m0.004s
 xonsh/xonsh/ptk2/history.py
-0.0002253960000000027
+
+real	0m0.080s
+user	0m0.076s
+sys	0m0.004s
 xonsh/xonsh/lazyjson.py
-0.00025040200000000026
+
+real	0m0.103s
+user	0m0.087s
+sys	0m0.016s
 xonsh/xonsh/xontribs_meta.py
-0.00026028300000000004
+
+real	0m0.113s
+user	0m0.101s
+sys	0m0.012s
 xonsh/xonsh/color_tools.py
-0.00010979799999999776
+
+real	0m0.111s
+user	0m0.099s
+sys	0m0.012s
 xonsh/xonsh/events.py
-0.00018672000000000133
+
+real	0m0.112s
+user	0m0.108s
+sys	0m0.004s
 xonsh/xonsh/xoreutils/_which.py
-0.00023965600000000128
+
+real	0m0.093s
+user	0m0.081s
+sys	0m0.013s
 xonsh/xonsh/xoreutils/tee.py
-0.00021854500000000054
+
+real	0m0.081s
+user	0m0.081s
+sys	0m0.000s
 xonsh/xonsh/xoreutils/uptime.py
-0.00021692200000000134
+
+real	0m0.088s
+user	0m0.080s
+sys	0m0.008s
 xonsh/xonsh/xoreutils/ulimit.py
-0.00017568400000000234
+
+real	0m0.094s
+user	0m0.082s
+sys	0m0.012s
 xonsh/xonsh/xoreutils/__init__.py
-0.00023891300000000032
+
+real	0m0.077s
+user	0m0.073s
+sys	0m0.004s
 xonsh/xonsh/xoreutils/tty.py
-0.0002784110000000027
+
+real	0m0.079s
+user	0m0.063s
+sys	0m0.016s
 xonsh/xonsh/xoreutils/which.py
-0.00024636999999999923
+
+real	0m0.089s
+user	0m0.078s
+sys	0m0.012s
 xonsh/xonsh/xoreutils/echo.py
-0.00029074999999999934
+
+real	0m0.083s
+user	0m0.066s
+sys	0m0.017s
 xonsh/xonsh/xoreutils/pwd.py
-0.0002108579999999978
+
+real	0m0.079s
+user	0m0.075s
+sys	0m0.004s
 xonsh/xonsh/xoreutils/yes.py
-0.00025002100000000305
+
+real	0m0.079s
+user	0m0.071s
+sys	0m0.008s
 xonsh/xonsh/xoreutils/util.py
-0.00029321499999999945
+
+real	0m0.077s
+user	0m0.057s
+sys	0m0.020s
 xonsh/xonsh/xoreutils/cat.py
 --- original/xonsh/xonsh/xoreutils/cat.py
 +++ fixed/xonsh/xonsh/xoreutils/cat.py
@@ -611,17 +1190,35 @@ xonsh/xonsh/xoreutils/cat.py
      if fobj is not None:
          fobj.close()
      return False, line_count
-0.0001296730000000003
+
+real	0m0.096s
+user	0m0.092s
+sys	0m0.004s
 xonsh/xonsh/xoreutils/umask.py
-0.0001785160000000001
+
+real	0m0.091s
+user	0m0.083s
+sys	0m0.008s
 xonsh/xonsh/__main__.py
-0.00015290399999999885
+
+real	0m0.079s
+user	0m0.067s
+sys	0m0.012s
 xonsh/xonsh/xonfig.py
-0.00020416699999999816
+
+real	0m0.132s
+user	0m0.120s
+sys	0m0.012s
 xonsh/xonsh/jobs.py
-0.0001721169999999994
+
+real	0m0.104s
+user	0m0.079s
+sys	0m0.024s
 xonsh/xonsh/__init__.py
-0.00016311999999999924
+
+real	0m0.088s
+user	0m0.076s
+sys	0m0.012s
 xonsh/xonsh/ast.py
 --- original/xonsh/xonsh/ast.py
 +++ fixed/xonsh/xonsh/ast.py
@@ -744,33 +1341,75 @@ xonsh/xonsh/ast.py
      AnnAssign,
  )
  
-0.00018913999999999737
+
+real	0m0.157s
+user	0m0.149s
+sys	0m0.008s
 xonsh/xonsh/webconfig/__main__.py
-0.00010740299999999897
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
 xonsh/xonsh/webconfig/__init__.py
-0.00028405400000000233
+
+real	0m0.074s
+user	0m0.066s
+sys	0m0.008s
 xonsh/xonsh/webconfig/main.py
-0.0002455059999999995
+
+real	0m0.089s
+user	0m0.080s
+sys	0m0.009s
 xonsh/xonsh/commands_cache.py
-0.00014741599999999744
+
+real	0m0.108s
+user	0m0.104s
+sys	0m0.004s
 xonsh/xonsh/macutils.py
-0.0001471099999999989
+
+real	0m0.084s
+user	0m0.072s
+sys	0m0.012s
 xonsh/xonsh/dumb_shell.py
-0.00020761700000000022
+
+real	0m0.079s
+user	0m0.074s
+sys	0m0.005s
 xonsh/xonsh/lazyasd.py
-0.00018127600000000105
+
+real	0m0.105s
+user	0m0.094s
+sys	0m0.012s
 xonsh/xonsh/completer.py
-0.00020555000000000226
+
+real	0m0.093s
+user	0m0.089s
+sys	0m0.004s
 xonsh/xonsh/inspectors.py
-0.00017904000000000184
+
+real	0m0.121s
+user	0m0.117s
+sys	0m0.004s
 xonsh/xonsh/pretty.py
-0.00013936399999999946
+
+real	0m0.132s
+user	0m0.120s
+sys	0m0.012s
 xonsh/xonsh/tools.py
-0.000419410000000002
+
+real	0m0.245s
+user	0m0.237s
+sys	0m0.008s
 xonsh/xonsh/main.py
-0.00020473500000000103
+
+real	0m0.107s
+user	0m0.103s
+sys	0m0.005s
 xonsh/xonsh/lazyimps.py
-0.00010840599999999839
+
+real	0m0.090s
+user	0m0.077s
+sys	0m0.012s
 xonsh/xonsh/readline_shell.py
 --- original/xonsh/xonsh/readline_shell.py
 +++ fixed/xonsh/xonsh/readline_shell.py
@@ -783,57 +1422,135 @@ xonsh/xonsh/readline_shell.py
      except (ImportError, TypeError):
          return
  
-0.0003092760000000007
+
+real	0m0.166s
+user	0m0.146s
+sys	0m0.020s
 xonsh/xonsh/jupyter_shell.py
-0.0001439280000000015
+
+real	0m0.083s
+user	0m0.067s
+sys	0m0.016s
 xonsh/xonsh/ansi_colors.py
-0.00018127399999999863
+
+real	0m0.129s
+user	0m0.121s
+sys	0m0.008s
 xonsh/xonsh/xontribs.py
-0.000297423000000005
+
+real	0m0.097s
+user	0m0.081s
+sys	0m0.016s
 xonsh/xonsh/wizard.py
-0.00024149900000000266
+
+real	0m0.133s
+user	0m0.128s
+sys	0m0.005s
 xonsh/xonsh/completers/man.py
-8.845299999999875e-05
+
+real	0m0.083s
+user	0m0.075s
+sys	0m0.008s
 xonsh/xonsh/completers/base.py
-0.00016700499999999785
+
+real	0m0.081s
+user	0m0.072s
+sys	0m0.008s
 xonsh/xonsh/completers/path.py
-0.0002436690000000019
+
+real	0m0.112s
+user	0m0.103s
+sys	0m0.008s
 xonsh/xonsh/completers/bash.py
-0.00016246300000000158
+
+real	0m0.091s
+user	0m0.075s
+sys	0m0.016s
 xonsh/xonsh/completers/__init__.py
-0.00023771200000000103
+
+real	0m0.082s
+user	0m0.069s
+sys	0m0.013s
 xonsh/xonsh/completers/pip.py
-0.00027052099999999926
+
+real	0m0.076s
+user	0m0.076s
+sys	0m0.000s
 xonsh/xonsh/completers/completer.py
-0.00024003599999999903
+
+real	0m0.089s
+user	0m0.084s
+sys	0m0.004s
 xonsh/xonsh/completers/tools.py
-0.00021042599999999967
+
+real	0m0.088s
+user	0m0.084s
+sys	0m0.004s
 xonsh/xonsh/completers/environment.py
-0.00016260599999999917
+
+real	0m0.076s
+user	0m0.072s
+sys	0m0.004s
 xonsh/xonsh/completers/dirs.py
-0.0002258199999999981
+
+real	0m0.080s
+user	0m0.064s
+sys	0m0.016s
 xonsh/xonsh/completers/init.py
-0.0001237549999999997
+
+real	0m0.088s
+user	0m0.072s
+sys	0m0.016s
 xonsh/xonsh/completers/xompletions.py
-0.0002205289999999971
+
+real	0m0.089s
+user	0m0.080s
+sys	0m0.008s
 xonsh/xonsh/completers/bash_completion.py
-0.00013424500000000159
+
+real	0m0.098s
+user	0m0.086s
+sys	0m0.012s
 xonsh/xonsh/completers/_aliases.py
-0.0002476710000000014
+
+real	0m0.086s
+user	0m0.069s
+sys	0m0.017s
 xonsh/xonsh/completers/commands.py
-0.00010204299999999958
+
+real	0m0.086s
+user	0m0.078s
+sys	0m0.008s
 xonsh/xonsh/completers/python.py
-0.00012090500000000101
+
+real	0m0.101s
+user	0m0.097s
+sys	0m0.004s
 xonsh/xonsh/shell.py
-0.00014143900000000015
+
+real	0m0.092s
+user	0m0.083s
+sys	0m0.008s
 xonsh/xonsh/jupyter_kernel.py
-0.00020996100000000156
+
+real	0m0.116s
+user	0m0.096s
+sys	0m0.020s
 xonsh/xonsh/parser.py
-0.0003644880000000031
+
+real	0m0.078s
+user	0m0.069s
+sys	0m0.009s
 xonsh/xonsh/jsonutils.py
-0.00012841300000000083
+
+real	0m0.081s
+user	0m0.069s
+sys	0m0.012s
 xonsh/xonsh/style_tools.py
-0.00015859199999999907
+
+real	0m0.107s
+user	0m0.103s
+sys	0m0.004s
 xonsh/xonsh/ptk_shell/key_bindings.py
 --- original/xonsh/xonsh/ptk_shell/key_bindings.py
 +++ fixed/xonsh/xonsh/ptk_shell/key_bindings.py
@@ -845,19 +1562,40 @@ xonsh/xonsh/ptk_shell/key_bindings.py
  
      @handle(Keys.ControlX, Keys.ControlX, filter=has_selection)
      def _cut(event):
-0.00017307800000000012
+
+real	0m0.135s
+user	0m0.127s
+sys	0m0.008s
 xonsh/xonsh/ptk_shell/updator.py
-0.00014897099999999774
+
+real	0m0.090s
+user	0m0.078s
+sys	0m0.012s
 xonsh/xonsh/ptk_shell/__init__.py
-0.00013895499999999963
+
+real	0m0.078s
+user	0m0.078s
+sys	0m0.000s
 xonsh/xonsh/ptk_shell/completer.py
-0.0001834780000000008
+
+real	0m0.087s
+user	0m0.079s
+sys	0m0.008s
 xonsh/xonsh/ptk_shell/shell.py
-0.00019144899999999979
+
+real	0m0.111s
+user	0m0.107s
+sys	0m0.004s
 xonsh/xonsh/ptk_shell/formatter.py
-0.0003069069999999986
+
+real	0m0.089s
+user	0m0.085s
+sys	0m0.004s
 xonsh/xonsh/ptk_shell/history.py
-0.0001513360000000019
+
+real	0m0.087s
+user	0m0.082s
+sys	0m0.004s
 xonsh/xonsh/timings.py
 --- original/xonsh/xonsh/timings.py
 +++ fixed/xonsh/xonsh/timings.py
@@ -876,9 +1614,15 @@ xonsh/xonsh/timings.py
  
          have = True
      except ImportError:
-0.00015623799999999605
+
+real	0m0.114s
+user	0m0.098s
+sys	0m0.016s
 xonsh/xonsh/history/sqlite.py
-0.00016164700000000087
+
+real	0m0.101s
+user	0m0.081s
+sys	0m0.019s
 xonsh/xonsh/history/base.py
 --- original/xonsh/xonsh/history/base.py
 +++ fixed/xonsh/xonsh/history/base.py
@@ -905,13 +1649,25 @@ xonsh/xonsh/history/base.py
          memory.
          """
 -        pass
-7.181499999999938e-05
+
+real	0m0.089s
+user	0m0.081s
+sys	0m0.008s
 xonsh/xonsh/history/__init__.py
-0.00016595699999999783
+
+real	0m0.082s
+user	0m0.082s
+sys	0m0.000s
 xonsh/xonsh/history/main.py
-0.00014929299999999826
+
+real	0m0.108s
+user	0m0.095s
+sys	0m0.012s
 xonsh/xonsh/history/dummy.py
-0.0003083550000000032
+
+real	0m0.082s
+user	0m0.075s
+sys	0m0.008s
 xonsh/xonsh/history/json.py
 --- original/xonsh/xonsh/history/json.py
 +++ fixed/xonsh/xonsh/history/json.py
@@ -923,11 +1679,20 @@ xonsh/xonsh/history/json.py
                  except OSError:
                      pass
                  i += 1
-0.00014434399999999764
+
+real	0m0.151s
+user	0m0.147s
+sys	0m0.005s
 xonsh/xonsh/proc.py
-0.0002286979999999994
+
+real	0m0.079s
+user	0m0.063s
+sys	0m0.016s
 xonsh/xonsh/platform.py
-0.0003661859999999975
+
+real	0m0.112s
+user	0m0.104s
+sys	0m0.008s
 xonsh/xonsh/base_shell.py
 --- original/xonsh/xonsh/base_shell.py
 +++ fixed/xonsh/xonsh/base_shell.py
@@ -936,29 +1701,65 @@ xonsh/xonsh/base_shell.py
          it only affects ^Z backgrounding behaviour.
          """
 -        pass
-0.0001550660000000023
+
+real	0m0.152s
+user	0m0.148s
+sys	0m0.004s
 xonsh/xonsh/pyghooks.py
-0.00013303300000000115
+
+real	0m0.178s
+user	0m0.166s
+sys	0m0.012s
 xonsh/xonsh/winutils.py
-0.0001567619999999978
+
+real	0m0.116s
+user	0m0.100s
+sys	0m0.016s
 xonsh/xonsh/prompt/gitstatus.py
-0.00017161799999999838
+
+real	0m0.099s
+user	0m0.078s
+sys	0m0.021s
 xonsh/xonsh/prompt/base.py
-0.00018908899999999992
+
+real	0m0.101s
+user	0m0.081s
+sys	0m0.020s
 xonsh/xonsh/prompt/vc.py
-0.00021858400000000083
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.012s
 xonsh/xonsh/prompt/env.py
-0.0001284629999999988
+
+real	0m0.082s
+user	0m0.074s
+sys	0m0.008s
 xonsh/xonsh/prompt/times.py
-0.00011485799999999893
+
+real	0m0.079s
+user	0m0.067s
+sys	0m0.012s
 xonsh/xonsh/prompt/__init__.py
-0.0002575289999999994
+
+real	0m0.076s
+user	0m0.072s
+sys	0m0.004s
 xonsh/xonsh/prompt/job.py
-0.00029085300000000064
+
+real	0m0.081s
+user	0m0.073s
+sys	0m0.008s
 xonsh/xonsh/prompt/cwd.py
-0.00032763400000000026
+
+real	0m0.086s
+user	0m0.086s
+sys	0m0.000s
 xonsh/xonsh/aliases.py
-0.0002456809999999976
+
+real	0m0.124s
+user	0m0.112s
+sys	0m0.012s
 xonsh/setup.py
 --- original/xonsh/setup.py
 +++ fixed/xonsh/setup.py
@@ -971,11 +1772,20 @@ xonsh/setup.py
  from setuptools.command.sdist import sdist
  from setuptools.command.install import install
  from setuptools.command.develop import develop
-0.0002546730000000004
+
+real	0m0.120s
+user	0m0.115s
+sys	0m0.004s
 xonsh/xonsh-in-docker.py
-0.00019728499999999843
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
 xonsh/conftest.py
-0.0005120609999999977
+
+real	0m0.076s
+user	0m0.076s
+sys	0m0.000s
 xonsh/docs/cmdhelp.py
 --- original/xonsh/docs/cmdhelp.py
 +++ fixed/xonsh/docs/cmdhelp.py
@@ -998,9 +1808,15 @@ xonsh/docs/cmdhelp.py
  from docutils.statemachine import ViewList
  
  from sphinx.util.nodes import nested_parse_with_titles
-0.00025336400000000245
+
+real	0m0.090s
+user	0m0.078s
+sys	0m0.012s
 xonsh/docs/rst_helpers.py
-0.00021453400000000233
+
+real	0m0.084s
+user	0m0.075s
+sys	0m0.008s
 xonsh/docs/conf.py
 --- original/xonsh/docs/conf.py
 +++ fixed/xonsh/docs/conf.py
@@ -1012,61 +1828,145 @@ xonsh/docs/conf.py
  import inspect
  import importlib
  import typing as tp
-0.0002443990000000028
+
+real	0m0.114s
+user	0m0.105s
+sys	0m0.008s
 xonsh/docs/jinja_rst_ext.py
-0.0002455259999999994
+
+real	0m0.081s
+user	0m0.077s
+sys	0m0.004s
 xonsh/docs/serve_docs.py
-0.0002998989999999993
+
+real	0m0.079s
+user	0m0.071s
+sys	0m0.008s
 xonsh/amalgamate.py
-0.00023276900000000073
+
+real	0m0.122s
+user	0m0.118s
+sys	0m0.004s
 xonsh/tests/test_parser.py
-0.00019915800000000136
+
+real	0m0.228s
+user	0m0.218s
+sys	0m0.009s
 xonsh/tests/test_contexts.py
-0.00028268999999999864
+
+real	0m0.099s
+user	0m0.095s
+sys	0m0.004s
 xonsh/tests/procs/__init__.py
-0.00031458900000000053
+
+real	0m0.079s
+user	0m0.063s
+sys	0m0.016s
 xonsh/tests/procs/test_specs.py
-0.0002699830000000014
+
+real	0m0.087s
+user	0m0.075s
+sys	0m0.012s
 xonsh/tests/procs/tools.py
-0.00021113099999999982
+
+real	0m0.078s
+user	0m0.070s
+sys	0m0.008s
 xonsh/tests/test_aliases.py
-0.0002882240000000001
+
+real	0m0.096s
+user	0m0.080s
+sys	0m0.016s
 xonsh/tests/test_wizard.py
-0.00020914799999999928
+
+real	0m0.081s
+user	0m0.064s
+sys	0m0.016s
 xonsh/tests/test_bashisms.py
-0.00017813699999999835
+
+real	0m0.087s
+user	0m0.075s
+sys	0m0.012s
 xonsh/tests/test_readline_shell.py
-0.00043320999999999985
+
+real	0m0.081s
+user	0m0.069s
+sys	0m0.012s
 xonsh/tests/test_imphooks.py
-0.00018479000000000065
+
+real	0m0.078s
+user	0m0.070s
+sys	0m0.008s
 xonsh/tests/test_pyghooks.py
-0.00021664900000000278
+
+real	0m0.108s
+user	0m0.104s
+sys	0m0.004s
 xonsh/tests/aliases/test_completer_alias.py
-0.00023278800000000113
+
+real	0m0.077s
+user	0m0.073s
+sys	0m0.004s
 xonsh/tests/aliases/test_source.py
-0.00027221200000000084
+
+real	0m0.083s
+user	0m0.059s
+sys	0m0.023s
 xonsh/tests/aliases/__init__.py
-9.621899999999808e-05
+
+real	0m0.076s
+user	0m0.068s
+sys	0m0.008s
 xonsh/tests/aliases/test_xexec.py
-0.0002806540000000017
+
+real	0m0.087s
+user	0m0.075s
+sys	0m0.012s
 xonsh/tests/test_jsonutils.py
-0.00012708199999999711
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
 xonsh/tests/test_xonfig.py
-0.00022271600000000127
+
+real	0m0.084s
+user	0m0.063s
+sys	0m0.021s
 xonsh/tests/test_color_tools.py
-0.00027911199999999803
+
+real	0m0.081s
+user	0m0.081s
+sys	0m0.000s
 xonsh/tests/test_news.py
-0.00027932699999999935
+
+real	0m0.087s
+user	0m0.071s
+sys	0m0.016s
 xonsh/tests/test_ptk_completer.py
-0.0002760590000000021
+
+real	0m0.082s
+user	0m0.081s
+sys	0m0.001s
 xonsh/tests/test_lazyjson.py
-0.00022281099999999984
+
+real	0m0.098s
+user	0m0.075s
+sys	0m0.023s
 xonsh/tests/test_platform.py
-0.0002444309999999998
+
+real	0m0.090s
+user	0m0.078s
+sys	0m0.012s
 xonsh/tests/test_lexer.py
-0.00021769400000000091
+
+real	0m0.104s
+user	0m0.092s
+sys	0m0.012s
 xonsh/tests/test_lazyasd.py
-0.0002879860000000005
+
+real	0m0.082s
+user	0m0.062s
+sys	0m0.019s
 xonsh/tests/test_tools.py
 --- original/xonsh/tests/test_tools.py
 +++ fixed/xonsh/tests/test_tools.py
@@ -1078,9 +1978,15 @@ xonsh/tests/test_tools.py
  
      assert my_function.__doc__ == expected_docstring
  
-0.00021806400000000045
+
+real	0m0.310s
+user	0m0.294s
+sys	0m0.016s
 xonsh/tests/test_pipelines.py
-0.00031262900000000177
+
+real	0m0.082s
+user	0m0.070s
+sys	0m0.012s
 xonsh/tests/test_environ.py
 --- original/xonsh/tests/test_environ.py
 +++ fixed/xonsh/tests/test_environ.py
@@ -1092,13 +1998,25 @@ xonsh/tests/test_environ.py
  from tempfile import TemporaryDirectory
  
  import pytest
-0.00029182999999999987
+
+real	0m0.141s
+user	0m0.121s
+sys	0m0.020s
 xonsh/tests/test_builtins.py
-0.00026912700000000095
+
+real	0m0.107s
+user	0m0.102s
+sys	0m0.004s
 xonsh/tests/test_events.py
-0.00017986299999999886
+
+real	0m0.086s
+user	0m0.078s
+sys	0m0.008s
 xonsh/tests/test_ptk_history.py
-0.00027256700000000134
+
+real	0m0.084s
+user	0m0.075s
+sys	0m0.009s
 xonsh/tests/test_history_json.py
 --- original/xonsh/tests/test_history_json.py
 +++ fixed/xonsh/tests/test_history_json.py
@@ -1110,17 +2028,35 @@ xonsh/tests/test_history_json.py
  import shlex
  
  import pytest
-0.0002552600000000002
+
+real	0m0.162s
+user	0m0.146s
+sys	0m0.016s
 xonsh/tests/test_commands_cache.py
-0.0002786250000000011
+
+real	0m0.089s
+user	0m0.073s
+sys	0m0.015s
 xonsh/tests/tools.py
-0.00028302499999999925
+
+real	0m0.103s
+user	0m0.098s
+sys	0m0.005s
 xonsh/tests/test_dirstack.py
-0.0002984670000000002
+
+real	0m0.095s
+user	0m0.074s
+sys	0m0.020s
 xonsh/tests/test_ansi_colors.py
-0.0002804390000000004
+
+real	0m0.094s
+user	0m0.085s
+sys	0m0.009s
 xonsh/tests/test_foreign_shells.py
-0.00019340799999999908
+
+real	0m0.084s
+user	0m0.072s
+sys	0m0.012s
 xonsh/tests/test_ptk_shell.py
 --- original/xonsh/tests/test_ptk_shell.py
 +++ fixed/xonsh/tests/test_ptk_shell.py
@@ -1132,9 +2068,15 @@ xonsh/tests/test_ptk_shell.py
  
  
  @pytest.mark.parametrize(
-0.00020916299999999832
+
+real	0m0.087s
+user	0m0.079s
+sys	0m0.008s
 xonsh/tests/test_mpl.py
-0.00022973699999999722
+
+real	0m0.086s
+user	0m0.074s
+sys	0m0.012s
 xonsh/tests/test_dirstack_unc.py
 --- original/xonsh/tests/test_dirstack_unc.py
 +++ fixed/xonsh/tests/test_dirstack_unc.py
@@ -1146,25 +2088,55 @@ xonsh/tests/test_dirstack_unc.py
  
  
  # really?  Need to cut-and-paste 2 flavors of this? fixture requires yield in defined function body, not callee
-0.00024172800000000008
+
+real	0m0.134s
+user	0m0.119s
+sys	0m0.016s
 xonsh/tests/test_execer.py
-0.0002841909999999996
+
+real	0m0.086s
+user	0m0.086s
+sys	0m0.000s
 xonsh/tests/conftest.py
-0.00031751500000000085
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
 xonsh/tests/test_xoreutils.py
-0.00028125700000000003
+
+real	0m0.097s
+user	0m0.093s
+sys	0m0.004s
 xonsh/tests/test_path_completers.py
-0.00016303900000000024
+
+real	0m0.089s
+user	0m0.089s
+sys	0m0.000s
 xonsh/tests/test_base_shell.py
-0.000314202999999999
+
+real	0m0.088s
+user	0m0.080s
+sys	0m0.008s
 xonsh/tests/test_cli_utils.py
-0.00014589200000000163
+
+real	0m0.078s
+user	0m0.074s
+sys	0m0.004s
 xonsh/tests/completers/test_bash_completer.py
-0.00032917099999999963
+
+real	0m0.089s
+user	0m0.089s
+sys	0m0.000s
 xonsh/tests/completers/test_completer_command.py
-0.00024089899999999928
+
+real	0m0.078s
+user	0m0.066s
+sys	0m0.012s
 xonsh/tests/completers/test_pip_completer.py
-0.0002671479999999983
+
+real	0m0.079s
+user	0m0.075s
+sys	0m0.004s
 xonsh/tests/completers/test_base_completer.py
 --- original/xonsh/tests/completers/test_base_completer.py
 +++ fixed/xonsh/tests/completers/test_base_completer.py
@@ -1176,9 +2148,15 @@ xonsh/tests/completers/test_base_completer.py
      PythonContext,
  )
  
-0.00020029200000000122
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
 xonsh/tests/completers/test_command_completers.py
-0.00018683499999999978
+
+real	0m0.084s
+user	0m0.080s
+sys	0m0.004s
 xonsh/tests/completers/test_environment_completer.py
 --- original/xonsh/tests/completers/test_environment_completer.py
 +++ fixed/xonsh/tests/completers/test_environment_completer.py
@@ -1190,9 +2168,15 @@ xonsh/tests/completers/test_environment_completer.py
  from xonsh.parsers.completion_context import CompletionContextParser
  from xonsh.completers.environment import complete_environment_vars
  
-0.00016554200000000116
+
+real	0m0.082s
+user	0m0.070s
+sys	0m0.012s
 xonsh/tests/completers/test_xompletions.py
-0.00020574099999999887
+
+real	0m0.082s
+user	0m0.073s
+sys	0m0.008s
 xonsh/tests/completers/test_dir_completers.py
 --- original/xonsh/tests/completers/test_dir_completers.py
 +++ fixed/xonsh/tests/completers/test_dir_completers.py
@@ -1201,13 +2185,25 @@ xonsh/tests/completers/test_dir_completers.py
  import pytest
  import tempfile
  from os import sep
-0.00015090800000000168
+
+real	0m0.099s
+user	0m0.087s
+sys	0m0.012s
 xonsh/tests/test_shell.py
-8.200199999999769e-05
+
+real	0m0.089s
+user	0m0.084s
+sys	0m0.005s
 xonsh/tests/xpack/__init__.py
-0.00024497199999999955
+
+real	0m0.073s
+user	0m0.061s
+sys	0m0.012s
 xonsh/tests/xpack/sub/__init__.py
-0.0002274719999999994
+
+real	0m0.071s
+user	0m0.059s
+sys	0m0.012s
 xonsh/tests/test_main.py
 --- original/xonsh/tests/test_main.py
 +++ fixed/xonsh/tests/test_main.py
@@ -1220,49 +2216,115 @@ xonsh/tests/test_main.py
  
  
  def Shell(*args, **kwargs):
-0.00014980200000000096
+
+real	0m0.141s
+user	0m0.137s
+sys	0m0.004s
 xonsh/tests/test_history_dummy.py
-0.000431800999999999
+
+real	0m0.077s
+user	0m0.065s
+sys	0m0.012s
 xonsh/tests/test_ast.py
-0.000266704999999999
+
+real	0m0.083s
+user	0m0.078s
+sys	0m0.005s
 xonsh/tests/test_jupyter_kernel.py
-0.0003687609999999987
+
+real	0m0.088s
+user	0m0.080s
+sys	0m0.008s
 xonsh/tests/xontribs/test_abbrevs.py
-0.00020431400000000058
+
+real	0m0.077s
+user	0m0.069s
+sys	0m0.008s
 xonsh/tests/xontribs/test_jedi.py
-0.0002991219999999989
+
+real	0m0.092s
+user	0m0.084s
+sys	0m0.008s
 xonsh/tests/test_integrations.py
-0.00018883000000000094
+
+real	0m0.100s
+user	0m0.087s
+sys	0m0.013s
 xonsh/tests/test_vox.py
-0.0002925939999999967
+
+real	0m0.097s
+user	0m0.084s
+sys	0m0.013s
 xonsh/tests/test_xontribs.py
-0.00031218400000000007
+
+real	0m0.082s
+user	0m0.070s
+sys	0m0.012s
 xonsh/tests/test_man.py
-0.00019193699999999966
+
+real	0m0.080s
+user	0m0.068s
+sys	0m0.012s
 xonsh/tests/fake_lib/jupyter_client/kernelspec.py
-0.0002690969999999994
+
+real	0m0.078s
+user	0m0.074s
+sys	0m0.004s
 xonsh/tests/fake_lib/jupyter_client/__init__.py
-0.00016173499999999966
+
+real	0m0.078s
+user	0m0.066s
+sys	0m0.012s
 xonsh/tests/test_completion_context.py
-0.00020541400000000098
+
+real	0m0.126s
+user	0m0.106s
+sys	0m0.020s
 xonsh/tests/test_history_sqlite.py
-0.0002641829999999977
+
+real	0m0.107s
+user	0m0.091s
+sys	0m0.016s
 xonsh/tests/test_lib/test_itertools.py
-0.0002090639999999984
+
+real	0m0.074s
+user	0m0.063s
+sys	0m0.012s
 xonsh/tests/test_lib/test_collections.py
-0.00026841400000000154
+
+real	0m0.098s
+user	0m0.090s
+sys	0m0.008s
 xonsh/tests/test_ptk_highlight.py
-0.00014307499999999945
+
+real	0m0.089s
+user	0m0.085s
+sys	0m0.004s
 xonsh/tests/prompt/test_base.py
-0.00023048000000000166
+
+real	0m0.090s
+user	0m0.074s
+sys	0m0.015s
 xonsh/tests/prompt/test_gitstatus.py
-0.0002780760000000021
+
+real	0m0.079s
+user	0m0.067s
+sys	0m0.012s
 xonsh/tests/prompt/test_vc.py
-0.00028918100000000294
+
+real	0m0.100s
+user	0m0.088s
+sys	0m0.012s
 xonsh/tests/test_completer.py
-0.00021203200000000089
+
+real	0m0.093s
+user	0m0.088s
+sys	0m0.004s
 xonsh/tests/test_ptk_multiline.py
-0.00043106700000000026
+
+real	0m0.087s
+user	0m0.074s
+sys	0m0.013s
 xonsh/tests/test_python_completers.py
 --- original/xonsh/tests/test_python_completers.py
 +++ fixed/xonsh/tests/test_python_completers.py
@@ -1274,25 +2336,55 @@ xonsh/tests/test_python_completers.py
      PythonContext,
  )
  
-0.0002541899999999979
+
+real	0m0.102s
+user	0m0.086s
+sys	0m0.016s
 xonsh/scent.py
-0.0002126000000000003
+
+real	0m0.088s
+user	0m0.084s
+sys	0m0.004s
 XSStrike/core/dom.py
-0.00013500800000000243
+
+real	0m0.088s
+user	0m0.079s
+sys	0m0.008s
 XSStrike/core/colors.py
-0.0002769739999999993
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
 XSStrike/core/filterChecker.py
-0.00015732399999999688
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
 XSStrike/core/log.py
-0.0001771669999999989
+
+real	0m0.095s
+user	0m0.079s
+sys	0m0.016s
 XSStrike/core/zetanize.py
-0.00021070400000000253
+
+real	0m0.081s
+user	0m0.072s
+sys	0m0.008s
 XSStrike/core/arjun.py
-0.000266625999999999
+
+real	0m0.080s
+user	0m0.064s
+sys	0m0.016s
 XSStrike/core/checker.py
-0.00019316399999999914
+
+real	0m0.088s
+user	0m0.080s
+sys	0m0.008s
 XSStrike/core/config.py
-0.0002964560000000005
+
+real	0m0.080s
+user	0m0.067s
+sys	0m0.012s
 XSStrike/core/generator.py
 --- original/XSStrike/core/generator.py
 +++ fixed/XSStrike/core/generator.py
@@ -1302,23 +2394,50 @@ XSStrike/core/generator.py
  from core.jsContexter import jsContexter
  from core.utils import randomUpper as r, genGen, extractScripts
  
-0.00027512600000000054
+
+real	0m0.113s
+user	0m0.109s
+sys	0m0.004s
 XSStrike/core/__init__.py
-0.00028454500000000063
+
+real	0m0.078s
+user	0m0.067s
+sys	0m0.012s
 XSStrike/core/requester.py
-0.0002807639999999993
+
+real	0m0.089s
+user	0m0.072s
+sys	0m0.016s
 XSStrike/core/prompt.py
-0.000352278000000001
+
+real	0m0.078s
+user	0m0.070s
+sys	0m0.008s
 XSStrike/core/utils.py
-0.00022321499999999883
+
+real	0m0.099s
+user	0m0.087s
+sys	0m0.012s
 XSStrike/core/fuzzer.py
-0.0001493919999999982
+
+real	0m0.082s
+user	0m0.082s
+sys	0m0.000s
 XSStrike/core/jsContexter.py
-0.0002026130000000008
+
+real	0m0.083s
+user	0m0.079s
+sys	0m0.004s
 XSStrike/core/photon.py
-0.00013267100000000087
+
+real	0m0.086s
+user	0m0.070s
+sys	0m0.016s
 XSStrike/core/encoders.py
-0.00041017000000000137
+
+real	0m0.078s
+user	0m0.070s
+sys	0m0.008s
 XSStrike/core/updater.py
 --- original/XSStrike/core/updater.py
 +++ fixed/XSStrike/core/updater.py
@@ -1331,9 +2450,15 @@ XSStrike/core/updater.py
  from core.log import setup_logger
  
  logger = setup_logger(__name__)
-0.00018206399999999914
+
+real	0m0.078s
+user	0m0.073s
+sys	0m0.004s
 XSStrike/core/wafDetector.py
-0.00018497999999999779
+
+real	0m0.078s
+user	0m0.069s
+sys	0m0.008s
 XSStrike/core/htmlParser.py
 --- original/XSStrike/core/htmlParser.py
 +++ fixed/XSStrike/core/htmlParser.py
@@ -1347,9 +2472,15 @@ XSStrike/core/htmlParser.py
  
  
  def htmlParser(response, encoding):
-0.00049364
+
+real	0m0.097s
+user	0m0.081s
+sys	0m0.016s
 XSStrike/plugins/__init__.py
-0.0002404200000000016
+
+real	0m0.076s
+user	0m0.071s
+sys	0m0.004s
 XSStrike/plugins/retireJs.py
 --- original/XSStrike/plugins/retireJs.py
 +++ fixed/XSStrike/plugins/retireJs.py
@@ -1361,7 +2492,10 @@ XSStrike/plugins/retireJs.py
  
  from core.colors import green, end
  from core.requester import requester
-0.0002822190000000002
+
+real	0m0.109s
+user	0m0.097s
+sys	0m0.012s
 XSStrike/xsstrike.py
 --- original/XSStrike/xsstrike.py
 +++ fixed/XSStrike/xsstrike.py
@@ -1374,13 +2508,25 @@ XSStrike/xsstrike.py
      except ImportError:
          import os
          print ('%s fuzzywuzzy isn\'t installed, installing now.' % info)
-0.0002856050000000013
+
+real	0m0.109s
+user	0m0.097s
+sys	0m0.012s
 XSStrike/modes/singleFuzz.py
-0.0004381799999999998
+
+real	0m0.082s
+user	0m0.074s
+sys	0m0.008s
 XSStrike/modes/__init__.py
-0.00028071700000000324
+
+real	0m0.081s
+user	0m0.069s
+sys	0m0.011s
 XSStrike/modes/bruteforcer.py
-0.00021733700000000147
+
+real	0m0.084s
+user	0m0.080s
+sys	0m0.004s
 XSStrike/modes/scan.py
 --- original/XSStrike/modes/scan.py
 +++ fixed/XSStrike/modes/scan.py
@@ -1406,7 +2552,10 @@ XSStrike/modes/scan.py
  from core.wafDetector import wafDetector
  from core.log import setup_logger
  
-0.0003066270000000003
+
+real	0m0.100s
+user	0m0.092s
+sys	0m0.008s
 XSStrike/modes/crawl.py
 --- original/XSStrike/modes/crawl.py
 +++ fixed/XSStrike/modes/crawl.py
@@ -1419,4 +2568,7 @@ XSStrike/modes/crawl.py
  from core.config import xsschecker
  from core.filterChecker import filterChecker
  from core.generator import generator
-0.00015161300000000183
+
+real	0m0.092s
+user	0m0.084s
+sys	0m0.008s

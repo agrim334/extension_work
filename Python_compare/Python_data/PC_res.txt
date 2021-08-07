@@ -1,16 +1,26 @@
 manim/logo/logo.py
+  manim/logo/logo.py:1:0 UnexpandableImportStar: 'manimlib.imports' module not found or it's a C wrapped module! ⛔
 
 Oh no, there is an error! 💔 ☹️
 1 file would be left unchanged, 1 file has failed to be cleaned.
-0.00028205600000000275
+
+real	0m0.102s
+user	0m0.087s
+sys	0m0.015s
 manim/manimlib/utils/color.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002181240000000001
+
+real	0m0.091s
+user	0m0.088s
+sys	0m0.004s
 manim/manimlib/utils/rate_functions.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00028719499999999704
+
+real	0m0.085s
+user	0m0.069s
+sys	0m0.016s
 manim/manimlib/utils/space_ops.py
 --- original/ manim/manimlib/utils/space_ops.py
 +++ fixed/ manim/manimlib/utils/space_ops.py
@@ -23,152 +33,320 @@ manim/manimlib/utils/space_ops.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00021998799999999735
+
+real	0m0.212s
+user	0m0.194s
+sys	0m0.017s
 manim/manimlib/utils/customization.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014793800000000024
+
+real	0m0.085s
+user	0m0.068s
+sys	0m0.017s
 manim/manimlib/utils/iterables.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00021405600000000413
+
+real	0m0.093s
+user	0m0.077s
+sys	0m0.016s
 manim/manimlib/utils/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014801200000000292
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
 manim/manimlib/utils/sounds.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013273200000000346
+
+real	0m0.087s
+user	0m0.064s
+sys	0m0.023s
 manim/manimlib/utils/bezier.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00018575199999999736
+
+real	0m0.090s
+user	0m0.082s
+sys	0m0.008s
 manim/manimlib/utils/tex_file_writing.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016633499999999662
+
+real	0m0.088s
+user	0m0.077s
+sys	0m0.012s
 manim/manimlib/utils/simple_functions.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013724000000000375
+
+real	0m0.089s
+user	0m0.070s
+sys	0m0.020s
 manim/manimlib/utils/strings.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016914499999999555
+
+real	0m0.077s
+user	0m0.063s
+sys	0m0.014s
 manim/manimlib/utils/paths.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001529509999999984
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
 manim/manimlib/utils/file_ops.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001536820000000022
+
+real	0m0.089s
+user	0m0.073s
+sys	0m0.016s
 manim/manimlib/utils/images.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002080439999999975
+
+real	0m0.084s
+user	0m0.071s
+sys	0m0.014s
 manim/manimlib/utils/config_ops.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019602600000000192
+
+real	0m0.091s
+user	0m0.079s
+sys	0m0.012s
 manim/manimlib/utils/directories.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00017849799999999916
+
+real	0m0.093s
+user	0m0.087s
+sys	0m0.006s
 manim/manimlib/utils/init_config.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015414200000000294
+
+real	0m0.089s
+user	0m0.081s
+sys	0m0.008s
 manim/manimlib/utils/family_ops.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011713199999999896
+
+real	0m0.109s
+user	0m0.077s
+sys	0m0.031s
 manim/manimlib/utils/debug.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00017166600000000087
+
+real	0m0.094s
+user	0m0.094s
+sys	0m0.000s
 manim/manimlib/window.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002407659999999999
+
+real	0m0.091s
+user	0m0.077s
+sys	0m0.014s
 manim/manimlib/animation/fading.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001778679999999977
+
+real	0m0.112s
+user	0m0.096s
+sys	0m0.016s
 manim/manimlib/animation/specialized.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013658999999999893
+
+real	0m0.091s
+user	0m0.076s
+sys	0m0.016s
 manim/manimlib/animation/movement.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016346100000000363
+
+real	0m0.090s
+user	0m0.061s
+sys	0m0.028s
 manim/manimlib/animation/numbers.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015253900000000015
+
+real	0m0.075s
+user	0m0.071s
+sys	0m0.004s
 manim/manimlib/animation/indication.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00017312799999999462
+
+real	0m0.089s
+user	0m0.089s
+sys	0m0.000s
 manim/manimlib/animation/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015395199999999887
+
+real	0m0.085s
+user	0m0.081s
+sys	0m0.004s
 manim/manimlib/animation/growing.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013738099999999892
+
+real	0m0.117s
+user	0m0.102s
+sys	0m0.014s
 manim/manimlib/animation/composition.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001245259999999998
+
+real	0m0.092s
+user	0m0.075s
+sys	0m0.017s
 manim/manimlib/animation/transform.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014266100000000226
+
+real	0m0.094s
+user	0m0.077s
+sys	0m0.017s
 manim/manimlib/animation/animation.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002448450000000005
+
+real	0m0.086s
+user	0m0.065s
+sys	0m0.021s
 manim/manimlib/animation/transform_matching_parts.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015662799999999893
+
+real	0m0.084s
+user	0m0.077s
+sys	0m0.008s
 manim/manimlib/animation/creation.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015839100000000078
+
+real	0m0.100s
+user	0m0.081s
+sys	0m0.018s
 manim/manimlib/animation/rotation.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001976760000000008
+
+real	0m0.094s
+user	0m0.083s
+sys	0m0.012s
 manim/manimlib/animation/update.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019687499999999913
+
+real	0m0.092s
+user	0m0.076s
+sys	0m0.016s
 manim/manimlib/shader_wrapper.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014879300000000123
+
+real	0m0.080s
+user	0m0.071s
+sys	0m0.008s
 manim/manimlib/config.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012090899999999544
+
+real	0m0.089s
+user	0m0.085s
+sys	0m0.004s
 manim/manimlib/__main__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.000168629
+
+real	0m0.097s
+user	0m0.087s
+sys	0m0.010s
 manim/manimlib/camera/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014881299999999764
+
+real	0m0.097s
+user	0m0.097s
+sys	0m0.000s
 manim/manimlib/camera/camera.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00023067100000000174
+
+real	0m0.129s
+user	0m0.116s
+sys	0m0.012s
 manim/manimlib/__init__.py
+  manim/manimlib/__init__.py:64:0 UnexpandableImportStar: 'manimlib.utils.space_ops' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:65:0 UnexpandableImportStar: 'manimlib.utils.strings' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:3:0 UnexpandableImportStar: 'manimlib.animation.animation' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:4:0 UnexpandableImportStar: 'manimlib.animation.composition' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:5:0 UnexpandableImportStar: 'manimlib.animation.creation' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:6:0 UnexpandableImportStar: 'manimlib.animation.fading' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:7:0 UnexpandableImportStar: 'manimlib.animation.growing' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:8:0 UnexpandableImportStar: 'manimlib.animation.indication' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:9:0 UnexpandableImportStar: 'manimlib.animation.movement' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:10:0 UnexpandableImportStar: 'manimlib.animation.numbers' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:11:0 UnexpandableImportStar: 'manimlib.animation.rotation' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:12:0 UnexpandableImportStar: 'manimlib.animation.specialized' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:13:0 UnexpandableImportStar: 'manimlib.animation.transform' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:14:0 UnexpandableImportStar: 'manimlib.animation.transform_matching_parts' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:15:0 UnexpandableImportStar: 'manimlib.animation.update' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:17:0 UnexpandableImportStar: 'manimlib.camera.camera' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:21:0 UnexpandableImportStar: 'manimlib.mobject.coordinate_systems' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:22:0 UnexpandableImportStar: 'manimlib.mobject.changing' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:23:0 UnexpandableImportStar: 'manimlib.mobject.frame' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:24:0 UnexpandableImportStar: 'manimlib.mobject.functions' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:25:0 UnexpandableImportStar: 'manimlib.mobject.geometry' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:26:0 UnexpandableImportStar: 'manimlib.mobject.interactive' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:27:0 UnexpandableImportStar: 'manimlib.mobject.matrix' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:28:0 UnexpandableImportStar: 'manimlib.mobject.mobject' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:29:0 UnexpandableImportStar: 'manimlib.mobject.number_line' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:30:0 UnexpandableImportStar: 'manimlib.mobject.numbers' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:31:0 UnexpandableImportStar: 'manimlib.mobject.probability' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:32:0 UnexpandableImportStar: 'manimlib.mobject.shape_matchers' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:33:0 UnexpandableImportStar: 'manimlib.mobject.svg.brace' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:34:0 UnexpandableImportStar: 'manimlib.mobject.svg.drawings' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:35:0 UnexpandableImportStar: 'manimlib.mobject.svg.svg_mobject' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:36:0 UnexpandableImportStar: 'manimlib.mobject.svg.tex_mobject' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:37:0 UnexpandableImportStar: 'manimlib.mobject.svg.text_mobject' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:38:0 UnexpandableImportStar: 'manimlib.mobject.three_dimensions' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:39:0 UnexpandableImportStar: 'manimlib.mobject.types.image_mobject' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:40:0 UnexpandableImportStar: 'manimlib.mobject.types.point_cloud_mobject' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:41:0 UnexpandableImportStar: 'manimlib.mobject.types.surface' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:42:0 UnexpandableImportStar: 'manimlib.mobject.types.vectorized_mobject' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:43:0 UnexpandableImportStar: 'manimlib.mobject.types.dot_cloud' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:44:0 UnexpandableImportStar: 'manimlib.mobject.mobject_update_utils' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:45:0 UnexpandableImportStar: 'manimlib.mobject.value_tracker' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:46:0 UnexpandableImportStar: 'manimlib.mobject.vector_field' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:48:0 UnexpandableImportStar: 'manimlib.scene.scene' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:49:0 UnexpandableImportStar: 'manimlib.scene.three_d_scene' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:51:0 UnexpandableImportStar: 'manimlib.utils.bezier' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:52:0 UnexpandableImportStar: 'manimlib.utils.color' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:53:0 UnexpandableImportStar: 'manimlib.utils.config_ops' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:54:0 UnexpandableImportStar: 'manimlib.utils.customization' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:55:0 UnexpandableImportStar: 'manimlib.utils.debug' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:56:0 UnexpandableImportStar: 'manimlib.utils.directories' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:57:0 UnexpandableImportStar: 'manimlib.utils.images' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:58:0 UnexpandableImportStar: 'manimlib.utils.iterables' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:59:0 UnexpandableImportStar: 'manimlib.utils.file_ops' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:60:0 UnexpandableImportStar: 'manimlib.utils.paths' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:61:0 UnexpandableImportStar: 'manimlib.utils.rate_functions' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:62:0 UnexpandableImportStar: 'manimlib.utils.simple_functions' module not found or it's a C wrapped module! ⛔
+  manim/manimlib/__init__.py:63:0 UnexpandableImportStar: 'manimlib.utils.sounds' module not found or it's a C wrapped module! ⛔
 --- original/ manim/manimlib/__init__.py
 +++ fixed/ manim/manimlib/__init__.py
 @@ -1,4 +1,3 @@
@@ -188,84 +366,145 @@ manim/manimlib/__init__.py
 
 Oh no, there are errors! 💔 ☹️
 2 imports would be removed, 1 file would be changed, 57 files has failed to be cleaned.
-0.0003053299999999995
+
+real	0m0.238s
+user	0m0.218s
+sys	0m0.018s
 manim/manimlib/extract_scene.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016618499999999925
+
+real	0m0.102s
+user	0m0.077s
+sys	0m0.024s
 manim/manimlib/mobject/coordinate_systems.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016603199999999652
+
+real	0m0.087s
+user	0m0.065s
+sys	0m0.022s
 manim/manimlib/mobject/number_line.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001480810000000013
+
+real	0m0.091s
+user	0m0.091s
+sys	0m0.000s
 manim/manimlib/mobject/changing.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010097000000000231
+
+real	0m0.081s
+user	0m0.063s
+sys	0m0.018s
 manim/manimlib/mobject/vector_field.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014260099999999915
+
+real	0m0.092s
+user	0m0.076s
+sys	0m0.016s
 manim/manimlib/mobject/three_dimensions.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012165000000000092
+
+real	0m0.081s
+user	0m0.066s
+sys	0m0.015s
 manim/manimlib/mobject/numbers.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012124600000000194
+
+real	0m0.091s
+user	0m0.082s
+sys	0m0.010s
 manim/manimlib/mobject/interactive.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011546899999999999
+
+real	0m0.091s
+user	0m0.083s
+sys	0m0.009s
 manim/manimlib/mobject/frame.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00023817400000000072
+
+real	0m0.086s
+user	0m0.073s
+sys	0m0.013s
 manim/manimlib/mobject/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001683190000000001
+
+real	0m0.073s
+user	0m0.066s
+sys	0m0.008s
 manim/manimlib/mobject/probability.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00020768000000000175
+
+real	0m0.088s
+user	0m0.076s
+sys	0m0.012s
 manim/manimlib/mobject/shape_matchers.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001421799999999987
+
+real	0m0.087s
+user	0m0.087s
+sys	0m0.000s
 manim/manimlib/mobject/value_tracker.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016866299999999945
+
+real	0m0.090s
+user	0m0.084s
+sys	0m0.006s
 manim/manimlib/mobject/mobject_update_utils.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010986799999999908
+
+real	0m0.086s
+user	0m0.066s
+sys	0m0.020s
 manim/manimlib/mobject/svg/drawings.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00021303600000000325
+
+real	0m0.097s
+user	0m0.089s
+sys	0m0.008s
 manim/manimlib/mobject/svg/svg_mobject.py
+  manim/manimlib/mobject/svg/svg_mobject.py:20:0 UnexpandableImportStar: 'manimlib.utils.color' module not found or it's a C wrapped module! ⛔
 
 Oh no, there is an error! 💔 ☹️
 1 file would be left unchanged, 1 file has failed to be cleaned.
-0.00011734199999999945
+
+real	0m0.100s
+user	0m0.096s
+sys	0m0.004s
 manim/manimlib/mobject/svg/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012803299999999962
+
+real	0m0.076s
+user	0m0.065s
+sys	0m0.012s
 manim/manimlib/mobject/svg/text_mobject.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-9.184400000000065e-05
+
+real	0m0.094s
+user	0m0.076s
+sys	0m0.017s
 manim/manimlib/mobject/svg/brace.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001341960000000031
+
+real	0m0.081s
+user	0m0.077s
+sys	0m0.004s
 manim/manimlib/mobject/svg/tex_mobject.py
 --- original/ manim/manimlib/mobject/svg/tex_mobject.py
 +++ fixed/ manim/manimlib/mobject/svg/tex_mobject.py
@@ -281,107 +520,185 @@ manim/manimlib/mobject/svg/tex_mobject.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00016258799999999823
+
+real	0m0.215s
+user	0m0.192s
+sys	0m0.024s
 manim/manimlib/mobject/geometry.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00018598400000000015
+
+real	0m0.097s
+user	0m0.093s
+sys	0m0.004s
 manim/manimlib/mobject/matrix.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001076950000000014
+
+real	0m0.091s
+user	0m0.074s
+sys	0m0.018s
 manim/manimlib/mobject/mobject.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001986370000000015
+
+real	0m0.108s
+user	0m0.100s
+sys	0m0.008s
 manim/manimlib/mobject/functions.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014919300000000232
+
+real	0m0.081s
+user	0m0.070s
+sys	0m0.012s
 manim/manimlib/mobject/types/point_cloud_mobject.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012434699999999688
+
+real	0m0.088s
+user	0m0.085s
+sys	0m0.004s
 manim/manimlib/mobject/types/image_mobject.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00042829299999999973
+
+real	0m0.089s
+user	0m0.071s
+sys	0m0.019s
 manim/manimlib/mobject/types/vectorized_mobject.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00020920799999999892
+
+real	0m0.103s
+user	0m0.082s
+sys	0m0.021s
 manim/manimlib/mobject/types/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010527999999999926
+
+real	0m0.084s
+user	0m0.062s
+sys	0m0.022s
 manim/manimlib/mobject/types/surface.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001941329999999991
+
+real	0m0.089s
+user	0m0.079s
+sys	0m0.010s
 manim/manimlib/mobject/types/dot_cloud.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.000173969999999999
+
+real	0m0.084s
+user	0m0.075s
+sys	0m0.010s
 manim/manimlib/scene/three_d_scene.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012241300000000177
+
+real	0m0.083s
+user	0m0.067s
+sys	0m0.015s
 manim/manimlib/scene/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015310900000000197
+
+real	0m0.079s
+user	0m0.069s
+sys	0m0.009s
 manim/manimlib/scene/sample_space_scene.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001703329999999982
+
+real	0m0.093s
+user	0m0.063s
+sys	0m0.031s
 manim/manimlib/scene/scene.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00017915999999999765
+
+real	0m0.093s
+user	0m0.074s
+sys	0m0.019s
 manim/manimlib/scene/vector_space_scene.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014430400000000135
+
+real	0m0.088s
+user	0m0.077s
+sys	0m0.012s
 manim/manimlib/scene/scene_file_writer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001849170000000032
+
+real	0m0.090s
+user	0m0.079s
+sys	0m0.012s
 manim/manimlib/event_handler/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001333540000000022
+
+real	0m0.073s
+user	0m0.063s
+sys	0m0.010s
 manim/manimlib/event_handler/event_dispatcher.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019236599999999937
+
+real	0m0.088s
+user	0m0.088s
+sys	0m0.000s
 manim/manimlib/event_handler/event_listner.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016875099999999824
+
+real	0m0.084s
+user	0m0.075s
+sys	0m0.010s
 manim/manimlib/event_handler/event_type.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010622199999999957
+
+real	0m0.083s
+user	0m0.075s
+sys	0m0.008s
 manim/manimlib/once_useful_constructs/arithmetic.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010793499999999998
+
+real	0m0.087s
+user	0m0.069s
+sys	0m0.018s
 manim/manimlib/once_useful_constructs/combinatorics.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011268399999999831
+
+real	0m0.076s
+user	0m0.069s
+sys	0m0.008s
 manim/manimlib/once_useful_constructs/graph_theory.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013706000000000135
+
+real	0m0.095s
+user	0m0.082s
+sys	0m0.013s
 manim/manimlib/once_useful_constructs/complex_transformation_scene.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002278429999999984
+
+real	0m0.091s
+user	0m0.078s
+sys	0m0.013s
 manim/manimlib/once_useful_constructs/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00024353299999999717
+
+real	0m0.083s
+user	0m0.076s
+sys	0m0.008s
 manim/manimlib/once_useful_constructs/reconfigurable_scene.py
 --- original/ manim/manimlib/once_useful_constructs/reconfigurable_scene.py
 +++ fixed/ manim/manimlib/once_useful_constructs/reconfigurable_scene.py
@@ -394,15 +711,24 @@ manim/manimlib/once_useful_constructs/reconfigurable_scene.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00011742399999999792
+
+real	0m0.198s
+user	0m0.182s
+sys	0m0.016s
 manim/manimlib/once_useful_constructs/matrix_multiplication.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015788900000000133
+
+real	0m0.083s
+user	0m0.080s
+sys	0m0.004s
 manim/manimlib/once_useful_constructs/counting.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011185300000000203
+
+real	0m0.095s
+user	0m0.095s
+sys	0m0.000s
 manim/manimlib/once_useful_constructs/region.py
 --- original/ manim/manimlib/once_useful_constructs/region.py
 +++ fixed/ manim/manimlib/once_useful_constructs/region.py
@@ -417,7 +743,10 @@ manim/manimlib/once_useful_constructs/region.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00011720299999999975
+
+real	0m0.198s
+user	0m0.178s
+sys	0m0.020s
 manim/manimlib/once_useful_constructs/light.py
 --- original/ manim/manimlib/once_useful_constructs/light.py
 +++ fixed/ manim/manimlib/once_useful_constructs/light.py
@@ -429,19 +758,31 @@ manim/manimlib/once_useful_constructs/light.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00024167499999999675
+
+real	0m0.213s
+user	0m0.197s
+sys	0m0.017s
 manim/manimlib/once_useful_constructs/fractals.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012162199999999831
+
+real	0m0.091s
+user	0m0.075s
+sys	0m0.016s
 manim/manimlib/once_useful_constructs/graph_scene.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014378299999999802
+
+real	0m0.096s
+user	0m0.089s
+sys	0m0.008s
 manim/manimlib/constants.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001075050000000008
+
+real	0m0.093s
+user	0m0.087s
+sys	0m0.006s
 manim/docs/source/manim_example_ext.py
 --- original/ manim/docs/source/manim_example_ext.py
 +++ fixed/ manim/docs/source/manim_example_ext.py
@@ -459,24 +800,40 @@ manim/docs/source/manim_example_ext.py
 
 All done! 💪 😎
 2 imports would be removed, 1 file would be changed.
-0.00015875099999999864
+
+real	0m0.229s
+user	0m0.221s
+sys	0m0.008s
 manim/docs/source/conf.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001619399999999993
+
+real	0m0.083s
+user	0m0.069s
+sys	0m0.014s
 manim/docs/example.py
+  manim/docs/example.py:1:0 UnexpandableImportStar: 'manimlib.imports' module not found or it's a C wrapped module! ⛔
 
 Oh no, there is an error! 💔 ☹️
 1 file would be left unchanged, 1 file has failed to be cleaned.
-0.0001394559999999996
+
+real	0m0.102s
+user	0m0.079s
+sys	0m0.023s
 manim/example_scenes.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0003333630000000032
+
+real	0m0.127s
+user	0m0.115s
+sys	0m0.012s
 PythonPlantsVsZombies/main.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011531999999999862
+
+real	0m0.084s
+user	0m0.069s
+sys	0m0.016s
 PythonPlantsVsZombies/source/state/mainmenu.py
 --- original/ PythonPlantsVsZombies/source/state/mainmenu.py
 +++ fixed/ PythonPlantsVsZombies/source/state/mainmenu.py
@@ -490,15 +847,24 @@ PythonPlantsVsZombies/source/state/mainmenu.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.0001450869999999986
+
+real	0m0.203s
+user	0m0.196s
+sys	0m0.008s
 PythonPlantsVsZombies/source/state/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-9.923799999999455e-05
+
+real	0m0.079s
+user	0m0.076s
+sys	0m0.004s
 PythonPlantsVsZombies/source/state/level.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014284099999999772
+
+real	0m0.095s
+user	0m0.089s
+sys	0m0.006s
 PythonPlantsVsZombies/source/state/screen.py
 --- original/ PythonPlantsVsZombies/source/state/screen.py
 +++ fixed/ PythonPlantsVsZombies/source/state/screen.py
@@ -512,31 +878,52 @@ PythonPlantsVsZombies/source/state/screen.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00011980699999999955
+
+real	0m0.185s
+user	0m0.174s
+sys	0m0.010s
 PythonPlantsVsZombies/source/tool.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011589999999999864
+
+real	0m0.090s
+user	0m0.082s
+sys	0m0.008s
 PythonPlantsVsZombies/source/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012885500000000064
+
+real	0m0.087s
+user	0m0.075s
+sys	0m0.012s
 PythonPlantsVsZombies/source/main.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001329730000000015
+
+real	0m0.079s
+user	0m0.067s
+sys	0m0.012s
 PythonPlantsVsZombies/source/component/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013991699999999982
+
+real	0m0.082s
+user	0m0.078s
+sys	0m0.004s
 PythonPlantsVsZombies/source/component/menubar.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001416890000000004
+
+real	0m0.096s
+user	0m0.085s
+sys	0m0.012s
 PythonPlantsVsZombies/source/component/zombie.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013279100000000016
+
+real	0m0.094s
+user	0m0.086s
+sys	0m0.008s
 PythonPlantsVsZombies/source/component/map.py
 --- original/ PythonPlantsVsZombies/source/component/map.py
 +++ fixed/ PythonPlantsVsZombies/source/component/map.py
@@ -553,19 +940,31 @@ PythonPlantsVsZombies/source/component/map.py
 
 All done! 💪 😎
 2 imports would be removed, 1 file would be changed.
-0.00015936400000000212
+
+real	0m0.187s
+user	0m0.171s
+sys	0m0.016s
 PythonPlantsVsZombies/source/component/plant.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015855399999999825
+
+real	0m0.096s
+user	0m0.081s
+sys	0m0.016s
 PythonPlantsVsZombies/source/constants.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010913799999999821
+
+real	0m0.087s
+user	0m0.077s
+sys	0m0.010s
 rebound/setup.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-9.836599999999904e-05
+
+real	0m0.086s
+user	0m0.070s
+sys	0m0.016s
 rebound/rebound/__main__.py
 --- original/ rebound/rebound/__main__.py
 +++ fixed/ rebound/rebound/__main__.py
@@ -578,11 +977,17 @@ rebound/rebound/__main__.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00011345499999999842
+
+real	0m0.194s
+user	0m0.186s
+sys	0m0.008s
 rebound/rebound/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001767959999999999
+
+real	0m0.072s
+user	0m0.063s
+sys	0m0.010s
 rebound/rebound/rebound.py
 --- original/ rebound/rebound/rebound.py
 +++ fixed/ rebound/rebound/rebound.py
@@ -597,339 +1002,591 @@ rebound/rebound/rebound.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.000177712
+
+real	0m0.205s
+user	0m0.183s
+sys	0m0.022s
 rebound/tests/python_test.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012974600000000003
+
+real	0m0.087s
+user	0m0.072s
+sys	0m0.015s
 rebound/tests/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012420499999999876
+
+real	0m0.084s
+user	0m0.074s
+sys	0m0.010s
 xonsh/xontrib/voxapi.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001570679999999998
+
+real	0m0.087s
+user	0m0.079s
+sys	0m0.008s
 xonsh/xontrib/distributed.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014725999999999975
+
+real	0m0.086s
+user	0m0.065s
+sys	0m0.022s
 xonsh/xontrib/free_cwd.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011458699999999933
+
+real	0m0.091s
+user	0m0.083s
+sys	0m0.008s
 xonsh/xontrib/jedi.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015587599999999924
+
+real	0m0.087s
+user	0m0.081s
+sys	0m0.006s
 xonsh/xontrib/vox.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016408199999999942
+
+real	0m0.081s
+user	0m0.069s
+sys	0m0.012s
 xonsh/xontrib/pdb.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.000124454999999999
+
+real	0m0.091s
+user	0m0.083s
+sys	0m0.008s
 xonsh/xontrib/mplhooks.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016097600000000017
+
+real	0m0.074s
+user	0m0.066s
+sys	0m0.008s
 xonsh/xontrib/mpl.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014347200000000213
+
+real	0m0.087s
+user	0m0.068s
+sys	0m0.019s
 xonsh/xontrib/whole_word_jumping.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010257500000000058
+
+real	0m0.080s
+user	0m0.076s
+sys	0m0.004s
 xonsh/xontrib/coreutils.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001234640000000002
+
+real	0m0.086s
+user	0m0.072s
+sys	0m0.014s
 xonsh/xontrib/prompt_ret_code.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001272200000000008
+
+real	0m0.089s
+user	0m0.070s
+sys	0m0.019s
 xonsh/xontrib/bashisms.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012996399999999977
+
+real	0m0.090s
+user	0m0.090s
+sys	0m0.000s
 xonsh/xontrib/xog.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001685420000000007
+
+real	0m0.082s
+user	0m0.078s
+sys	0m0.004s
 xonsh/xontrib/autovox.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00017474799999999888
+
+real	0m0.087s
+user	0m0.075s
+sys	0m0.012s
 xonsh/xontrib/abbrevs.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011988700000000255
+
+real	0m0.083s
+user	0m0.083s
+sys	0m0.000s
 xonsh/xonsh/built_ins.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-9.548100000000143e-05
+
+real	0m0.112s
+user	0m0.098s
+sys	0m0.014s
 xonsh/xonsh/imphooks.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011165299999999975
+
+real	0m0.082s
+user	0m0.065s
+sys	0m0.018s
 xonsh/xonsh/codecache.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001604940000000006
+
+real	0m0.086s
+user	0m0.072s
+sys	0m0.013s
 xonsh/xonsh/execer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010808599999999682
+
+real	0m0.082s
+user	0m0.078s
+sys	0m0.004s
 xonsh/xonsh/ply/ply/cpp.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016229900000000116
+
+real	0m0.092s
+user	0m0.084s
+sys	0m0.008s
 xonsh/xonsh/ply/ply/lex.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001631989999999993
+
+real	0m0.100s
+user	0m0.086s
+sys	0m0.014s
 xonsh/xonsh/ply/ply/ctokens.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019498100000000032
+
+real	0m0.085s
+user	0m0.077s
+sys	0m0.008s
 xonsh/xonsh/ply/ply/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00028199599999999964
+
+real	0m0.074s
+user	0m0.063s
+sys	0m0.012s
 xonsh/xonsh/ply/ply/ygen.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00024570700000000473
+
+real	0m0.083s
+user	0m0.074s
+sys	0m0.009s
 xonsh/xonsh/ply/ply/yacc.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012353600000000048
+
+real	0m0.129s
+user	0m0.110s
+sys	0m0.019s
 xonsh/xonsh/pytest_plugin.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00027364199999999755
+
+real	0m0.092s
+user	0m0.090s
+sys	0m0.001s
 xonsh/xonsh/procs/pipelines.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00031651700000000227
+
+real	0m0.084s
+user	0m0.077s
+sys	0m0.008s
 xonsh/xonsh/procs/readers.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002855780000000016
+
+real	0m0.085s
+user	0m0.078s
+sys	0m0.008s
 xonsh/xonsh/procs/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.000139716000000005
+
+real	0m0.081s
+user	0m0.080s
+sys	0m0.002s
 xonsh/xonsh/procs/posix.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00024945699999999807
+
+real	0m0.092s
+user	0m0.078s
+sys	0m0.014s
 xonsh/xonsh/procs/proxies.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013385600000000164
+
+real	0m0.086s
+user	0m0.075s
+sys	0m0.012s
 xonsh/xonsh/procs/specs.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010576999999999809
+
+real	0m0.093s
+user	0m0.066s
+sys	0m0.028s
 xonsh/xonsh/lib/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013374399999999814
+
+real	0m0.083s
+user	0m0.060s
+sys	0m0.023s
 xonsh/xonsh/lib/itertools.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002528140000000005
+
+real	0m0.087s
+user	0m0.078s
+sys	0m0.009s
 xonsh/xonsh/lib/collections.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011227299999999954
+
+real	0m0.086s
+user	0m0.067s
+sys	0m0.019s
 xonsh/xonsh/lexer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001283889999999996
+
+real	0m0.088s
+user	0m0.074s
+sys	0m0.014s
 xonsh/xonsh/dirstack.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010468900000000156
+
+real	0m0.095s
+user	0m0.085s
+sys	0m0.010s
 xonsh/xonsh/pygments_cache.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001266710000000018
+
+real	0m0.084s
+user	0m0.072s
+sys	0m0.012s
 xonsh/xonsh/tokenize.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010980799999999943
+
+real	0m0.095s
+user	0m0.087s
+sys	0m0.008s
 xonsh/xonsh/contexts.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001950910000000014
+
+real	0m0.086s
+user	0m0.074s
+sys	0m0.012s
 xonsh/xonsh/parsers/base.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002680969999999984
+
+real	0m0.131s
+user	0m0.115s
+sys	0m0.016s
 xonsh/xonsh/parsers/v310.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013819200000000226
+
+real	0m0.072s
+user	0m0.060s
+sys	0m0.012s
 xonsh/xonsh/parsers/v38.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013347299999999854
+
+real	0m0.092s
+user	0m0.079s
+sys	0m0.014s
 xonsh/xonsh/parsers/v36.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001284330000000007
+
+real	0m0.089s
+user	0m0.070s
+sys	0m0.019s
 xonsh/xonsh/parsers/fstring_adaptor.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001648630000000012
+
+real	0m0.082s
+user	0m0.070s
+sys	0m0.012s
 xonsh/xonsh/parsers/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001561770000000004
+
+real	0m0.080s
+user	0m0.066s
+sys	0m0.014s
 xonsh/xonsh/parsers/v39.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00017657800000000015
+
+real	0m0.081s
+user	0m0.063s
+sys	0m0.019s
 xonsh/xonsh/parsers/context_check.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015192899999999857
+
+real	0m0.082s
+user	0m0.068s
+sys	0m0.014s
 xonsh/xonsh/parsers/completion_context.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00022576300000000035
+
+real	0m0.097s
+user	0m0.085s
+sys	0m0.012s
 xonsh/xonsh/cli_utils.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010100099999999987
+
+real	0m0.087s
+user	0m0.084s
+sys	0m0.004s
 xonsh/xonsh/environ.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0004224209999999992
+
+real	0m0.103s
+user	0m0.092s
+sys	0m0.012s
 xonsh/xonsh/openpy.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016760700000000017
+
+real	0m0.085s
+user	0m0.081s
+sys	0m0.004s
 xonsh/xonsh/foreign_shells.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001543120000000002
+
+real	0m0.092s
+user	0m0.084s
+sys	0m0.008s
 xonsh/xonsh/tracer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001203180000000012
+
+real	0m0.091s
+user	0m0.091s
+sys	0m0.000s
 xonsh/xonsh/diff_history.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014402300000000007
+
+real	0m0.094s
+user	0m0.089s
+sys	0m0.006s
 xonsh/xonsh/ptk2/key_bindings.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011696099999999876
+
+real	0m0.083s
+user	0m0.071s
+sys	0m0.012s
 xonsh/xonsh/ptk2/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001253169999999998
+
+real	0m0.086s
+user	0m0.076s
+sys	0m0.011s
 xonsh/xonsh/ptk2/completer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001881929999999997
+
+real	0m0.084s
+user	0m0.049s
+sys	0m0.035s
 xonsh/xonsh/ptk2/shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0004359640000000005
+
+real	0m0.087s
+user	0m0.060s
+sys	0m0.027s
 xonsh/xonsh/ptk2/history.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011677300000000057
+
+real	0m0.090s
+user	0m0.078s
+sys	0m0.012s
 xonsh/xonsh/lazyjson.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010911599999999938
+
+real	0m0.087s
+user	0m0.083s
+sys	0m0.004s
 xonsh/xonsh/xontribs_meta.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001374810000000018
+
+real	0m0.099s
+user	0m0.088s
+sys	0m0.010s
 xonsh/xonsh/color_tools.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012805399999999897
+
+real	0m0.087s
+user	0m0.054s
+sys	0m0.033s
 xonsh/xonsh/events.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012808199999999811
+
+real	0m0.080s
+user	0m0.072s
+sys	0m0.008s
 xonsh/xonsh/xoreutils/_which.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016987300000000094
+
+real	0m0.089s
+user	0m0.079s
+sys	0m0.010s
 xonsh/xonsh/xoreutils/tee.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014508499999999966
+
+real	0m0.087s
+user	0m0.076s
+sys	0m0.012s
 xonsh/xonsh/xoreutils/uptime.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001529699999999988
+
+real	0m0.088s
+user	0m0.070s
+sys	0m0.018s
 xonsh/xonsh/xoreutils/ulimit.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011142199999999991
+
+real	0m0.084s
+user	0m0.072s
+sys	0m0.012s
 xonsh/xonsh/xoreutils/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00031192600000000056
+
+real	0m0.078s
+user	0m0.079s
+sys	0m0.000s
 xonsh/xonsh/xoreutils/tty.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.000167177999999997
+
+real	0m0.079s
+user	0m0.073s
+sys	0m0.006s
 xonsh/xonsh/xoreutils/which.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00028961699999999896
+
+real	0m0.091s
+user	0m0.076s
+sys	0m0.015s
 xonsh/xonsh/xoreutils/echo.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011144100000000032
+
+real	0m0.089s
+user	0m0.070s
+sys	0m0.020s
 xonsh/xonsh/xoreutils/pwd.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011193199999999862
+
+real	0m0.079s
+user	0m0.061s
+sys	0m0.018s
 xonsh/xonsh/xoreutils/yes.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002878170000000027
+
+real	0m0.084s
+user	0m0.069s
+sys	0m0.016s
 xonsh/xonsh/xoreutils/util.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001832689999999998
+
+real	0m0.082s
+user	0m0.071s
+sys	0m0.011s
 xonsh/xonsh/xoreutils/cat.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00024666599999999955
+
+real	0m0.081s
+user	0m0.073s
+sys	0m0.008s
 xonsh/xonsh/xoreutils/umask.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001478689999999984
+
+real	0m0.093s
+user	0m0.081s
+sys	0m0.012s
 xonsh/xonsh/__main__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012904199999999935
+
+real	0m0.086s
+user	0m0.073s
+sys	0m0.014s
 xonsh/xonsh/xonfig.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011323900000000109
+
+real	0m0.099s
+user	0m0.076s
+sys	0m0.023s
 xonsh/xonsh/jobs.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001546540000000006
+
+real	0m0.088s
+user	0m0.075s
+sys	0m0.013s
 xonsh/xonsh/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00021433700000000194
+
+real	0m0.092s
+user	0m0.085s
+sys	0m0.008s
 xonsh/xonsh/ast.py
 --- original/ xonsh/xonsh/ast.py
 +++ fixed/ xonsh/xonsh/ast.py
@@ -1066,191 +1723,332 @@ xonsh/xonsh/ast.py
 
 All done! 💪 😎
 61 imports would be removed, 1 file would be changed.
-0.00011938700000000205
+
+real	0m0.245s
+user	0m0.231s
+sys	0m0.014s
 xonsh/xonsh/webconfig/__main__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013290699999999808
+
+real	0m0.081s
+user	0m0.070s
+sys	0m0.011s
 xonsh/xonsh/webconfig/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015066700000000016
+
+real	0m0.086s
+user	0m0.082s
+sys	0m0.004s
 xonsh/xonsh/webconfig/main.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013484000000000065
+
+real	0m0.089s
+user	0m0.073s
+sys	0m0.016s
 xonsh/xonsh/commands_cache.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-9.949899999999942e-05
+
+real	0m0.098s
+user	0m0.077s
+sys	0m0.022s
 xonsh/xonsh/macutils.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001002800000000012
+
+real	0m0.082s
+user	0m0.065s
+sys	0m0.017s
 xonsh/xonsh/dumb_shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014884199999999972
+
+real	0m0.084s
+user	0m0.067s
+sys	0m0.017s
 xonsh/xonsh/lazyasd.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002150670000000028
+
+real	0m0.081s
+user	0m0.069s
+sys	0m0.012s
 xonsh/xonsh/completer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013778100000000001
+
+real	0m0.083s
+user	0m0.079s
+sys	0m0.004s
 xonsh/xonsh/inspectors.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00018100899999999934
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
 xonsh/xonsh/pretty.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00022142099999999942
+
+real	0m0.092s
+user	0m0.082s
+sys	0m0.010s
 xonsh/xonsh/tools.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011742299999999845
+
+real	0m0.120s
+user	0m0.118s
+sys	0m0.002s
 xonsh/xonsh/main.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.000116372
+
+real	0m0.086s
+user	0m0.067s
+sys	0m0.019s
 xonsh/xonsh/lazyimps.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012180499999999914
+
+real	0m0.091s
+user	0m0.081s
+sys	0m0.010s
 xonsh/xonsh/readline_shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014534899999999948
+
+real	0m0.088s
+user	0m0.075s
+sys	0m0.013s
 xonsh/xonsh/jupyter_shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-9.343700000000177e-05
+
+real	0m0.086s
+user	0m0.078s
+sys	0m0.008s
 xonsh/xonsh/ansi_colors.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014751
+
+real	0m0.091s
+user	0m0.090s
+sys	0m0.001s
 xonsh/xonsh/xontribs.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001846200000000034
+
+real	0m0.089s
+user	0m0.070s
+sys	0m0.019s
 xonsh/xonsh/wizard.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015754000000000115
+
+real	0m0.092s
+user	0m0.081s
+sys	0m0.012s
 xonsh/xonsh/completers/man.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011425799999999903
+
+real	0m0.081s
+user	0m0.077s
+sys	0m0.004s
 xonsh/xonsh/completers/base.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012550899999999934
+
+real	0m0.087s
+user	0m0.085s
+sys	0m0.001s
 xonsh/xonsh/completers/path.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00020367800000000227
+
+real	0m0.091s
+user	0m0.079s
+sys	0m0.012s
 xonsh/xonsh/completers/bash.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011359500000000106
+
+real	0m0.090s
+user	0m0.080s
+sys	0m0.010s
 xonsh/xonsh/completers/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014397299999999863
+
+real	0m0.088s
+user	0m0.079s
+sys	0m0.009s
 xonsh/xonsh/completers/pip.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019079700000000296
+
+real	0m0.092s
+user	0m0.077s
+sys	0m0.016s
 xonsh/xonsh/completers/completer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00030302499999999843
+
+real	0m0.075s
+user	0m0.064s
+sys	0m0.012s
 xonsh/xonsh/completers/tools.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001835980000000001
+
+real	0m0.091s
+user	0m0.081s
+sys	0m0.010s
 xonsh/xonsh/completers/environment.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0003804389999999998
+
+real	0m0.084s
+user	0m0.076s
+sys	0m0.008s
 xonsh/xonsh/completers/dirs.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019251600000000021
+
+real	0m0.086s
+user	0m0.077s
+sys	0m0.010s
 xonsh/xonsh/completers/init.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013971500000000206
+
+real	0m0.084s
+user	0m0.075s
+sys	0m0.010s
 xonsh/xonsh/completers/xompletions.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013766100000000073
+
+real	0m0.086s
+user	0m0.071s
+sys	0m0.015s
 xonsh/xonsh/completers/bash_completion.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001390949999999988
+
+real	0m0.090s
+user	0m0.078s
+sys	0m0.012s
 xonsh/xonsh/completers/_aliases.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016712699999999955
+
+real	0m0.081s
+user	0m0.078s
+sys	0m0.004s
 xonsh/xonsh/completers/commands.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00018418099999999854
+
+real	0m0.087s
+user	0m0.070s
+sys	0m0.018s
 xonsh/xonsh/completers/python.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00017293700000000148
+
+real	0m0.091s
+user	0m0.074s
+sys	0m0.016s
 xonsh/xonsh/shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015163799999999908
+
+real	0m0.088s
+user	0m0.079s
+sys	0m0.009s
 xonsh/xonsh/jupyter_kernel.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014413400000000062
+
+real	0m0.094s
+user	0m0.089s
+sys	0m0.006s
 xonsh/xonsh/parser.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002490129999999993
+
+real	0m0.087s
+user	0m0.081s
+sys	0m0.006s
 xonsh/xonsh/jsonutils.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011659099999999922
+
+real	0m0.085s
+user	0m0.081s
+sys	0m0.004s
 xonsh/xonsh/style_tools.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014604699999999984
+
+real	0m0.094s
+user	0m0.089s
+sys	0m0.006s
 xonsh/xonsh/ptk_shell/key_bindings.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019612199999999996
+
+real	0m0.095s
+user	0m0.077s
+sys	0m0.018s
 xonsh/xonsh/ptk_shell/updator.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014112900000000025
+
+real	0m0.086s
+user	0m0.079s
+sys	0m0.008s
 xonsh/xonsh/ptk_shell/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00023002500000000176
+
+real	0m0.087s
+user	0m0.072s
+sys	0m0.015s
 xonsh/xonsh/ptk_shell/completer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010421999999999862
+
+real	0m0.092s
+user	0m0.071s
+sys	0m0.021s
 xonsh/xonsh/ptk_shell/shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012733200000000083
+
+real	0m0.088s
+user	0m0.080s
+sys	0m0.008s
 xonsh/xonsh/ptk_shell/formatter.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001356670000000025
+
+real	0m0.090s
+user	0m0.086s
+sys	0m0.004s
 xonsh/xonsh/ptk_shell/history.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016769200000000054
+
+real	0m0.076s
+user	0m0.071s
+sys	0m0.005s
 xonsh/xonsh/timings.py
 --- original/ xonsh/xonsh/timings.py
 +++ fixed/ xonsh/xonsh/timings.py
@@ -1266,87 +2064,150 @@ xonsh/xonsh/timings.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00017240899999999837
+
+real	0m0.201s
+user	0m0.189s
+sys	0m0.012s
 xonsh/xonsh/history/sqlite.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-9.895799999999969e-05
+
+real	0m0.087s
+user	0m0.076s
+sys	0m0.012s
 xonsh/xonsh/history/base.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010794800000000007
+
+real	0m0.085s
+user	0m0.080s
+sys	0m0.005s
 xonsh/xonsh/history/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010208399999999881
+
+real	0m0.079s
+user	0m0.075s
+sys	0m0.004s
 xonsh/xonsh/history/main.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001781609999999996
+
+real	0m0.094s
+user	0m0.082s
+sys	0m0.013s
 xonsh/xonsh/history/dummy.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001600749999999991
+
+real	0m0.085s
+user	0m0.075s
+sys	0m0.010s
 xonsh/xonsh/history/json.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012750499999999998
+
+real	0m0.091s
+user	0m0.076s
+sys	0m0.016s
 xonsh/xonsh/proc.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001792800000000004
+
+real	0m0.083s
+user	0m0.080s
+sys	0m0.004s
 xonsh/xonsh/platform.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014436399999999752
+
+real	0m0.092s
+user	0m0.079s
+sys	0m0.014s
 xonsh/xonsh/base_shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00039297599999999974
+
+real	0m0.088s
+user	0m0.069s
+sys	0m0.019s
 xonsh/xonsh/pyghooks.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012337000000000112
+
+real	0m0.109s
+user	0m0.085s
+sys	0m0.024s
 xonsh/xonsh/winutils.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011778299999999978
+
+real	0m0.090s
+user	0m0.076s
+sys	0m0.014s
 xonsh/xonsh/prompt/gitstatus.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011055200000000334
+
+real	0m0.081s
+user	0m0.066s
+sys	0m0.016s
 xonsh/xonsh/prompt/base.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00020491100000000206
+
+real	0m0.086s
+user	0m0.082s
+sys	0m0.004s
 xonsh/xonsh/prompt/vc.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011852600000000074
+
+real	0m0.091s
+user	0m0.086s
+sys	0m0.005s
 xonsh/xonsh/prompt/env.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016010199999999877
+
+real	0m0.077s
+user	0m0.064s
+sys	0m0.013s
 xonsh/xonsh/prompt/times.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00021442399999999778
+
+real	0m0.079s
+user	0m0.071s
+sys	0m0.008s
 xonsh/xonsh/prompt/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002823659999999992
+
+real	0m0.090s
+user	0m0.064s
+sys	0m0.025s
 xonsh/xonsh/prompt/job.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001273720000000006
+
+real	0m0.082s
+user	0m0.065s
+sys	0m0.017s
 xonsh/xonsh/prompt/cwd.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016850000000000198
+
+real	0m0.085s
+user	0m0.078s
+sys	0m0.008s
 xonsh/xonsh/aliases.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00018392999999999882
+
+real	0m0.087s
+user	0m0.083s
+sys	0m0.004s
 xonsh/setup.py
 --- original/ xonsh/setup.py
 +++ fixed/ xonsh/setup.py
@@ -1363,15 +2224,24 @@ xonsh/setup.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00014993499999999688
+
+real	0m0.236s
+user	0m0.221s
+sys	0m0.014s
 xonsh/xonsh-in-docker.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015759900000000132
+
+real	0m0.084s
+user	0m0.073s
+sys	0m0.012s
 xonsh/conftest.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001416279999999978
+
+real	0m0.085s
+user	0m0.063s
+sys	0m0.022s
 xonsh/docs/cmdhelp.py
 --- original/ xonsh/docs/cmdhelp.py
 +++ fixed/ xonsh/docs/cmdhelp.py
@@ -1398,11 +2268,17 @@ xonsh/docs/cmdhelp.py
 
 All done! 💪 😎
 8 imports would be removed, 1 file would be changed.
-0.00016693699999999895
+
+real	0m0.228s
+user	0m0.206s
+sys	0m0.022s
 xonsh/docs/rst_helpers.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002152589999999989
+
+real	0m0.080s
+user	0m0.076s
+sys	0m0.004s
 xonsh/docs/conf.py
 --- original/ xonsh/docs/conf.py
 +++ fixed/ xonsh/docs/conf.py
@@ -1427,123 +2303,213 @@ xonsh/docs/conf.py
 
 All done! 💪 😎
 2 imports would be removed, 1 file would be changed.
-0.00015496399999999702
+
+real	0m0.199s
+user	0m0.186s
+sys	0m0.012s
 xonsh/docs/jinja_rst_ext.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010412700000000247
+
+real	0m0.075s
+user	0m0.056s
+sys	0m0.019s
 xonsh/docs/serve_docs.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013476599999999797
+
+real	0m0.078s
+user	0m0.076s
+sys	0m0.002s
 xonsh/amalgamate.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00026783399999999805
+
+real	0m0.086s
+user	0m0.071s
+sys	0m0.015s
 xonsh/tests/test_parser.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016402899999999956
+
+real	0m0.111s
+user	0m0.102s
+sys	0m0.010s
 xonsh/tests/test_contexts.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016416099999999947
+
+real	0m0.082s
+user	0m0.062s
+sys	0m0.020s
 xonsh/tests/procs/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015676699999999863
+
+real	0m0.071s
+user	0m0.063s
+sys	0m0.008s
 xonsh/tests/procs/test_specs.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001867150000000005
+
+real	0m0.085s
+user	0m0.070s
+sys	0m0.015s
 xonsh/tests/procs/tools.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015662799999999893
+
+real	0m0.081s
+user	0m0.073s
+sys	0m0.008s
 xonsh/tests/test_aliases.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002562920000000017
+
+real	0m0.086s
+user	0m0.070s
+sys	0m0.016s
 xonsh/tests/test_wizard.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015902099999999877
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.013s
 xonsh/tests/test_bashisms.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014634900000000048
+
+real	0m0.079s
+user	0m0.065s
+sys	0m0.014s
 xonsh/tests/test_readline_shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001909130000000009
+
+real	0m0.091s
+user	0m0.084s
+sys	0m0.008s
 xonsh/tests/test_imphooks.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015859199999999907
+
+real	0m0.085s
+user	0m0.073s
+sys	0m0.012s
 xonsh/tests/test_pyghooks.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001365680000000001
+
+real	0m0.091s
+user	0m0.072s
+sys	0m0.019s
 xonsh/tests/aliases/test_completer_alias.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011939799999999973
+
+real	0m0.083s
+user	0m0.075s
+sys	0m0.008s
 xonsh/tests/aliases/test_source.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019616199999999973
+
+real	0m0.092s
+user	0m0.078s
+sys	0m0.014s
 xonsh/tests/aliases/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015512399999999954
+
+real	0m0.078s
+user	0m0.063s
+sys	0m0.015s
 xonsh/tests/aliases/test_xexec.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002598230000000028
+
+real	0m0.080s
+user	0m0.076s
+sys	0m0.004s
 xonsh/tests/test_jsonutils.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016035400000000144
+
+real	0m0.083s
+user	0m0.079s
+sys	0m0.004s
 xonsh/tests/test_xonfig.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00020741300000000004
+
+real	0m0.092s
+user	0m0.092s
+sys	0m0.000s
 xonsh/tests/test_color_tools.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011281400000000275
+
+real	0m0.085s
+user	0m0.071s
+sys	0m0.014s
 xonsh/tests/test_news.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014994399999999908
+
+real	0m0.083s
+user	0m0.069s
+sys	0m0.014s
 xonsh/tests/test_ptk_completer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011121099999999995
+
+real	0m0.086s
+user	0m0.078s
+sys	0m0.008s
 xonsh/tests/test_lazyjson.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013589799999999888
+
+real	0m0.086s
+user	0m0.069s
+sys	0m0.017s
 xonsh/tests/test_platform.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002098120000000002
+
+real	0m0.083s
+user	0m0.071s
+sys	0m0.012s
 xonsh/tests/test_lexer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.000316526000000001
+
+real	0m0.086s
+user	0m0.082s
+sys	0m0.004s
 xonsh/tests/test_lazyasd.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014570599999999892
+
+real	0m0.090s
+user	0m0.075s
+sys	0m0.015s
 xonsh/tests/test_tools.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012573800000000024
+
+real	0m0.104s
+user	0m0.095s
+sys	0m0.010s
 xonsh/tests/test_pipelines.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00037240900000000063
+
+real	0m0.090s
+user	0m0.067s
+sys	0m0.022s
 xonsh/tests/test_environ.py
 --- original/ xonsh/tests/test_environ.py
 +++ fixed/ xonsh/tests/test_environ.py
@@ -1559,19 +2525,31 @@ xonsh/tests/test_environ.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.0001620690000000008
+
+real	0m0.195s
+user	0m0.173s
+sys	0m0.022s
 xonsh/tests/test_builtins.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015066599999999722
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.012s
 xonsh/tests/test_events.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013437800000000097
+
+real	0m0.081s
+user	0m0.077s
+sys	0m0.004s
 xonsh/tests/test_ptk_history.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013759199999999888
+
+real	0m0.087s
+user	0m0.078s
+sys	0m0.010s
 xonsh/tests/test_history_json.py
 --- original/ xonsh/tests/test_history_json.py
 +++ fixed/ xonsh/tests/test_history_json.py
@@ -1587,75 +2565,129 @@ xonsh/tests/test_history_json.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00018798499999999815
+
+real	0m0.207s
+user	0m0.180s
+sys	0m0.028s
 xonsh/tests/test_commands_cache.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010883700000000052
+
+real	0m0.082s
+user	0m0.071s
+sys	0m0.012s
 xonsh/tests/tools.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00017473200000000036
+
+real	0m0.088s
+user	0m0.072s
+sys	0m0.016s
 xonsh/tests/test_dirstack.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00022067099999999867
+
+real	0m0.082s
+user	0m0.074s
+sys	0m0.008s
 xonsh/tests/test_ansi_colors.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00018089500000000036
+
+real	0m0.086s
+user	0m0.087s
+sys	0m0.000s
 xonsh/tests/test_foreign_shells.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014509700000000028
+
+real	0m0.080s
+user	0m0.077s
+sys	0m0.004s
 xonsh/tests/test_ptk_shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015434200000000176
+
+real	0m0.082s
+user	0m0.069s
+sys	0m0.014s
 xonsh/tests/test_mpl.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001134160000000016
+
+real	0m0.087s
+user	0m0.078s
+sys	0m0.010s
 xonsh/tests/test_dirstack_unc.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016383200000000264
+
+real	0m0.096s
+user	0m0.077s
+sys	0m0.020s
 xonsh/tests/test_execer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002226929999999995
+
+real	0m0.091s
+user	0m0.082s
+sys	0m0.009s
 xonsh/tests/conftest.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014747899999999897
+
+real	0m0.077s
+user	0m0.066s
+sys	0m0.012s
 xonsh/tests/test_xoreutils.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001764250000000009
+
+real	0m0.092s
+user	0m0.080s
+sys	0m0.012s
 xonsh/tests/test_path_completers.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001369199999999987
+
+real	0m0.090s
+user	0m0.080s
+sys	0m0.010s
 xonsh/tests/test_base_shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001883540000000017
+
+real	0m0.084s
+user	0m0.076s
+sys	0m0.008s
 xonsh/tests/test_cli_utils.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019065000000000054
+
+real	0m0.079s
+user	0m0.073s
+sys	0m0.006s
 xonsh/tests/completers/test_bash_completer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014373399999999953
+
+real	0m0.088s
+user	0m0.068s
+sys	0m0.020s
 xonsh/tests/completers/test_completer_command.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013630800000000165
+
+real	0m0.080s
+user	0m0.076s
+sys	0m0.004s
 xonsh/tests/completers/test_pip_completer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002293970000000027
+
+real	0m0.084s
+user	0m0.077s
+sys	0m0.008s
 xonsh/tests/completers/test_base_completer.py
 --- original/ xonsh/tests/completers/test_base_completer.py
 +++ fixed/ xonsh/tests/completers/test_base_completer.py
@@ -1671,11 +2703,17 @@ xonsh/tests/completers/test_base_completer.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.0001945269999999999
+
+real	0m0.226s
+user	0m0.202s
+sys	0m0.024s
 xonsh/tests/completers/test_command_completers.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001647219999999991
+
+real	0m0.090s
+user	0m0.079s
+sys	0m0.012s
 xonsh/tests/completers/test_environment_completer.py
 --- original/ xonsh/tests/completers/test_environment_completer.py
 +++ fixed/ xonsh/tests/completers/test_environment_completer.py
@@ -1690,11 +2728,17 @@ xonsh/tests/completers/test_environment_completer.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00012355999999999825
+
+real	0m0.224s
+user	0m0.199s
+sys	0m0.025s
 xonsh/tests/completers/test_xompletions.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011682000000000012
+
+real	0m0.087s
+user	0m0.065s
+sys	0m0.022s
 xonsh/tests/completers/test_dir_completers.py
 --- original/ xonsh/tests/completers/test_dir_completers.py
 +++ fixed/ xonsh/tests/completers/test_dir_completers.py
@@ -1707,19 +2751,31 @@ xonsh/tests/completers/test_dir_completers.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.0003110049999999996
+
+real	0m0.190s
+user	0m0.175s
+sys	0m0.016s
 xonsh/tests/test_shell.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011311400000000096
+
+real	0m0.090s
+user	0m0.073s
+sys	0m0.018s
 xonsh/tests/xpack/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011549899999999808
+
+real	0m0.085s
+user	0m0.077s
+sys	0m0.008s
 xonsh/tests/xpack/sub/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0004596639999999985
+
+real	0m0.084s
+user	0m0.070s
+sys	0m0.014s
 xonsh/tests/test_main.py
 --- original/ xonsh/tests/test_main.py
 +++ fixed/ xonsh/tests/test_main.py
@@ -1736,91 +2792,157 @@ xonsh/tests/test_main.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00018939899999999982
+
+real	0m0.240s
+user	0m0.219s
+sys	0m0.021s
 xonsh/tests/test_history_dummy.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010570099999999971
+
+real	0m0.084s
+user	0m0.071s
+sys	0m0.013s
 xonsh/tests/test_ast.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001413880000000027
+
+real	0m0.089s
+user	0m0.081s
+sys	0m0.008s
 xonsh/tests/test_jupyter_kernel.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019007199999999946
+
+real	0m0.084s
+user	0m0.064s
+sys	0m0.020s
 xonsh/tests/xontribs/test_abbrevs.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013490700000000008
+
+real	0m0.081s
+user	0m0.070s
+sys	0m0.011s
 xonsh/tests/xontribs/test_jedi.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014323200000000008
+
+real	0m0.080s
+user	0m0.068s
+sys	0m0.012s
 xonsh/tests/test_integrations.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015161800000000267
+
+real	0m0.092s
+user	0m0.083s
+sys	0m0.010s
 xonsh/tests/test_vox.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011053000000000104
+
+real	0m0.084s
+user	0m0.080s
+sys	0m0.004s
 xonsh/tests/test_xontribs.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016225899999999793
+
+real	0m0.086s
+user	0m0.075s
+sys	0m0.011s
 xonsh/tests/test_man.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00017664099999999822
+
+real	0m0.082s
+user	0m0.069s
+sys	0m0.013s
 xonsh/tests/fake_lib/jupyter_client/kernelspec.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001896160000000001
+
+real	0m0.083s
+user	0m0.076s
+sys	0m0.008s
 xonsh/tests/fake_lib/jupyter_client/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002537570000000003
+
+real	0m0.081s
+user	0m0.068s
+sys	0m0.014s
 xonsh/tests/test_completion_context.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.000262591999999999
+
+real	0m0.093s
+user	0m0.079s
+sys	0m0.014s
 xonsh/tests/test_history_sqlite.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010916700000000029
+
+real	0m0.081s
+user	0m0.070s
+sys	0m0.011s
 xonsh/tests/test_lib/test_itertools.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013961499999999918
+
+real	0m0.081s
+user	0m0.063s
+sys	0m0.019s
 xonsh/tests/test_lib/test_collections.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019908900000000299
+
+real	0m0.089s
+user	0m0.068s
+sys	0m0.021s
 xonsh/tests/test_ptk_highlight.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011126099999999792
+
+real	0m0.083s
+user	0m0.079s
+sys	0m0.004s
 xonsh/tests/prompt/test_base.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001550449999999995
+
+real	0m0.096s
+user	0m0.080s
+sys	0m0.016s
 xonsh/tests/prompt/test_gitstatus.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00017377000000000017
+
+real	0m0.083s
+user	0m0.078s
+sys	0m0.006s
 xonsh/tests/prompt/test_vc.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015834099999999934
+
+real	0m0.089s
+user	0m0.083s
+sys	0m0.006s
 xonsh/tests/test_completer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013243200000000177
+
+real	0m0.083s
+user	0m0.073s
+sys	0m0.011s
 xonsh/tests/test_ptk_multiline.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00029302499999999884
+
+real	0m0.087s
+user	0m0.079s
+sys	0m0.009s
 xonsh/tests/test_python_completers.py
 --- original/ xonsh/tests/test_python_completers.py
 +++ fixed/ xonsh/tests/test_python_completers.py
@@ -1836,43 +2958,73 @@ xonsh/tests/test_python_completers.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.0001536509999999977
+
+real	0m0.234s
+user	0m0.222s
+sys	0m0.012s
 xonsh/scent.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001446749999999969
+
+real	0m0.090s
+user	0m0.063s
+sys	0m0.027s
 XSStrike/core/dom.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00024471099999999815
+
+real	0m0.091s
+user	0m0.087s
+sys	0m0.004s
 XSStrike/core/colors.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00018261199999999866
+
+real	0m0.081s
+user	0m0.072s
+sys	0m0.010s
 XSStrike/core/filterChecker.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0003008050000000012
+
+real	0m0.084s
+user	0m0.067s
+sys	0m0.016s
 XSStrike/core/log.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00013915200000000003
+
+real	0m0.092s
+user	0m0.088s
+sys	0m0.004s
 XSStrike/core/zetanize.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00010784499999999878
+
+real	0m0.086s
+user	0m0.082s
+sys	0m0.004s
 XSStrike/core/arjun.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00024077299999999968
+
+real	0m0.087s
+user	0m0.076s
+sys	0m0.012s
 XSStrike/core/checker.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014164900000000064
+
+real	0m0.089s
+user	0m0.077s
+sys	0m0.012s
 XSStrike/core/config.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00011885500000000104
+
+real	0m0.086s
+user	0m0.070s
+sys	0m0.017s
 XSStrike/core/generator.py
 --- original/ XSStrike/core/generator.py
 +++ fixed/ XSStrike/core/generator.py
@@ -1885,39 +3037,66 @@ XSStrike/core/generator.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.00011026899999999965
+
+real	0m0.225s
+user	0m0.217s
+sys	0m0.008s
 XSStrike/core/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001080249999999977
+
+real	0m0.084s
+user	0m0.076s
+sys	0m0.008s
 XSStrike/core/requester.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001700520000000004
+
+real	0m0.085s
+user	0m0.077s
+sys	0m0.008s
 XSStrike/core/prompt.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014934500000000211
+
+real	0m0.078s
+user	0m0.059s
+sys	0m0.019s
 XSStrike/core/utils.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0002119129999999976
+
+real	0m0.087s
+user	0m0.073s
+sys	0m0.014s
 XSStrike/core/fuzzer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001020640000000024
+
+real	0m0.080s
+user	0m0.071s
+sys	0m0.010s
 XSStrike/core/jsContexter.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001410469999999983
+
+real	0m0.090s
+user	0m0.074s
+sys	0m0.016s
 XSStrike/core/photon.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00019622000000000042
+
+real	0m0.089s
+user	0m0.077s
+sys	0m0.012s
 XSStrike/core/encoders.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001349869999999996
+
+real	0m0.079s
+user	0m0.075s
+sys	0m0.005s
 XSStrike/core/updater.py
 --- original/ XSStrike/core/updater.py
 +++ fixed/ XSStrike/core/updater.py
@@ -1934,11 +3113,17 @@ XSStrike/core/updater.py
 
 All done! 💪 😎
 3 imports would be removed, 1 file would be changed.
-0.00016581900000000108
+
+real	0m0.229s
+user	0m0.218s
+sys	0m0.012s
 XSStrike/core/wafDetector.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00016200699999999874
+
+real	0m0.082s
+user	0m0.075s
+sys	0m0.008s
 XSStrike/core/htmlParser.py
 --- original/ XSStrike/core/htmlParser.py
 +++ fixed/ XSStrike/core/htmlParser.py
@@ -1956,11 +3141,17 @@ XSStrike/core/htmlParser.py
 
 All done! 💪 😎
 2 imports would be removed, 1 file would be changed.
-0.0001987050000000004
+
+real	0m0.235s
+user	0m0.222s
+sys	0m0.012s
 XSStrike/plugins/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015927200000000197
+
+real	0m0.086s
+user	0m0.077s
+sys	0m0.010s
 XSStrike/plugins/retireJs.py
 --- original/ XSStrike/plugins/retireJs.py
 +++ fixed/ XSStrike/plugins/retireJs.py
@@ -1976,23 +3167,38 @@ XSStrike/plugins/retireJs.py
 
 All done! 💪 😎
 1 import would be removed, 1 file would be changed.
-0.0004073399999999991
+
+real	0m0.195s
+user	0m0.179s
+sys	0m0.016s
 XSStrike/xsstrike.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.0001404560000000006
+
+real	0m0.088s
+user	0m0.069s
+sys	0m0.020s
 XSStrike/modes/singleFuzz.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00015314100000000247
+
+real	0m0.077s
+user	0m0.069s
+sys	0m0.008s
 XSStrike/modes/__init__.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00014370199999999902
+
+real	0m0.082s
+user	0m0.069s
+sys	0m0.014s
 XSStrike/modes/bruteforcer.py
 Looks good! ✨ 🍰 ✨
 1 file would be left unchanged.
-0.00012528499999999929
+
+real	0m0.086s
+user	0m0.072s
+sys	0m0.014s
 XSStrike/modes/scan.py
 --- original/ XSStrike/modes/scan.py
 +++ fixed/ XSStrike/modes/scan.py
@@ -2021,7 +3227,10 @@ XSStrike/modes/scan.py
 
 All done! 💪 😎
 7 imports would be removed, 1 file would be changed.
-0.00017828500000000025
+
+real	0m0.224s
+user	0m0.208s
+sys	0m0.016s
 XSStrike/modes/crawl.py
 --- original/ XSStrike/modes/crawl.py
 +++ fixed/ XSStrike/modes/crawl.py
@@ -2038,4 +3247,7 @@ XSStrike/modes/crawl.py
 
 All done! 💪 😎
 2 imports would be removed, 1 file would be changed.
-0.00026742000000000085
+
+real	0m0.237s
+user	0m0.230s
+sys	0m0.006s
