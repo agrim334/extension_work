@@ -1,0 +1,264 @@
+PythonPlantsVsZombies/main.py
+import pygame as pg
+from source.main import main
+PythonPlantsVsZombies/source/state/mainmenu.py
+import pygame as pg
+from .. import tool
+from .. import constants as c
+PythonPlantsVsZombies/source/state/__init__.py
+PythonPlantsVsZombies/source/state/level.py
+import os
+import json
+import pygame as pg
+from .. import tool
+from .. import constants as c
+from ..component import map, plant, zombie, menubar
+PythonPlantsVsZombies/source/state/screen.py
+import pygame as pg
+from .. import tool
+from .. import constants as c
+PythonPlantsVsZombies/source/tool.py
+import os
+import json
+from abc import abstractmethod
+import pygame as pg
+from . import constants as c
+PythonPlantsVsZombies/source/__init__.py
+PythonPlantsVsZombies/source/main.py
+from . import tool
+from . import constants as c
+from .state import mainmenu, screen, level
+PythonPlantsVsZombies/source/component/__init__.py
+PythonPlantsVsZombies/source/component/menubar.py
+import random
+import pygame as pg
+from .. import tool
+from .. import constants as c
+PythonPlantsVsZombies/source/component/zombie.py
+import pygame as pg
+from .. import tool
+from .. import constants as c
+PythonPlantsVsZombies/source/component/map.py
+import random
+import pygame as pg
+from .. import tool
+from .. import constants as c
+PythonPlantsVsZombies/source/component/plant.py
+import random
+import pygame as pg
+from .. import tool
+from .. import constants as c
+PythonPlantsVsZombies/source/constants.py
+rebound/setup.py
+    from setuptools import setup
+    from distutils.core import setup
+from codecs import open
+import sys
+rebound/rebound/__main__.py
+import sys
+from rebound import main
+rebound/rebound/__init__.py
+rebound/rebound/rebound.py
+import urwid
+import re
+import sys
+import os
+from bs4 import BeautifulSoup
+import requests
+from queue import Queue
+from subprocess import PIPE, Popen
+from threading import Thread
+import webbrowser
+import time
+from urwid.widget import (BOX, FLOW, FIXED)
+import random
+rebound/tests/python_test.py
+import pytest
+import traceback
+import sys
+import os
+import rebound
+rebound/tests/__init__.py
+XSStrike/core/dom.py
+import re
+from core.colors import red, end, yellow
+XSStrike/core/colors.py
+import sys
+import os
+import platform
+XSStrike/core/filterChecker.py
+from core.checker import checker
+XSStrike/core/log.py
+import logging
+from .colors import *
+            import json
+    from types import MethodType
+XSStrike/core/zetanize.py
+import re
+XSStrike/core/arjun.py
+import concurrent.futures
+import re
+from core.colors import green, end
+from core.config import blindParams, xsschecker, threadCount
+from core.requester import requester
+from core.log import setup_logger
+XSStrike/core/checker.py
+import copy
+from fuzzywuzzy import fuzz
+import re
+from urllib.parse import unquote
+from core.config import xsschecker
+from core.requester import requester
+from core.utils import replaceValue, fillHoles
+XSStrike/core/config.py
+XSStrike/core/generator.py
+from core.config import xsschecker, badTags, fillings, eFillings, lFillings, jFillings, eventHandlers, tags, functions
+from core.jsContexter import jsContexter
+from core.utils import randomUpper as r, genGen, extractScripts
+XSStrike/core/__init__.py
+XSStrike/core/requester.py
+import random
+import requests
+import time
+from urllib3.exceptions import ProtocolError
+import warnings
+import core.config
+from core.utils import converter, getVar
+from core.log import setup_logger
+XSStrike/core/prompt.py
+import os
+import tempfile
+from core.config import defaultEditor
+from core.colors import white, yellow
+from core.log import setup_logger
+XSStrike/core/utils.py
+import json
+import random
+import re
+from urllib.parse import urlparse
+import core.config
+from core.config import xsschecker
+XSStrike/core/fuzzer.py
+import copy
+from random import randint
+from time import sleep
+from urllib.parse import unquote
+from core.colors import end, red, green, yellow
+from core.config import fuzzes, xsschecker
+from core.requester import requester
+from core.utils import replaceValue, counter
+from core.log import setup_logger
+XSStrike/core/jsContexter.py
+import re
+from core.config import xsschecker
+from core.utils import stripper
+XSStrike/core/photon.py
+import re
+import concurrent.futures
+from urllib.parse import urlparse
+from core.dom import dom
+from core.log import setup_logger
+from core.utils import getUrl, getParams
+from core.requester import requester
+from core.zetanize import zetanize
+from plugins.retireJs import retireJs
+XSStrike/core/encoders.py
+import base64 as b64
+import re
+XSStrike/core/updater.py
+import os
+import re
+from requests import get
+from core.config import changes
+from core.colors import run, que, good, info, end, green
+from core.log import setup_logger
+XSStrike/core/wafDetector.py
+import json
+import re
+import sys
+from core.requester import requester
+from core.log import setup_logger
+XSStrike/core/htmlParser.py
+import re
+from core.config import badTags, xsschecker
+from core.utils import isBadContext, equalize, escaped, extractScripts
+XSStrike/plugins/__init__.py
+XSStrike/plugins/retireJs.py
+import re
+import json
+import hashlib
+from urllib.parse import urlparse
+from core.colors import green, end
+from core.requester import requester
+from core.utils import deJSON, js_extractor, handle_anchor, getVar, updateVar
+from core.log import setup_logger
+XSStrike/xsstrike.py
+from __future__ import print_function
+from core.colors import end, red, white, bad, info
+    import concurrent.futures
+    from urllib.parse import urlparse
+        import fuzzywuzzy
+        import os
+# Let's import whatever we need from standard lib
+import sys
+import json
+import argparse
+import core.config
+import core.log
+from core.config import blindPayload
+from core.encoders import base64
+from core.photon import photon
+from core.prompt import prompt
+from core.updater import updater
+from core.utils import extractHeaders, reader, converter
+from modes.bruteforcer import bruteforcer
+from modes.crawl import crawl
+from modes.scan import scan
+from modes.singleFuzz import singleFuzz
+    from core.config import headers
+XSStrike/modes/singleFuzz.py
+import copy
+from urllib.parse import urlparse
+from core.colors import green, end
+from core.config import xsschecker
+from core.fuzzer import fuzzer
+from core.requester import requester
+from core.utils import getUrl, getParams
+from core.wafDetector import wafDetector
+from core.log import setup_logger
+XSStrike/modes/__init__.py
+XSStrike/modes/bruteforcer.py
+import copy
+from urllib.parse import urlparse, unquote
+from core.colors import good, green, end
+from core.requester import requester
+from core.utils import getUrl, getParams
+from core.log import setup_logger
+XSStrike/modes/scan.py
+import copy
+import re
+from urllib.parse import urlparse, quote, unquote
+from core.arjun import arjun
+from core.checker import checker
+from core.colors import good, bad, end, info, green, red, que
+import core.config
+from core.config import xsschecker, minEfficiency
+from core.dom import dom
+from core.filterChecker import filterChecker
+from core.generator import generator
+from core.htmlParser import htmlParser
+from core.requester import requester
+from core.utils import getUrl, getParams, getVar
+from core.wafDetector import wafDetector
+from core.log import setup_logger
+XSStrike/modes/crawl.py
+import copy
+import re
+import core.config
+from core.colors import red, good, green, end
+from core.config import xsschecker
+from core.filterChecker import filterChecker
+from core.generator import generator
+from core.htmlParser import htmlParser
+from core.requester import requester
+from core.log import setup_logger
