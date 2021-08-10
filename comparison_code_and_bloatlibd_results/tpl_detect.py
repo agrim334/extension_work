@@ -274,11 +274,11 @@ def vectorize():
 	return
 		
 if __name__ == "__main__":
-	start = time.process_time()
+	start = time.time()
 	nature, sim_files, sim_scores = detect_nature()
+	print("Response time " + str(time.time() - start))
 	results = zip(sim_files, sim_scores)
 	for f,score in results:
 		print(f)
 		print(score)
 	print(nature)
-	print("Response time " + str(time.process_time() - start))

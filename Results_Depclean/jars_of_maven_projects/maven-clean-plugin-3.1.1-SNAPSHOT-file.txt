@@ -1,0 +1,11 @@
+org/apache/maven/plugins/clean/CleanMojo	
+org/apache/maven/plugins/clean/Cleaner	
+org/apache/maven/plugins/clean/Cleaner$1	
+org/apache/maven/plugins/clean/Cleaner$2	
+org/apache/maven/plugins/clean/Cleaner$3	
+org/apache/maven/plugins/clean/Cleaner$Logger	
+org/apache/maven/plugins/clean/Cleaner$Result	
+org/apache/maven/plugins/clean/Fileset	
+org/apache/maven/plugins/clean/GlobSelector	
+org/apache/maven/plugins/clean/HelpMojo	
+org/apache/maven/plugins/clean/Selector	

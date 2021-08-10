@@ -1,0 +1,4 @@
+org/apache/maven/plugins/install/AbstractInstallMojo	
+org/apache/maven/plugins/install/HelpMojo	
+org/apache/maven/plugins/install/InstallFileMojo	
+org/apache/maven/plugins/install/InstallMojo	

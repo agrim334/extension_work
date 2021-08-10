@@ -1,645 +1,821 @@
-06:20:33.697 INFO  jd.cli.Main - Decompiling media/aether-api-0.9.0.M2.jar
-06:20:33.703 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:20:34.444 INFO  jd.core.output.DirOutput - Finished with 126 class file(s) and 4 resource file(s) written.
+16:21:07.695 INFO  jd.cli.Main - Decompiling media/aether-api-0.9.0.M2.jar
+16:21:07.701 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:21:08.388 INFO  jd.core.output.DirOutput - Finished with 126 class file(s) and 4 resource file(s) written.
+Response time 14.534546375274658
 annotations-6.0.2.jar
-0.99941505
+0.9997128
 commons-email-1.2.jar
-0.99929911
+0.99959687
 jcabi-jdbc-0.1.9.jar
 0.99867536
+gson-1.1.jar
+0.99830242
 okio-0.6.0.jar
 0.99818557
-gson-1.1.jar
-0.99806829
 likely-to-be-non-bloat-library
-Response time 14.847371746999999
 aether-api-0.9.0.M2.jar
-
-06:20:51.837 INFO  jd.cli.Main - Decompiling media/aether-impl-1.7.jar
-06:20:51.840 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:20:52.159 INFO  jd.core.output.DirOutput - Finished with 58 class file(s) and 4 resource file(s) written.
+16:21:23.206 INFO  jd.cli.Main - Decompiling media/aether-impl-1.7.jar
+16:21:23.209 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:21:23.529 INFO  jd.core.output.DirOutput - Finished with 58 class file(s) and 4 resource file(s) written.
+Response time 11.03694772720337
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99834845
+0.99837548
 commons-validator-1.0.1.jar
-0.99780336
+0.99785485
 error_prone_annotations-2.0.2.jar
-0.9975946
+0.99764608
 easymock-2.0.jar
-0.9973875
+0.99743898
 jersey-server-2.0-m01.jar
-0.99738278
+0.99740757
 likely-to-be-non-bloat-library
-Response time 11.157007196
 aether-impl-1.7.jar
-
-06:21:04.819 INFO  jd.cli.Main - Decompiling media/aether-util-1.7.jar
-06:21:04.822 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:21:05.157 INFO  jd.core.output.DirOutput - Finished with 78 class file(s) and 3 resource file(s) written.
-commons-email-1.2.jar
-0.99951193
-annotations-6.0.2.jar
-0.99932586
-jcabi-jdbc-0.1.9.jar
-0.99787403
-gson-1.1.jar
-0.99770896
+16:21:35.301 INFO  jd.cli.Main - Decompiling media/aether-util-1.7.jar
+16:21:35.304 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:21:35.614 INFO  jd.core.output.DirOutput - Finished with 78 class file(s) and 3 resource file(s) written.
+Response time 10.990389585494995
+commons-csv-1.0.jar
+0.99959379
 acyclic_2.11-0.1.2.jar
-0.9972898
+0.99953961
+zinc-0.1.0-RC1.jar
+0.99944682
+org.apache.felix.scr.annotations-0.9.0.jar
+0.99875018
+nscala-time_2.9.3-0.2.0.jar
+0.99853755
 likely-to-be-non-bloat-library
-Response time 11.51504179
 aether-util-1.7.jar
-
-06:21:18.709 INFO  jd.cli.Main - Decompiling media/assertj-core-3.20.2.jar
-06:21:18.711 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:21:24.535 INFO  jd.core.output.DirOutput - Finished with 3161 class file(s) and 3 resource file(s) written.
-commons-csv-1.0.jar
-0.99998799
-zinc-0.1.0-RC1.jar
-0.99998718
-acyclic_2.11-0.1.2.jar
-0.99997669
+16:21:47.531 INFO  jd.cli.Main - Decompiling media/assertj-core-3.20.2.jar
+16:21:47.534 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:21:47.623 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.623 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.626 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.667 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.717 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.720 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.728 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.737 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.741 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.746 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.749 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.792 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.801 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:47.804 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.637 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.639 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.642 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.644 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.647 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.661 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.663 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.668 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.670 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.687 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.692 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.694 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.706 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.722 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.724 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.730 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.731 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.732 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.736 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.740 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.746 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.746 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.751 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.760 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.762 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.762 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.780 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.784 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.784 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.788 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.806 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.808 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.809 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.809 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.810 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.811 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.812 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.813 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.813 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.818 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.827 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.840 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.846 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.856 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.860 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.870 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.877 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.877 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.878 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.879 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.883 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.900 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.908 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.911 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.912 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.914 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.920 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.924 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.925 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.930 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.931 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.948 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:52.988 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:53.001 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:53.011 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:53.012 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:53.014 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:53.046 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:53.052 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:21:53.052 INFO  jd.core.output.DirOutput - Finished with 3161 class file(s) and 3 resource file(s) written.
+Response time 41.12615156173706
 geronimo-jta_1.1_spec-1.0.jar
-0.99997618
-org.apache.felix.scr.annotations-0.9.0.jar
-0.9999672
+0.99998732
+commons-csv-1.0.jar
+0.99997485
+zinc-0.1.0-RC1.jar
+0.99997461
+error_prone_annotations-2.0.2.jar
+0.99997455
+commons-validator-1.0.1.jar
+0.99997153
 likely-to-be-non-bloat-library
-Response time 33.249838553000004
 assertj-core-3.20.2.jar
-
-06:21:59.883 INFO  jd.cli.Main - Decompiling media/commons-io-2.10.0.jar
-06:21:59.886 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:22:00.476 INFO  jd.core.output.DirOutput - Finished with 181 class file(s) and 5 resource file(s) written.
+16:22:29.766 INFO  jd.cli.Main - Decompiling media/commons-io-2.10.0.jar
+16:22:29.769 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:22:29.947 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:29.984 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:29.984 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.065 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.096 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.118 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.127 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.127 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.128 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.128 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.151 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.151 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.173 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.178 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.260 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.286 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.286 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.294 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.294 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:30.307 INFO  jd.core.output.DirOutput - Finished with 181 class file(s) and 5 resource file(s) written.
+Response time 12.609107255935669
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99931625
+0.99918479
 commons-validator-1.0.1.jar
-0.99912588
+0.99899442
 error_prone_annotations-2.0.2.jar
-0.99905629
+0.99892483
 jersey-server-2.0-m01.jar
-0.99902645
+0.99890155
 easymock-2.0.jar
-0.99898726
+0.9988558
 likely-to-be-non-bloat-library
-Response time 13.340565235000001
 commons-io-2.10.0.jar
-
-06:22:15.841 INFO  jd.cli.Main - Decompiling media/commons-io-2.6.jar
-06:22:15.845 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:22:16.435 INFO  jd.core.output.DirOutput - Finished with 127 class file(s) and 5 resource file(s) written.
+16:22:43.476 INFO  jd.cli.Main - Decompiling media/commons-io-2.6.jar
+16:22:43.479 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:22:44.009 INFO  jd.core.output.DirOutput - Finished with 127 class file(s) and 5 resource file(s) written.
+Response time 11.694448709487915
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99930184
+0.99922977
 commons-validator-1.0.1.jar
-0.99912218
+0.99897804
 error_prone_annotations-2.0.2.jar
-0.99902412
+0.99887998
 easymock-2.0.jar
-0.99892684
+0.9987827
 jersey-server-2.0-m01.jar
-0.99884278
+0.99877541
 likely-to-be-non-bloat-library
-Response time 12.067852877
 commons-io-2.6.jar
-
-06:22:30.543 INFO  jd.cli.Main - Decompiling media/commons-lang3-3.12.0.jar
-06:22:30.545 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:22:31.448 INFO  jd.core.output.DirOutput - Finished with 287 class file(s) and 5 resource file(s) written.
+16:22:56.347 INFO  jd.cli.Main - Decompiling media/commons-lang3-3.12.0.jar
+16:22:56.350 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:22:56.524 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.529 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.644 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.693 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.716 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.765 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.768 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.791 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.805 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.805 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.867 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.877 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.913 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.948 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.953 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.955 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.955 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.955 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.965 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.970 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.971 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.971 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.971 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.972 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.973 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.973 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.973 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.974 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.974 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.974 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.974 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.975 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.975 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.975 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.976 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.976 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.976 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.976 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.976 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.976 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.977 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.977 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.977 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.977 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.977 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.978 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.978 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.980 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.980 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.980 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.980 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.980 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.980 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:56.981 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:57.026 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:57.034 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:57.035 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:57.038 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:22:57.235 INFO  jd.core.output.DirOutput - Finished with 287 class file(s) and 5 resource file(s) written.
+Response time 12.654017210006714
 commons-csv-1.0.jar
-0.99997071
+0.99994941
 acyclic_2.11-0.1.2.jar
-0.99987219
+0.99987229
 zinc-0.1.0-RC1.jar
-0.99986454
+0.99986028
 org.apache.felix.scr.annotations-0.9.0.jar
-0.99966998
+0.99966572
 jsoup-0.2.1b.jar
-0.99961755
+0.99961342
 likely-to-be-non-bloat-library
-Response time 12.503388434
 commons-lang3-3.12.0.jar
-
-06:22:45.783 INFO  jd.cli.Main - Decompiling media/junit-4.13.1.jar
-06:22:45.786 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:22:46.525 INFO  jd.core.output.DirOutput - Finished with 348 class file(s) and 4 resource file(s) written.
+16:23:10.048 INFO  jd.cli.Main - Decompiling media/junit-4.13.1.jar
+16:23:10.051 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:23:10.722 INFO  jd.core.output.DirOutput - Finished with 348 class file(s) and 4 resource file(s) written.
+Response time 12.932164907455444
 commons-csv-1.0.jar
-0.9998664
-zinc-0.1.0-RC1.jar
-0.99986439
-geronimo-jta_1.1_spec-1.0.jar
-0.99981161
+0.99999887
 acyclic_2.11-0.1.2.jar
-0.9997649
-error_prone_annotations-2.0.2.jar
-0.99970253
+0.99989406
+zinc-0.1.0-RC1.jar
+0.99989272
+org.apache.felix.scr.annotations-0.9.0.jar
+0.99972656
+jsoup-0.2.1b.jar
+0.99968792
 likely-to-be-non-bloat-library
-Response time 12.131964297
 junit-4.13.1.jar
-
-06:23:00.904 INFO  jd.cli.Main - Decompiling media/junit-jupiter-api-5.7.2.jar
-06:23:00.908 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:23:01.264 INFO  jd.core.output.DirOutput - Finished with 117 class file(s) and 4 resource file(s) written.
+16:23:24.474 INFO  jd.cli.Main - Decompiling media/junit-jupiter-api-5.7.2.jar
+16:23:24.478 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:23:24.486 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.515 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.610 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.610 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.611 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.636 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.640 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.716 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.722 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.726 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.730 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.730 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.730 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.731 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.731 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.750 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.750 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.751 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.753 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.753 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.756 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.757 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.758 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.759 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.760 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.761 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.763 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.764 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.765 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.765 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.765 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.766 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.778 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.779 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.790 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.794 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:23:24.802 INFO  jd.core.output.DirOutput - Finished with 117 class file(s) and 4 resource file(s) written.
+Response time 11.616493463516235
 annotations-6.0.2.jar
-0.99828078
+0.99792379
 commons-email-1.2.jar
-0.99815622
+0.99779923
 okio-0.6.0.jar
-0.99770805
+0.99758905
 jcabi-jdbc-0.1.9.jar
-0.99766891
-jts-1.7.jar
-0.99724556
+0.99731192
+trove4j-2.0.2.jar
+0.99710216
 likely-to-be-non-bloat-library
-Response time 10.834107167
 junit-jupiter-api-5.7.2.jar
-
-06:23:14.154 INFO  jd.cli.Main - Decompiling media/maven-archiver-3.5.0.jar
-06:23:14.157 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:23:14.323 INFO  jd.core.output.DirOutput - Finished with 5 class file(s) and 6 resource file(s) written.
+16:23:37.082 INFO  jd.cli.Main - Decompiling media/maven-archiver-3.5.0.jar
+16:23:37.085 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:23:37.241 INFO  jd.core.output.DirOutput - Finished with 5 class file(s) and 6 resource file(s) written.
+Response time 9.780742406845093
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99059091
+0.99157377
 commons-validator-1.0.1.jar
-0.98748519
+0.98936945
 error_prone_annotations-2.0.2.jar
-0.98630849
-jersey-server-2.0-m01.jar
-0.98518399
+0.98819276
 easymock-2.0.jar
-0.98514121
+0.98702548
+jersey-server-2.0-m01.jar
+0.98608118
 likely-to-be-non-bloat-library
-Response time 10.946210562000001
 maven-archiver-3.5.0.jar
-
-06:23:27.408 INFO  jd.cli.Main - Decompiling media/maven-artifact-3.0.jar
-06:23:27.411 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:23:27.635 INFO  jd.core.output.DirOutput - Finished with 32 class file(s) and 6 resource file(s) written.
+16:23:48.236 INFO  jd.cli.Main - Decompiling media/maven-artifact-3.0.jar
+16:23:48.239 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:23:48.439 INFO  jd.core.output.DirOutput - Finished with 32 class file(s) and 6 resource file(s) written.
+Response time 10.921311140060425
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99754535
-commons-validator-1.0.1.jar
-0.99689178
+0.9978567
 error_prone_annotations-2.0.2.jar
-0.99655115
-easymock-2.0.jar
-0.99621326
-jersey-server-2.0-m01.jar
-0.99595887
-likely-to-be-non-bloat-library
-Response time 10.946975365
-maven-artifact-3.0.jar
-
-06:23:40.702 INFO  jd.cli.Main - Decompiling media/maven-artifact-3.1.0.jar
-06:23:40.706 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:23:40.926 INFO  jd.core.output.DirOutput - Finished with 32 class file(s) and 6 resource file(s) written.
-maven-dependency-plugin-2.0-alpha-4.jar
-0.99784708
+0.99774834
 commons-validator-1.0.1.jar
 0.99762939
-error_prone_annotations-2.0.2.jar
-0.99748979
 easymock-2.0.jar
-0.99700547
+0.99721701
 annotations-1.3.7.jar
-0.99663271
+0.99678784
 likely-to-be-non-bloat-library
-Response time 11.248954893
-maven-artifact-3.1.0.jar
-
-06:23:54.207 INFO  jd.cli.Main - Decompiling media/maven-artifact-transfer-0.13.1.jar
-06:23:54.211 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:23:54.548 INFO  jd.core.output.DirOutput - Finished with 108 class file(s) and 7 resource file(s) written.
+maven-artifact-3.0.jar
+16:24:00.234 INFO  jd.cli.Main - Decompiling media/maven-artifact-3.1.0.jar
+16:24:00.237 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:24:00.450 INFO  jd.core.output.DirOutput - Finished with 32 class file(s) and 6 resource file(s) written.
+Response time 9.629432916641235
+maven-dependency-plugin-2.0-alpha-4.jar
+0.9978567
 error_prone_annotations-2.0.2.jar
-0.99955781
-geronimo-jta_1.1_spec-1.0.jar
-0.99947742
-easymock-2.0.jar
-0.99946419
+0.99768816
 commons-validator-1.0.1.jar
-0.99921667
-maven-dependency-plugin-2.0-alpha-4.jar
-0.99911822
-likely-to-be-non-bloat-library
-Response time 10.950138327
-maven-artifact-transfer-0.13.1.jar
-
-06:24:07.563 INFO  jd.cli.Main - Decompiling media/maven-core-3.0.jar
-06:24:07.566 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:24:08.361 INFO  jd.core.output.DirOutput - Finished with 332 class file(s) and 22 resource file(s) written.
-error_prone_annotations-2.0.2.jar
-0.99984889
+0.99762939
 easymock-2.0.jar
-0.99977537
+0.99716777
+annotations-1.3.7.jar
+0.99675173
+likely-to-be-non-bloat-library
+maven-artifact-3.1.0.jar
+16:24:10.932 INFO  jd.cli.Main - Decompiling media/maven-artifact-transfer-0.13.1.jar
+16:24:10.935 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:24:11.258 INFO  jd.core.output.DirOutput - Finished with 108 class file(s) and 7 resource file(s) written.
+Response time 10.49845027923584
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99975327
+0.99924905
+commons-validator-1.0.1.jar
+0.9991249
+error_prone_annotations-2.0.2.jar
+0.99901234
+easymock-2.0.jar
+0.99888107
+annotations-1.3.7.jar
+0.99873229
+likely-to-be-non-bloat-library
+maven-artifact-transfer-0.13.1.jar
+16:24:22.841 INFO  jd.cli.Main - Decompiling media/maven-core-3.0.jar
+16:24:22.844 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:24:23.569 INFO  jd.core.output.DirOutput - Finished with 332 class file(s) and 22 resource file(s) written.
+Response time 12.132068157196045
+error_prone_annotations-2.0.2.jar
+0.99980132
+maven-dependency-plugin-2.0-alpha-4.jar
+0.99976514
 commons-validator-1.0.1.jar
 0.99974553
+easymock-2.0.jar
+0.99973652
 geronimo-jta_1.1_spec-1.0.jar
-0.99974054
+0.99969306
 likely-to-be-non-bloat-library
-Response time 12.58269614
 maven-core-3.0.jar
-
-06:24:22.657 INFO  jd.cli.Main - Decompiling media/maven-core-3.1.0.jar
-06:24:22.660 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:24:23.469 INFO  jd.core.output.DirOutput - Finished with 347 class file(s) and 23 resource file(s) written.
-error_prone_annotations-2.0.2.jar
-0.99981562
+16:24:36.397 INFO  jd.cli.Main - Decompiling media/maven-core-3.1.0.jar
+16:24:36.399 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:24:37.198 INFO  jd.core.output.DirOutput - Finished with 347 class file(s) and 23 resource file(s) written.
+Response time 12.820958614349365
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99977385
-commons-validator-1.0.1.jar
-0.99975653
-easymock-2.0.jar
-0.99975251
-geronimo-jta_1.1_spec-1.0.jar
-0.99971198
-likely-to-be-non-bloat-library
-Response time 12.322185237
-maven-core-3.1.0.jar
-
-06:24:37.973 INFO  jd.cli.Main - Decompiling media/maven-core-3.1.1.jar
-06:24:37.976 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:24:38.777 INFO  jd.core.output.DirOutput - Finished with 347 class file(s) and 23 resource file(s) written.
-maven-dependency-plugin-2.0-alpha-4.jar
-0.99977545
+0.99977988
 commons-validator-1.0.1.jar
 0.99975653
 error_prone_annotations-2.0.2.jar
-0.99972845
+0.99975094
 easymock-2.0.jar
-0.99968119
+0.99969958
 annotations-1.3.7.jar
-0.9996414
+0.99965942
 likely-to-be-non-bloat-library
-Response time 12.53514897
+maven-core-3.1.0.jar
+16:24:50.288 INFO  jd.cli.Main - Decompiling media/maven-core-3.1.1.jar
+16:24:50.291 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:24:51.057 INFO  jd.core.output.DirOutput - Finished with 347 class file(s) and 23 resource file(s) written.
+Response time 13.282516956329346
+maven-dependency-plugin-2.0-alpha-4.jar
+0.99964152
+commons-validator-1.0.1.jar
+0.99954582
+error_prone_annotations-2.0.2.jar
+0.99951084
+jersey-server-2.0-m01.jar
+0.99949692
+easymock-2.0.jar
+0.99947614
+likely-to-be-non-bloat-library
 maven-core-3.1.1.jar
-
-06:24:53.375 INFO  jd.cli.Main - Decompiling media/maven-filtering-3.1.1.jar
-06:24:53.378 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:24:53.572 INFO  jd.core.output.DirOutput - Finished with 22 class file(s) and 7 resource file(s) written.
+16:25:04.731 INFO  jd.cli.Main - Decompiling media/maven-filtering-3.1.1.jar
+16:25:04.734 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:25:04.992 INFO  jd.core.output.DirOutput - Finished with 22 class file(s) and 7 resource file(s) written.
+Response time 10.29757046699524
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99410134
+0.99387312
 commons-validator-1.0.1.jar
-0.99288034
+0.99265212
 error_prone_annotations-2.0.2.jar
-0.99243401
+0.99220579
 jersey-server-2.0-m01.jar
-0.99228469
+0.99205646
 easymock-2.0.jar
-0.99199125
+0.99176302
 likely-to-be-non-bloat-library
-Response time 10.494595138000001
 maven-filtering-3.1.1.jar
-
-06:25:06.153 INFO  jd.cli.Main - Decompiling media/maven-mapping-3.0.0.jar
-06:25:06.156 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:25:06.240 INFO  jd.core.output.DirOutput - Finished with 2 class file(s) and 6 resource file(s) written.
+16:25:16.386 INFO  jd.cli.Main - Decompiling media/maven-mapping-3.0.0.jar
+16:25:16.389 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:25:16.475 INFO  jd.core.output.DirOutput - Finished with 2 class file(s) and 6 resource file(s) written.
+Response time 9.632145404815674
 maven-dependency-plugin-2.0-alpha-4.jar
-0.97807776
+0.98382092
 commons-validator-1.0.1.jar
-0.97365163
+0.9793948
 error_prone_annotations-2.0.2.jar
-0.97203368
+0.97777684
 jersey-server-2.0-m01.jar
-0.97149238
+0.97710413
 easymock-2.0.jar
-0.97042867
+0.97617183
 likely-to-be-non-bloat-library
-Response time 10.334135351
 maven-mapping-3.0.0.jar
-
-06:25:18.750 INFO  jd.cli.Main - Decompiling media/maven-model-3.1.0.jar
-06:25:18.754 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:25:19.203 INFO  jd.core.output.DirOutput - Finished with 50 class file(s) and 6 resource file(s) written.
+16:25:27.494 INFO  jd.cli.Main - Decompiling media/maven-model-3.1.0.jar
+16:25:27.496 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:25:27.903 INFO  jd.core.output.DirOutput - Finished with 50 class file(s) and 6 resource file(s) written.
+Response time 10.345731735229492
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99838659
+0.99847542
 commons-validator-1.0.1.jar
-0.99799535
+0.9982731
 error_prone_annotations-2.0.2.jar
-0.99776421
+0.99804197
 easymock-2.0.jar
-0.99753237
-jersey-server-2.0-m01.jar
-0.99729377
+0.99775962
+annotations-1.3.7.jar
+0.99746686
 likely-to-be-non-bloat-library
-Response time 11.166620234
 maven-model-3.1.0.jar
-
-06:25:32.354 INFO  jd.cli.Main - Decompiling media/maven-model-builder-3.0.jar
-06:25:32.357 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:25:32.731 INFO  jd.core.output.DirOutput - Finished with 109 class file(s) and 8 resource file(s) written.
+16:25:39.418 INFO  jd.cli.Main - Decompiling media/maven-model-builder-3.0.jar
+16:25:39.421 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:25:39.839 INFO  jd.core.output.DirOutput - Finished with 109 class file(s) and 8 resource file(s) written.
+Response time 12.361489295959473
 error_prone_annotations-2.0.2.jar
-0.99958876
+0.99953625
 easymock-2.0.jar
-0.99940481
-geronimo-jta_1.1_spec-1.0.jar
-0.99933539
+0.99931503
+maven-dependency-plugin-2.0-alpha-4.jar
+0.99925513
 commons-validator-1.0.1.jar
 0.99923006
-maven-dependency-plugin-2.0-alpha-4.jar
-0.99922341
+geronimo-jta_1.1_spec-1.0.jar
+0.99920849
 likely-to-be-non-bloat-library
-Response time 11.169671445
 maven-model-builder-3.0.jar
-
-06:25:46.032 INFO  jd.cli.Main - Decompiling media/maven-plugin-annotations-3.5.2.jar
-06:25:46.035 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:25:46.137 INFO  jd.core.output.DirOutput - Finished with 7 class file(s) and 6 resource file(s) written.
+16:25:52.870 INFO  jd.cli.Main - Decompiling media/maven-plugin-annotations-3.5.2.jar
+16:25:52.873 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:25:52.973 INFO  jd.core.output.DirOutput - Finished with 7 class file(s) and 6 resource file(s) written.
+Response time 10.558254957199097
 maven-dependency-plugin-2.0-alpha-4.jar
-0.9864817
+0.98717966
 commons-validator-1.0.1.jar
-0.98375793
+0.98445589
 error_prone_annotations-2.0.2.jar
-0.98276226
+0.98346022
 jersey-server-2.0-m01.jar
-0.98242916
+0.98312712
 easymock-2.0.jar
-0.98177456
+0.98247253
 likely-to-be-non-bloat-library
-Response time 10.335422857000001
 maven-plugin-annotations-3.5.2.jar
-
-06:25:58.543 INFO  jd.cli.Main - Decompiling media/maven-plugin-annotations-3.6.0.jar
-06:25:58.546 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:25:58.645 INFO  jd.core.output.DirOutput - Finished with 7 class file(s) and 6 resource file(s) written.
+16:26:04.737 INFO  jd.cli.Main - Decompiling media/maven-plugin-annotations-3.6.0.jar
+16:26:04.741 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:26:04.840 INFO  jd.core.output.DirOutput - Finished with 7 class file(s) and 6 resource file(s) written.
+Response time 10.12082028388977
 maven-dependency-plugin-2.0-alpha-4.jar
-0.98704605
+0.98652936
 commons-validator-1.0.1.jar
-0.98432228
+0.98380559
 error_prone_annotations-2.0.2.jar
-0.98332662
+0.98280992
 jersey-server-2.0-m01.jar
-0.98299351
+0.98247682
 easymock-2.0.jar
-0.98233892
+0.98182223
 likely-to-be-non-bloat-library
-Response time 10.907157307
 maven-plugin-annotations-3.6.0.jar
-
-06:26:11.594 INFO  jd.cli.Main - Decompiling media/maven-plugin-api-3.0.jar
-06:26:11.597 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:26:11.804 INFO  jd.core.output.DirOutput - Finished with 25 class file(s) and 6 resource file(s) written.
+16:26:16.191 INFO  jd.cli.Main - Decompiling media/maven-plugin-api-3.0.jar
+16:26:16.194 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:26:16.390 INFO  jd.core.output.DirOutput - Finished with 25 class file(s) and 6 resource file(s) written.
+Response time 10.658677339553833
 error_prone_annotations-2.0.2.jar
-0.99828995
-geronimo-jta_1.1_spec-1.0.jar
-0.99813107
+0.9985234
 easymock-2.0.jar
-0.99799258
+0.99789776
+geronimo-jta_1.1_spec-1.0.jar
+0.99771813
 commons-validator-1.0.1.jar
 0.9970941
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99662438
+0.99697967
 likely-to-be-non-bloat-library
-Response time 10.490009065999999
 maven-plugin-api-3.0.jar
-
-06:26:24.383 INFO  jd.cli.Main - Decompiling media/maven-plugin-api-3.1.1.jar
-06:26:24.386 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:26:24.576 INFO  jd.core.output.DirOutput - Finished with 25 class file(s) and 6 resource file(s) written.
+16:26:28.201 INFO  jd.cli.Main - Decompiling media/maven-plugin-api-3.1.1.jar
+16:26:28.204 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:26:28.375 INFO  jd.core.output.DirOutput - Finished with 25 class file(s) and 6 resource file(s) written.
+Response time 9.950698375701904
 error_prone_annotations-2.0.2.jar
-0.99851792
-easymock-2.0.jar
-0.99791475
+0.99833987
 geronimo-jta_1.1_spec-1.0.jar
-0.99774482
+0.99808115
+easymock-2.0.jar
+0.99800743
 commons-validator-1.0.1.jar
 0.9970941
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99696633
+0.99669926
 likely-to-be-non-bloat-library
-Response time 10.9313519
 maven-plugin-api-3.1.1.jar
-
-06:26:37.595 INFO  jd.cli.Main - Decompiling media/maven-plugin-testing-harness-2.1.jar
-06:26:37.599 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:26:37.795 INFO  jd.core.output.DirOutput - Finished with 11 class file(s) and 7 resource file(s) written.
+16:26:39.230 INFO  jd.cli.Main - Decompiling media/maven-plugin-testing-harness-2.1.jar
+16:26:39.233 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:26:39.398 INFO  jd.core.output.DirOutput - Finished with 11 class file(s) and 7 resource file(s) written.
+Response time 9.798670291900635
 error_prone_annotations-2.0.2.jar
-0.99624859
-maven-dependency-plugin-2.0-alpha-4.jar
-0.99534261
+0.99716673
+geronimo-jta_1.1_spec-1.0.jar
+0.99666948
+easymock-2.0.jar
+0.9965754
 commons-validator-1.0.1.jar
 0.99499539
-easymock-2.0.jar
-0.99494468
-geronimo-jta_1.1_spec-1.0.jar
-0.99411816
+maven-dependency-plugin-2.0-alpha-4.jar
+0.99435414
 likely-to-be-non-bloat-library
-Response time 10.454395423000001
 maven-plugin-testing-harness-2.1.jar
-
-06:26:50.256 INFO  jd.cli.Main - Decompiling media/maven-plugin-testing-harness-3.1.0.jar
-06:26:50.259 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:26:50.457 INFO  jd.core.output.DirOutput - Finished with 16 class file(s) and 7 resource file(s) written.
+16:26:50.317 INFO  jd.cli.Main - Decompiling media/maven-plugin-testing-harness-3.1.0.jar
+16:26:50.319 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:26:50.509 INFO  jd.core.output.DirOutput - Finished with 16 class file(s) and 7 resource file(s) written.
+Response time 10.264877319335938
 geronimo-jta_1.1_spec-1.0.jar
-0.99811925
+0.99825813
+commons-csv-1.0.jar
+0.99653723
+zinc-0.1.0-RC1.jar
+0.99650789
 error_prone_annotations-2.0.2.jar
-0.99705691
-easymock-2.0.jar
-0.99676457
+0.99650087
 commons-validator-1.0.1.jar
 0.99608335
-commons-csv-1.0.jar
-0.99486911
 likely-to-be-non-bloat-library
-Response time 10.803484285
 maven-plugin-testing-harness-3.1.0.jar
-
-06:27:02.959 INFO  jd.cli.Main - Decompiling media/maven-shared-utils-3.1.0.jar
-06:27:02.962 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:27:03.403 INFO  jd.core.output.DirOutput - Finished with 82 class file(s) and 7 resource file(s) written.
+16:27:01.650 INFO  jd.cli.Main - Decompiling media/maven-shared-utils-3.1.0.jar
+16:27:01.653 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:27:02.058 INFO  jd.core.output.DirOutput - Finished with 82 class file(s) and 7 resource file(s) written.
+Response time 10.582632780075073
 error_prone_annotations-2.0.2.jar
-0.99938679
+0.99941681
+geronimo-jta_1.1_spec-1.0.jar
+0.99933658
 easymock-2.0.jar
-0.99909662
-maven-dependency-plugin-2.0-alpha-4.jar
-0.99902168
+0.99930461
 commons-validator-1.0.1.jar
 0.99898783
-geronimo-jta_1.1_spec-1.0.jar
-0.99895591
+maven-dependency-plugin-2.0-alpha-4.jar
+0.99884289
 likely-to-be-non-bloat-library
-Response time 10.625274882000001
 maven-shared-utils-3.1.0.jar
-
-06:27:16.031 INFO  jd.cli.Main - Decompiling media/maven-shared-utils-3.2.1.jar
-06:27:16.034 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:27:16.483 INFO  jd.core.output.DirOutput - Finished with 84 class file(s) and 7 resource file(s) written.
+16:27:13.598 INFO  jd.cli.Main - Decompiling media/maven-shared-utils-3.2.1.jar
+16:27:13.601 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:27:14.022 INFO  jd.core.output.DirOutput - Finished with 84 class file(s) and 7 resource file(s) written.
+Response time 10.817949056625366
 error_prone_annotations-2.0.2.jar
-0.99949179
+0.99943516
 easymock-2.0.jar
-0.99929598
+0.99916419
 geronimo-jta_1.1_spec-1.0.jar
-0.99924172
+0.99903718
+maven-dependency-plugin-2.0-alpha-4.jar
+0.9990286
 commons-validator-1.0.1.jar
 0.99901008
-maven-dependency-plugin-2.0-alpha-4.jar
-0.99896156
 likely-to-be-non-bloat-library
-Response time 10.93280924
 maven-shared-utils-3.2.1.jar
-
-06:27:29.489 INFO  jd.cli.Main - Decompiling media/maven-shared-utils-3.3.3.jar
-06:27:29.492 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:27:29.977 INFO  jd.core.output.DirOutput - Finished with 79 class file(s) and 7 resource file(s) written.
+16:27:25.501 INFO  jd.cli.Main - Decompiling media/maven-shared-utils-3.3.3.jar
+16:27:25.504 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:27:25.954 INFO  jd.core.output.DirOutput - Finished with 79 class file(s) and 7 resource file(s) written.
+Response time 10.562184572219849
 error_prone_annotations-2.0.2.jar
-0.99946398
+0.99934836
 easymock-2.0.jar
-0.99925173
-geronimo-jta_1.1_spec-1.0.jar
-0.99919242
+0.99905117
+maven-dependency-plugin-2.0-alpha-4.jar
+0.99899181
 commons-validator-1.0.1.jar
 0.99895252
-maven-dependency-plugin-2.0-alpha-4.jar
-0.9989038
+geronimo-jta_1.1_spec-1.0.jar
+0.99890245
 likely-to-be-non-bloat-library
-Response time 10.766304031
 maven-shared-utils-3.3.3.jar
-
-06:27:42.871 INFO  jd.cli.Main - Decompiling media/mockito-core-2.28.2.jar
-06:27:42.874 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:27:43.763 INFO  jd.core.output.DirOutput - Finished with 562 class file(s) and 3 resource file(s) written.
-acyclic_2.11-0.1.2.jar
-0.99990281
-zinc-0.1.0-RC1.jar
-0.99984081
-commons-csv-1.0.jar
-0.99983962
-nscala-time_2.9.3-0.2.0.jar
-0.99978767
-org.apache.felix.scr.annotations-0.9.0.jar
-0.99976502
-likely-to-be-non-bloat-library
-Response time 13.788123695
-mockito-core-2.28.2.jar
-
-06:27:59.696 INFO  jd.cli.Main - Decompiling media/mockito-core-3.10.0.jar
-06:27:59.699 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:28:00.611 INFO  jd.core.output.DirOutput - Finished with 574 class file(s) and 3 resource file(s) written.
-acyclic_2.11-0.1.2.jar
-0.99993537
-commons-csv-1.0.jar
-0.99992231
-zinc-0.1.0-RC1.jar
-0.99990994
-org.apache.felix.scr.annotations-0.9.0.jar
-0.99982042
-nscala-time_2.9.3-0.2.0.jar
-0.99979672
-likely-to-be-non-bloat-library
-Response time 13.311642827
-mockito-core-3.10.0.jar
-
-06:28:15.847 INFO  jd.cli.Main - Decompiling media/org.eclipse.sisu.plexus-0.0.0.M2a.jar
-06:28:15.850 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:28:16.273 INFO  jd.core.output.DirOutput - Finished with 165 class file(s) and 5 resource file(s) written.
-org.eclipse.sisu.plexus-0.0.0.M2a.jar
-0.99947633
+16:27:37.410 INFO  jd.cli.Main - Decompiling media/mockito-core-2.28.2.jar
+16:27:37.413 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:27:38.212 INFO  jd.core.output.DirOutput - Finished with 562 class file(s) and 3 resource file(s) written.
+Response time 13.85220217704773
+commons-email-1.2.jar
+0.99994119
 annotations-6.0.2.jar
-0.99938767
+0.99991452
+jcabi-jdbc-0.1.9.jar
+0.99969522
+gson-1.1.jar
+0.99966827
 acyclic_2.11-0.1.2.jar
-0.99899979
+0.99960029
+likely-to-be-non-bloat-library
+mockito-core-2.28.2.jar
+16:27:52.355 INFO  jd.cli.Main - Decompiling media/mockito-core-3.10.0.jar
+16:27:52.359 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:27:52.531 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.587 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.596 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.597 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.597 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.634 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.698 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.705 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.708 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.798 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.918 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:52.928 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:53.111 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:53.191 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:53.195 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:53.195 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:53.236 WARN  jd.core.output.DirOutput - Class name or java source is null
+16:27:53.260 INFO  jd.core.output.DirOutput - Finished with 574 class file(s) and 3 resource file(s) written.
+Response time 13.81455373764038
+commons-email-1.2.jar
+0.99979509
+annotations-6.0.2.jar
+0.99976897
+acyclic_2.11-0.1.2.jar
+0.99975594
+gson-1.1.jar
+0.99970961
+jcabi-jdbc-0.1.9.jar
+0.99970155
+likely-to-be-non-bloat-library
+mockito-core-3.10.0.jar
+16:28:07.501 INFO  jd.cli.Main - Decompiling media/org.eclipse.sisu.plexus-0.0.0.M2a.jar
+16:28:07.504 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:28:07.930 INFO  jd.core.output.DirOutput - Finished with 165 class file(s) and 5 resource file(s) written.
+Response time 11.030441761016846
+org.eclipse.sisu.plexus-0.0.0.M2a.jar
+0.9997428
+annotations-6.0.2.jar
+0.99965414
 jcabi-jdbc-0.1.9.jar
 0.99898704
 gson-1.1.jar
-0.99898619
+0.99891564
+acyclic_2.11-0.1.2.jar
+0.99873332
 likely-to-be-non-bloat-library
-Response time 11.330456668
 org.eclipse.sisu.plexus-0.0.0.M2a.jar
-
-06:28:29.717 INFO  jd.cli.Main - Decompiling media/plexus-archiver-4.2.2.jar
-06:28:29.722 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:28:30.241 INFO  jd.core.output.DirOutput - Finished with 132 class file(s) and 4 resource file(s) written.
+16:28:19.731 INFO  jd.cli.Main - Decompiling media/plexus-archiver-4.2.2.jar
+16:28:19.734 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:28:20.203 INFO  jd.core.output.DirOutput - Finished with 132 class file(s) and 4 resource file(s) written.
+Response time 10.360111474990845
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99904153
+0.9987811
 commons-validator-1.0.1.jar
-0.99878117
+0.99852074
 error_prone_annotations-2.0.2.jar
-0.998686
+0.99842557
 jersey-server-2.0-m01.jar
-0.99864692
+0.99839373
 easymock-2.0.jar
-0.99859159
+0.99833116
 likely-to-be-non-bloat-library
-Response time 11.278149884000001
 plexus-archiver-4.2.2.jar
-
-06:28:43.617 INFO  jd.cli.Main - Decompiling media/plexus-archiver-4.2.5.jar
-06:28:43.620 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:28:44.127 INFO  jd.core.output.DirOutput - Finished with 132 class file(s) and 4 resource file(s) written.
+16:28:31.156 INFO  jd.cli.Main - Decompiling media/plexus-archiver-4.2.5.jar
+16:28:31.159 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:28:31.651 INFO  jd.core.output.DirOutput - Finished with 132 class file(s) and 4 resource file(s) written.
+Response time 11.117098808288574
 maven-dependency-plugin-2.0-alpha-4.jar
-0.99869038
+0.99932884
 commons-validator-1.0.1.jar
-0.99843002
+0.99916093
 error_prone_annotations-2.0.2.jar
-0.99833468
-jersey-server-2.0-m01.jar
-0.998303
+0.99906576
 easymock-2.0.jar
-0.99824043
+0.99897134
+jersey-server-2.0-m01.jar
+0.99888111
 likely-to-be-non-bloat-library
-Response time 10.960445574
 plexus-archiver-4.2.5.jar
-
-06:28:57.181 INFO  jd.cli.Main - Decompiling media/plexus-interpolation-1.26.jar
-06:28:57.183 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:28:57.474 INFO  jd.core.output.DirOutput - Finished with 62 class file(s) and 3 resource file(s) written.
+16:28:43.338 INFO  jd.cli.Main - Decompiling media/plexus-interpolation-1.26.jar
+16:28:43.341 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:28:43.626 INFO  jd.core.output.DirOutput - Finished with 62 class file(s) and 3 resource file(s) written.
+Response time 10.07311201095581
 commons-csv-1.0.jar
-0.99946083
+0.99977405
 zinc-0.1.0-RC1.jar
-0.99940299
+0.99946299
 acyclic_2.11-0.1.2.jar
-0.99891155
+0.99922477
 geronimo-jta_1.1_spec-1.0.jar
-0.99879548
+0.99848226
 org.apache.felix.scr.annotations-0.9.0.jar
-0.9984126
+0.99847524
 likely-to-be-non-bloat-library
-Response time 10.915428811999998
 plexus-interpolation-1.26.jar
-
-06:29:10.482 INFO  jd.cli.Main - Decompiling media/plexus-utils-2.0.4.jar
-06:29:10.485 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:29:11.007 INFO  jd.core.output.DirOutput - Finished with 94 class file(s) and 8 resource file(s) written.
+16:28:54.917 INFO  jd.cli.Main - Decompiling media/plexus-utils-2.0.4.jar
+16:28:54.920 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:28:55.408 INFO  jd.core.output.DirOutput - Finished with 94 class file(s) and 8 resource file(s) written.
+Response time 10.94887900352478
 commons-csv-1.0.jar
-0.99973586
-zinc-0.1.0-RC1.jar
-0.99966722
+0.99968771
 acyclic_2.11-0.1.2.jar
-0.99938582
-geronimo-jta_1.1_spec-1.0.jar
-0.99915297
+0.9996344
+zinc-0.1.0-RC1.jar
+0.99956642
 org.apache.felix.scr.annotations-0.9.0.jar
-0.99900431
+0.99900955
+nscala-time_2.9.3-0.2.0.jar
+0.99883693
 likely-to-be-non-bloat-library
-Response time 11.175637553
 plexus-utils-2.0.4.jar
-
-06:29:24.147 INFO  jd.cli.Main - Decompiling media/plexus-utils-3.0.15.jar
-06:29:24.150 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:29:24.730 INFO  jd.core.output.DirOutput - Finished with 103 class file(s) and 8 resource file(s) written.
+16:29:06.916 INFO  jd.cli.Main - Decompiling media/plexus-utils-3.0.15.jar
+16:29:06.918 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:29:07.464 INFO  jd.core.output.DirOutput - Finished with 103 class file(s) and 8 resource file(s) written.
+Response time 11.254314661026001
 commons-csv-1.0.jar
-0.99986193
-acyclic_2.11-0.1.2.jar
-0.99966404
+0.99975457
 zinc-0.1.0-RC1.jar
-0.99963146
-org.apache.felix.scr.annotations-0.9.0.jar
-0.99911964
-jsoup-0.2.1b.jar
-0.99898185
-likely-to-be-non-bloat-library
-Response time 11.209384292
-plexus-utils-3.0.15.jar
-
-06:29:38.123 INFO  jd.cli.Main - Decompiling media/plexus-utils-3.3.0.jar
-06:29:38.127 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
-06:29:38.744 INFO  jd.core.output.DirOutput - Finished with 105 class file(s) and 8 resource file(s) written.
-commons-csv-1.0.jar
-0.99984985
-zinc-0.1.0-RC1.jar
-0.99969514
+0.99969258
 acyclic_2.11-0.1.2.jar
-0.99953389
+0.99943292
 geronimo-jta_1.1_spec-1.0.jar
-0.99914715
+0.99922435
 org.apache.felix.scr.annotations-0.9.0.jar
-0.99911889
+0.99908441
 likely-to-be-non-bloat-library
-Response time 11.079512357999999
+plexus-utils-3.0.15.jar
+16:29:19.440 INFO  jd.cli.Main - Decompiling media/plexus-utils-3.3.0.jar
+16:29:19.442 INFO  jd.core.output.DirOutput - Directory output will be initialized for path decompiledLib
+16:29:20.012 INFO  jd.core.output.DirOutput - Finished with 105 class file(s) and 8 resource file(s) written.
+Response time 10.79012155532837
+commons-csv-1.0.jar
+0.99979775
+acyclic_2.11-0.1.2.jar
+0.99966999
+zinc-0.1.0-RC1.jar
+0.99962466
+org.apache.felix.scr.annotations-0.9.0.jar
+0.99912189
+jsoup-0.2.1b.jar
+0.99898137
+likely-to-be-non-bloat-library
 plexus-utils-3.3.0.jar
